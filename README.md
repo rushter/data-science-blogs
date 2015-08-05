@@ -36,3 +36,7 @@ A curated list of data science blogs
 * Yanir Seroussi http://yanirseroussi.com/ [(RSS)] (http://yanirseroussi.com/feed/)
 * Life, Language, Learning http://daoudclarke.github.io/ [(RSS)] (http://daoudclarke.github.io/atom.xml)
 * M.E.Driscoll http://medriscoll.com/ [(RSS)] (http://medriscoll.com/rss)
+ 
+# RSS
+You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
+
