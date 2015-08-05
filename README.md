@@ -26,7 +26,7 @@ A curated list of data science blogs
 * Revolutions http://blog.revolutionanalytics.com/ [(RSS)] (http://blog.revolutionanalytics.com/atom.xml)
 * KDnuggets http://www.kdnuggets.com/ [(RSS)] (http://feeds.feedburner.com/kdnuggets-data-mining-analytics)
 * Wellecks http://wellecks.wordpress.com/ [(RSS)] (http://wellecks.wordpress.com/feed/)
-* PyImageSearch http://feeds.feedburner.com/Pyimagesearch [(RSS)] (http://www.pyimagesearch.com/)
+* PyImageSearch http://www.pyimagesearch.com/ [(RSS)] (http://feeds.feedburner.com/Pyimagesearch)
 * Data Mining Research http://www.dataminingblog.com/ [(RSS)] (http://feeds.feedburner.com/dataminingblog)
 * Trey Causey http://treycausey.com/ [(RSS)] (http://treycausey.com/feeds/all.atom.xml)
 * Deep Learning https://timdettmers.wordpress.com/ [(RSS)] (http://timdettmers.wordpress.com/feed/)
