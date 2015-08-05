@@ -20,7 +20,7 @@
 			<outline type="rss" text="Data Mining: Text Mining, Visualization and Social Media" title="Data Mining: Text Mining, Visualization and Social Media" xmlUrl="http://datamining.typepad.com/data_mining/atom.xml" htmlUrl="http://datamining.typepad.com/data_mining/"/>
 			<outline type="rss" text="FastML" title="FastML" xmlUrl="http://fastml.com/atom.xml" htmlUrl="http://fastml.com/"/>
 			<outline type="rss" text="Garbled Notes" title="Garbled Notes" xmlUrl="http://www.chioka.in/feed/" htmlUrl="http://www.chioka.in/"/>
-			<outline type="rss" text="Joy Of Data" title="Joy Of Data" xmlUrl="http://www.joyofdata.de/blog/feed/" htmlUrl="http://www.joyofdata.de/blog/feed/"/>
+			<outline type="rss" text="Joy Of Data" title="Joy Of Data" xmlUrl="http://www.joyofdata.de/blog/feed/" htmlUrl="http://www.joyofdata.de/blog/"/>
 			<outline type="rss" text="MLWave" title="MLWave" xmlUrl="http://mlwave.com/feed/" htmlUrl="http://mlwave.com/"/>
 			<outline type="rss" text="Trevor Stephens" title="Trevor Stephens" xmlUrl="http://trevorstephens.com/rss" htmlUrl="http://trevorstephens.com/"/>
 			<outline type="rss" text="While My MCMC Gently Samples" title="While My MCMC Gently Samples" xmlUrl="http://twiecki.github.io/atom.xml" htmlUrl="http://twiecki.github.io/"/>
@@ -43,6 +43,9 @@
 			<outline type="rss" text="Yanir Seroussi" title="Yanir Seroussi" xmlUrl="http://yanirseroussi.com/feed/" htmlUrl="http://yanirseroussi.com/"/>
 			<outline type="rss" text="Life, Language, Learning" title="Life, Language, Learning" xmlUrl="http://daoudclarke.github.io/atom.xml" htmlUrl="http://daoudclarke.github.io/"/>
 			<outline type="rss" text="M.E.Driscoll" title="M.E.Driscoll" xmlUrl="http://medriscoll.com/rss" htmlUrl="http://medriscoll.com/"/>
+			<outline type="rss" text="Models are illuminating and wrong" title="Models are illuminating and wrong" xmlUrl="http://peadarcoyle.wordpress.com/feed/" htmlUrl="https://peadarcoyle.wordpress.com/"/>
+			<outline type="rss" text="Christophe Bourguignat" title="Christophe Bourguignat" xmlUrl="https://medium.com/feed/@chris_bour" htmlUrl="https://medium.com/@chris_bour"/>
+			<outline type="rss" text="samim" title="samim" xmlUrl="https://medium.com/feed/@samim" htmlUrl="https://medium.com/@samim"/>
 
         </outline>
     </body>
