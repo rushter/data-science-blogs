@@ -43,3 +43,5 @@ A curated list of data science blogs
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
 
+# Contributing
+Your contributions are always welcome!
