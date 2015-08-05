@@ -34,5 +34,5 @@ A curated list of data science blogs
 * i am trask http://iamtrask.github.io/ [(RSS)] (http://iamtrask.github.io/feed.xml)
 * Jonas Degrave http://317070.github.io/ [(RSS)] (http://317070.github.io/feed.xml)
 * Yanir Seroussi http://yanirseroussi.com/ [(RSS)] (http://yanirseroussi.com/feed/)
-* Life, Language, Learning http://daoudclarke.github.io/atom.xml [(RSS)] (http://daoudclarke.github.io/atom.xml)
+* Life, Language, Learning http://daoudclarke.github.io/ [(RSS)] (http://daoudclarke.github.io/atom.xml)
 * M.E.Driscoll http://medriscoll.com/ [(RSS)] (http://medriscoll.com/rss)
