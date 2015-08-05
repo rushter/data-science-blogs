@@ -13,7 +13,7 @@ A curated list of data science blogs
 * Data Mining: Text Mining, Visualization and Social Media http://datamining.typepad.com/data_mining/ [(RSS)] (http://datamining.typepad.com/data_mining/atom.xml)
 * FastML http://fastml.com/ [(RSS)] (http://fastml.com/atom.xml)
 * Garbled Notes http://www.chioka.in/ [(RSS)] (http://www.chioka.in/feed/)
-* Joy Of Data http://www.joyofdata.de/blog/feed/ [(RSS)] (http://www.joyofdata.de/blog/feed/)
+* Joy Of Data http://www.joyofdata.de/blog/ [(RSS)] (http://www.joyofdata.de/blog/feed/)
 * MLWave http://mlwave.com/ [(RSS)] (http://mlwave.com/feed/)
 * Trevor Stephens http://trevorstephens.com/ [(RSS)] (http://trevorstephens.com/rss)
 * While My MCMC Gently Samples http://twiecki.github.io/ [(RSS)] (http://twiecki.github.io/atom.xml)
