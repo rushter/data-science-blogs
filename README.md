@@ -1,4 +1,4 @@
-# Data science blogs 
+# Data science blogs
 A curated list of data science blogs
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)] (http://feeds.feedburner.com/AnalyticsVidhya)
 * Dataaspirant http://dataaspirant.com/ [(RSS)] (http://dataaspirant.wordpress.com/feed/)
@@ -47,8 +47,9 @@ A curated list of data science blogs
 * Will do stuff for stuff http://rinzewind.org/blog-en [(RSS)] (http://rinzewind.org/feed-en)
 * Tombone's Computer Vision Blog http://www.computervisionblog.com/ [(RSS)] (http://www.computervisionblog.com/feeds/posts/default)
 * I’m a bandit https://blogs.princeton.edu/imabandit/ [(RSS)] (https://blogs.princeton.edu/imabandit/feed/)
+* Data Science 101 http://101.datascience.community/ [(RSS)] (http://101.datascience.community/feed/)
+* R-bloggers http://www.r-bloggers.com/ [(RSS)] (http://feeds.feedburner.com/RBloggers)
 
- 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
 
