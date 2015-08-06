@@ -45,6 +45,8 @@ A curated list of data science blogs
 * Edwin Chen http://blog.echen.me [(RSS)] (http://blog.echen.me/feeds/all.rss.xml)
 * Simply Statistics http://simplystatistics.org [(RSS)] (http://simplystatistics.org/feed/)
 * Will do stuff for stuff http://rinzewind.org/blog-en [(RSS)] (http://rinzewind.org/feed-en)
+* Tombone's Computer Vision Blog http://www.computervisionblog.com/ [(RSS)] (http://www.computervisionblog.com/feeds/posts/default)
+* I’m a bandit https://blogs.princeton.edu/imabandit/ [(RSS)] (https://blogs.princeton.edu/imabandit/feed/)
 
  
 # RSS
