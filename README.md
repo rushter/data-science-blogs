@@ -41,6 +41,8 @@ A curated list of data science blogs
 * samim https://medium.com/@samim [(RSS)] (https://medium.com/feed/@samim)
 * Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
 * colah's blog http://colah.github.io/archive.html [(RSS)] (http://colah.github.io/rss.xml)
+* Tombone's Computer Vision Blog http://www.computervisionblog.com/ [(RSS)] (http://www.computervisionblog.com/feeds/posts/default)
+* I’m a bandit https://blogs.princeton.edu/imabandit/ [(RSS)] (https://blogs.princeton.edu/imabandit/feed/)
 
  
 # RSS
