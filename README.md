@@ -3,6 +3,7 @@ A curated list of data science blogs
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)] (http://feeds.feedburner.com/AnalyticsVidhya)
 * Dataaspirant http://dataaspirant.com/ [(RSS)] (http://dataaspirant.wordpress.com/feed/)
 * Dr. Randal S. Olson http://www.randalolson.com/blog/ [(RSS)] (http://www.randalolson.com/feed/)
+* Domino Data Lab's blog http://blog.dominodatalab.com/ [(RSS)] (http://blog.dominodatalab.com/rss/)
 * Entrepreneurial Geekiness http://ianozsvald.com/ [(RSS)] (http://ianozsvald.com/feed/)
 * no free hunch http://blog.kaggle.com/ [(RSS)] (http://blog.kaggle.com/feed/)
 * Pythonic Perambulations https://jakevdp.github.io/  [(RSS)] (http://jakevdp.github.com/atom.xml)
