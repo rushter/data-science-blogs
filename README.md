@@ -39,6 +39,9 @@ A curated list of data science blogs
 * Models are illuminating and wrong https://peadarcoyle.wordpress.com/ [(RSS)] (http://peadarcoyle.wordpress.com/feed/)
 * Christophe Bourguignat https://medium.com/@chris_bour [(RSS)] (https://medium.com/feed/@chris_bour)
 * samim https://medium.com/@samim [(RSS)] (https://medium.com/feed/@samim)
+* Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
+* colah's blog http://colah.github.io/archive.html [(RSS)] (http://colah.github.io/rss.xml)
+
  
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
