@@ -54,6 +54,7 @@ A curated list of data science blogs
 * DataGenetics http://datagenetics.com/blog.html [(RSS)] (http://datagenetics.com/feed/rss.xml)
 * Dataquest Blog https://www.dataquest.io/blog/ [(RSS)] (https://www.dataquest.io/blog/atom.xml)
 * Julia Evans http://jvns.ca/ [(RSS)] (http://jvns.ca/atom.xml)
+* Treasure Data Blog http://blog.treasuredata.com/blog/tag/data-science/ [(RSS)](http://blog.treasuredata.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
