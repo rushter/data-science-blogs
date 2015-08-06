@@ -41,6 +41,7 @@ A curated list of data science blogs
 * samim https://medium.com/@samim [(RSS)] (https://medium.com/feed/@samim)
 * Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
 * colah's blog http://colah.github.io/archive.html [(RSS)] (http://colah.github.io/rss.xml)
+* Will do stuff for stuff http://rinzewind.org/blog-en [(RSS)] (http://rinzewind.org/feed-en)
 
  
 # RSS
