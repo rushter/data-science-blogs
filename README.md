@@ -57,7 +57,9 @@ A curated list of data science blogs
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
-Blog post frequency (roughly): 64 per week / 202 per month.
+#### Blog post frequency (roughly)
+All blogs - 64 per week / 202 per month.  
+Without KDnuggets, R-bloggers and Nuit Blanche - 21 per week / 109 per month.
 
 # Contributing
 Your contributions are always welcome!
