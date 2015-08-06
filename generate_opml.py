@@ -1,7 +1,7 @@
 import re
 
-xmlbody = """<!-- Created by generate_opml.py, please don't edit manually. -->
-<?xml version="1.0" encoding="UTF-8"?>
+xmlbody = """<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by generate_opml.py, please don't edit manually. -->
 <opml version="1.0">
     <head>
         <title>Data science blogs</title>
