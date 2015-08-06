@@ -1,6 +1,6 @@
 import re
 
-xmlbody = """
+xmlbody = """<!-- Created by generate_opml.py, please don't edit manually. -->
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
     <head>
@@ -8,7 +8,6 @@ xmlbody = """
     </head>
     <body>
         <outline text="Data science blogs" title="Data science blogs">
-
 {items}
         </outline>
     </body>
@@ -27,4 +26,4 @@ for blog in blogs:
                           rssfeed=blog[3].strip())
     items += '\t\t\t{}\r\n'.format(item)
 
-open('data-science.opml', 'w').write(xmlbody.format(items=items))
+open('data-science.opml', 'w').write(xmlbody.format(items=items[0:-2]))
