@@ -56,7 +56,8 @@ A curated list of data science blogs
 * Julia Evans http://jvns.ca/ [(RSS)] (http://jvns.ca/atom.xml)
 
 # RSS
-You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
+You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
+Blog post frequency (roughly): 64 per week / 202 per month.
 
 # Contributing
 Your contributions are always welcome!
