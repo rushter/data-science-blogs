@@ -1,4 +1,4 @@
-# Data science blogs 
+# Data science blogs
 A curated list of data science blogs
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)] (http://feeds.feedburner.com/AnalyticsVidhya)
 * Dataaspirant http://dataaspirant.com/ [(RSS)] (http://dataaspirant.wordpress.com/feed/)
@@ -41,8 +41,10 @@ A curated list of data science blogs
 * samim https://medium.com/@samim [(RSS)] (https://medium.com/feed/@samim)
 * Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
 * colah's blog http://colah.github.io/archive.html [(RSS)] (http://colah.github.io/rss.xml)
+* Sebastian Raschka http://sebastianraschka.com/articles.html [(RSS)] (http://sebastianraschka.com/rss_feed.xml)
+* Edwin Chen http://blog.echen.me [(RSS)] (http://blog.echen.me/feeds/all.rss.xml)
+* Simply Statistics http://simplystatistics.org [(RSS)] (http://simplystatistics.org/feed/)
 
- 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
 
