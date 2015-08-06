@@ -46,6 +46,8 @@
 			<outline type="rss" text="Models are illuminating and wrong" title="Models are illuminating and wrong" xmlUrl="http://peadarcoyle.wordpress.com/feed/" htmlUrl="https://peadarcoyle.wordpress.com/"/>
 			<outline type="rss" text="Christophe Bourguignat" title="Christophe Bourguignat" xmlUrl="https://medium.com/feed/@chris_bour" htmlUrl="https://medium.com/@chris_bour"/>
 			<outline type="rss" text="samim" title="samim" xmlUrl="https://medium.com/feed/@samim" htmlUrl="https://medium.com/@samim"/>
+			<outline type="rss" text="Andrej Karpathy blog" title="Andrej Karpathy blog" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
+			<outline type="rss" text="colah's blog" title="colah's blog" xmlUrl="http://colah.github.io/rss.xml" htmlUrl="http://colah.github.io/archive.html"/>
 
         </outline>
     </body>
