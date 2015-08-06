@@ -48,6 +48,7 @@
 			<outline type="rss" text="samim" title="samim" xmlUrl="https://medium.com/feed/@samim" htmlUrl="https://medium.com/@samim"/>
 			<outline type="rss" text="Andrej Karpathy blog" title="Andrej Karpathy blog" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
 			<outline type="rss" text="colah's blog" title="colah's blog" xmlUrl="http://colah.github.io/rss.xml" htmlUrl="http://colah.github.io/archive.html"/>
+			<outline type="rss" text="DataGenetics" title="DataGenetics" xmlUrl="http://datagenetics.com/feed/rss.xml" htmlUrl="http://datagenetics.com/blog.html"/>
 
         </outline>
     </body>
