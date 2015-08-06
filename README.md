@@ -44,6 +44,8 @@ A curated list of data science blogs
 * Sebastian Raschka http://sebastianraschka.com/articles.html [(RSS)] (http://sebastianraschka.com/rss_feed.xml)
 * Edwin Chen http://blog.echen.me [(RSS)] (http://blog.echen.me/feeds/all.rss.xml)
 * Simply Statistics http://simplystatistics.org [(RSS)] (http://simplystatistics.org/feed/)
+* Data Science 101 http://101.datascience.community/ [(RSS)] (http://101.datascience.community/feed/)
+* R-bloggers http://www.r-bloggers.com/ [(RSS)] (http://feeds.feedburner.com/RBloggers)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
