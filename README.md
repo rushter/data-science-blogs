@@ -49,6 +49,8 @@ A curated list of data science blogs
 * I’m a bandit https://blogs.princeton.edu/imabandit/ [(RSS)] (https://blogs.princeton.edu/imabandit/feed/)
 * Data Science 101 http://101.datascience.community/ [(RSS)] (http://101.datascience.community/feed/)
 * R-bloggers http://www.r-bloggers.com/ [(RSS)] (http://feeds.feedburner.com/RBloggers)
+* Stitch Fix Tech Blog http://multithreaded.stitchfix.com/blog/ [(RSS)] (http://multithreaded.stitchfix.com/feed.xml)
+
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.
