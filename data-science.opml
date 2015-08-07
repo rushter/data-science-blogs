@@ -64,6 +64,18 @@
 			<outline type="rss" text="I Quant NY" title="I Quant NY" xmlUrl="http://iquantny.tumblr.com/rss" htmlUrl="http://iquantny.tumblr.com/"/>
 			<outline type="rss" text="Data Science @ Facebook" title="Data Science @ Facebook" xmlUrl="https://research.facebook.com/blog/rss" htmlUrl="https://research.facebook.com/blog/datascience/"/>
 			<outline type="rss" text="Dayne Batten" title="Dayne Batten" xmlUrl="http://daynebatten.com/feed/" htmlUrl="http://daynebatten.com"/>
+			<outline type="rss" text="Agile Data Science" title="Agile Data Science" xmlUrl="http://blog.sense.io/rss/" htmlUrl="http://blog.sense.io/"/>
+			<outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://charlesmartin14.wordpress.com/feed/" htmlUrl="https://charlesmartin14.wordpress.com/"/>
+			<outline type="rss" text="Greg Reda" title="Greg Reda" xmlUrl="http://www.gregreda.com/feeds/all.atom.xml" htmlUrl="http://www.gregreda.com/blog/"/>
+			<outline type="rss" text="Kevin Davenport" title="Kevin Davenport" xmlUrl="http://kldavenport.com/feed/" htmlUrl="http://kldavenport.com/"/>
+			<outline type="rss" text="Becoming A Data Scientist" title="Becoming A Data Scientist" xmlUrl="http://www.becomingadatascientist.com/feed/" htmlUrl="http://www.becomingadatascientist.com/"/>
+			<outline type="rss" text="Math ∩ Programming" title="Math ∩ Programming" xmlUrl="http://jeremykun.wordpress.com/feed/" htmlUrl="http://jeremykun.com/"/>
+			<outline type="rss" text="Louis Dorard" title="Louis Dorard" xmlUrl="http://www.louisdorard.com/blog?format=rss" htmlUrl="http://www.louisdorard.com/blog/"/>
+			<outline type="rss" text="Daniel Forsyth" title="Daniel Forsyth" xmlUrl="http://www.danielforsyth.me/rss/" htmlUrl="http://www.danielforsyth.me/"/>
+			<outline type="rss" text="Mic Farris" title="Mic Farris" xmlUrl="http://www.micfarris.com/feed/" htmlUrl="http://www.micfarris.com/"/>
+			<outline type="rss" text="Emilio Ferrara, Ph.D." title="Emilio Ferrara, Ph.D." xmlUrl="http://www.emilio.ferrara.name/feed/" htmlUrl="http://www.emilio.ferrara.name/"/>
+			<outline type="rss" text="The Data Science Lab" title="The Data Science Lab" xmlUrl="http://datasciencelab.wordpress.com/feed/" htmlUrl="https://datasciencelab.wordpress.com/"/>
+			<outline type="rss" text="Kenny Bastani" title="Kenny Bastani" xmlUrl="http://www.kennybastani.com/feeds/posts/default?alt=rss" htmlUrl="http://www.kennybastani.com/"/>
         </outline>
     </body>
 </opml>
