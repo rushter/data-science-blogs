@@ -58,6 +58,18 @@ A curated list of data science blogs
 * I Quant NY http://iquantny.tumblr.com/ [(RSS)] (http://iquantny.tumblr.com/rss)
 * Data Science @ Facebook https://research.facebook.com/blog/datascience/ [(RSS)] (https://research.facebook.com/blog/rss)
 * Dayne Batten http://daynebatten.com [(RSS)] (http://daynebatten.com/feed/)
+* Agile Data Science http://blog.sense.io/ [(RSS)] (http://blog.sense.io/rss/)
+* Machine Learning https://charlesmartin14.wordpress.com/ [(RSS)] (http://charlesmartin14.wordpress.com/feed/)
+* Greg Reda http://www.gregreda.com/blog/ [(RSS)] (http://www.gregreda.com/feeds/all.atom.xml)
+* Kevin Davenport http://kldavenport.com/ [(RSS)] (http://kldavenport.com/feed/)
+* Becoming A Data Scientist http://www.becomingadatascientist.com/ [(RSS)] (http://www.becomingadatascientist.com/feed/)
+* Math ∩ Programming http://jeremykun.com/ [(RSS)] (http://jeremykun.wordpress.com/feed/)
+* Louis Dorard http://www.louisdorard.com/blog/ [(RSS)] (http://www.louisdorard.com/blog?format=rss)
+* Daniel Forsyth http://www.danielforsyth.me/ [(RSS)] (http://www.danielforsyth.me/rss/)
+* Mic Farris http://www.micfarris.com/ [(RSS)] (http://www.micfarris.com/feed/)
+* Emilio Ferrara, Ph.D.  http://www.emilio.ferrara.name/ [(RSS)] (http://www.emilio.ferrara.name/feed/)
+* The Data Science Lab https://datasciencelab.wordpress.com/ [(RSS)] (http://datasciencelab.wordpress.com/feed/)
+* Kenny Bastani http://www.kennybastani.com/ [(RSS)] (http://www.kennybastani.com/feeds/posts/default?alt=rss)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
