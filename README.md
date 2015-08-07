@@ -58,7 +58,7 @@ A curated list of data science blogs
 * I Quant NY http://iquantny.tumblr.com/ [(RSS)] (http://iquantny.tumblr.com/rss)
 * Data Science @ Facebook https://research.facebook.com/blog/datascience/ [(RSS)] (https://research.facebook.com/blog/rss)
 * Dayne Batten http://daynebatten.com [(RSS)] (http://daynebatten.com/feed/)
-* 
+
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
 #### Blog post frequency (roughly)
