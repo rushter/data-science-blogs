@@ -54,7 +54,9 @@ A curated list of data science blogs
 * DataGenetics http://datagenetics.com/blog.html [(RSS)] (http://datagenetics.com/feed/rss.xml)
 * Dataquest Blog https://www.dataquest.io/blog/ [(RSS)] (https://www.dataquest.io/blog/atom.xml)
 * Julia Evans http://jvns.ca/ [(RSS)] (http://jvns.ca/atom.xml)
-
+* Criteo Labs http://labs.criteo.com/ [(RSS)] (http://labs.criteo.com/feed/)
+* I Quant NY http://iquantny.tumblr.com/ [(RSS)] (http://iquantny.tumblr.com/rss)
+* Data Science @ Facebook https://research.facebook.com/blog/datascience/ [(RSS)] (https://research.facebook.com/blog/rss)
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
 #### Blog post frequency (roughly)
