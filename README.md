@@ -70,6 +70,7 @@ A curated list of data science blogs
 * Emilio Ferrara, Ph.D.  http://www.emilio.ferrara.name/ [(RSS)] (http://www.emilio.ferrara.name/feed/)
 * The Data Science Lab https://datasciencelab.wordpress.com/ [(RSS)] (http://datasciencelab.wordpress.com/feed/)
 * Kenny Bastani http://www.kennybastani.com/ [(RSS)] (http://www.kennybastani.com/feeds/posts/default?alt=rss)
+* Fabian Pedregosa http://fa.bianp.net/ [(RSS)](http://fa.bianp.net/blog/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
