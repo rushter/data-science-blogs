@@ -71,6 +71,7 @@ A curated list of data science blogs
 * The Data Science Lab https://datasciencelab.wordpress.com/ [(RSS)] (http://datasciencelab.wordpress.com/feed/)
 * Kenny Bastani http://www.kennybastani.com/ [(RSS)] (http://www.kennybastani.com/feeds/posts/default?alt=rss)
 * Fabian Pedregosa http://fa.bianp.net/ [(RSS)](http://fa.bianp.net/blog/feed/)
+* The Shape of Data https://shapeofdata.wordpress.com [(RSS)](https://shapeofdata.wordpress.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
