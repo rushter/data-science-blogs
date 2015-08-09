@@ -89,6 +89,10 @@
 			<outline type="rss" text="Sebastian Raschka" title="Sebastian Raschka" xmlUrl="http://sebastianraschka.com/rss_feed.xml" htmlUrl="http://sebastianraschka.com/articles.html"/>
 			<outline type="rss" text="The Angry Statistician" title="The Angry Statistician" xmlUrl="http://angrystatistician.blogspot.com/feeds/posts/default" htmlUrl="http://angrystatistician.blogspot.com/"/>
 			<outline type="rss" text="Plotly Blog" title="Plotly Blog" xmlUrl="http://blog.plot.ly/rss" htmlUrl="http://blog.plot.ly/"/>
+			<outline type="rss" text="TechNet" title="TechNet" xmlUrl="http://blogs.technet.com/b/machinelearning/rss.aspx" htmlUrl="http://blogs.technet.com/b/machinelearning/default.aspx"/>
+			<outline type="rss" text="Eric Siegel" title="Eric Siegel" xmlUrl="http://feeds.feedburner.com/predictiveanalyticsworld/GXRy" htmlUrl="http://www.predictiveanalyticsworld.com/blog"/>
+			<outline type="rss" text="Daniel Nee" title="Daniel Nee" xmlUrl="http://danielnee.com/?feed=rss2" htmlUrl="http://danielnee.com"/>
+			<outline type="rss" text="Airbnb Data blog" title="Airbnb Data blog" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com/data/"/>
         </outline>
     </body>
 </opml>

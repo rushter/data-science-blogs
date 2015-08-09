@@ -83,6 +83,10 @@ A curated list of data science blogs
 * Sebastian Raschka http://sebastianraschka.com/articles.html [(RSS)] (http://sebastianraschka.com/rss_feed.xml)
 * The Angry Statistician http://angrystatistician.blogspot.com/ [(RSS)] (http://angrystatistician.blogspot.com/feeds/posts/default)
 * Plotly Blog http://blog.plot.ly/ [(RSS)] (http://blog.plot.ly/rss)
+* TechNet http://blogs.technet.com/b/machinelearning/default.aspx [(RSS)] (http://blogs.technet.com/b/machinelearning/rss.aspx)
+* Eric Siegel http://www.predictiveanalyticsworld.com/blog [(RSS)] (http://feeds.feedburner.com/predictiveanalyticsworld/GXRy)
+* Daniel Nee http://danielnee.com [(RSS)] (http://danielnee.com/?feed=rss2)
+* Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)] (http://nerds.airbnb.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
