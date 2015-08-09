@@ -79,6 +79,7 @@
 			<outline type="rss" text="TechNet" title="TechNet" htmlUrl="http://blogs.technet.com/b/machinelearning/default.aspx" xmlUrl="http://blogs.technet.com/b/machinelearning/rss.aspx"/>
 			<outline type="rss" text="Analytical Worlds Blog - Predictive Analytics and Text Analytics - by Eric Siegel, Ph.D." title="Analytical Worlds Blog - Predictive Analytics and Text Analytics - by Eric Siegel, Ph.D." htmlUrl="http://www.predictiveanalyticsworld.com/blog" xmlUrl="http://feeds.feedburner.com/predictiveanalyticsworld/GXRy"/>
 			<outline type="rss" text="Daniel Nee" title="Daniel Nee" htmlUrl="http://danielnee.com" xmlUrl="http://danielnee.com/?feed=rss2"/>
+			<outline type="rss" text="Airbnb Data blog" title="Airbnb Data blog" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com/data/"/>
         </outline>
     </body>
 </opml>

@@ -73,6 +73,7 @@ A curated list of data science blogs
 * TechNet http://blogs.technet.com/b/machinelearning/default.aspx [(RSS)] (http://blogs.technet.com/b/machinelearning/rss.aspx)
 * Eric Siegel http://www.predictiveanalyticsworld.com/blog [(RSS)] (http://feeds.feedburner.com/predictiveanalyticsworld/GXRy)
 * Daniel Nee http://danielnee.com [(RSS)] (http://danielnee.com/?feed=rss2)
+* Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)] (http://nerds.airbnb.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
