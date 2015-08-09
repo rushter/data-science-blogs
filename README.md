@@ -70,8 +70,21 @@ A curated list of data science blogs
 * Emilio Ferrara, Ph.D.  http://www.emilio.ferrara.name/ [(RSS)] (http://www.emilio.ferrara.name/feed/)
 * The Data Science Lab https://datasciencelab.wordpress.com/ [(RSS)] (http://datasciencelab.wordpress.com/feed/)
 * Kenny Bastani http://www.kennybastani.com/ [(RSS)] (http://www.kennybastani.com/feeds/posts/default?alt=rss)
-* Fabian Pedregosa http://fa.bianp.net/ [(RSS)] (http://fa.bianp.net/blog/feed/)
-* The Shape of Data https://shapeofdata.wordpress.com [(RSS)] (https://shapeofdata.wordpress.com/feed/)
+* Machine Learning Mastery http://machinelearningmastery.com/blog/ [(RSS)] (http://machinelearningmastery.com/feed/)
+* Dato Blog http://blog.dato.com/ [(RSS)] (http://blog.dato.com/rss.xml)
+* Data Based Inventions http://datalab.lu/ [(RSS)] (http://datalab.lu/atom.xml)
+* Big-Ish Data http://bigishdata.com/ [(RSS)] (http://bigishdata.com/feed/)
+* The Science of Data http://www.martingoodson.com [(RSS)] (http://www.martingoodson.com/rss/)
+* The Data Camp Blog http://blog.datacamp.com [(RSS)] (http://blog.datacamp.com/feed/)
+* Matthew Rocklin http://matthewrocklin.com/blog/ [(RSS)] (http://matthewrocklin.com/blog/atom.xml)
+* blog += 1 http://snippyhollow.github.io/ [(RSS)] (http://snippyhollow.github.io/atom.xml)
+* Beautiful Data http://beautifuldata.net/ [(RSS)] (http://beautifuldata.net/feed/)
+* The Angry Statistician http://angrystatistician.blogspot.com/ [(RSS)] (http://angrystatistician.blogspot.com/feeds/posts/default)
+* Plotly Blog http://blog.plot.ly/ [(RSS)] (http://blog.plot.ly/rss)
+* TechNet http://blogs.technet.com/b/machinelearning/default.aspx [(RSS)] (http://blogs.technet.com/b/machinelearning/rss.aspx)
+* Eric Siegel http://www.predictiveanalyticsworld.com/blog [(RSS)] (http://feeds.feedburner.com/predictiveanalyticsworld/GXRy)
+* Daniel Nee http://danielnee.com [(RSS)] (http://danielnee.com/?feed=rss2)
+* Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)] (http://nerds.airbnb.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
