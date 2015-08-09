@@ -76,9 +76,9 @@
 			<outline type="rss" text="Emilio Ferrara, Ph.D." title="Emilio Ferrara, Ph.D." xmlUrl="http://www.emilio.ferrara.name/feed/" htmlUrl="http://www.emilio.ferrara.name/"/>
 			<outline type="rss" text="The Data Science Lab" title="The Data Science Lab" xmlUrl="http://datasciencelab.wordpress.com/feed/" htmlUrl="https://datasciencelab.wordpress.com/"/>
 			<outline type="rss" text="Kenny Bastani" title="Kenny Bastani" xmlUrl="http://www.kennybastani.com/feeds/posts/default?alt=rss" htmlUrl="http://www.kennybastani.com/"/>
-			<outline type="rss" text="TechNet" title="TechNet" htmlUrl="http://blogs.technet.com/b/machinelearning/default.aspx" xmlUrl="http://blogs.technet.com/b/machinelearning/rss.aspx"/>
-			<outline type="rss" text="Analytical Worlds Blog - Predictive Analytics and Text Analytics - by Eric Siegel, Ph.D." title="Analytical Worlds Blog - Predictive Analytics and Text Analytics - by Eric Siegel, Ph.D." htmlUrl="http://www.predictiveanalyticsworld.com/blog" xmlUrl="http://feeds.feedburner.com/predictiveanalyticsworld/GXRy"/>
-			<outline type="rss" text="Daniel Nee" title="Daniel Nee" htmlUrl="http://danielnee.com" xmlUrl="http://danielnee.com/?feed=rss2"/>
+			<outline type="rss" text="TechNet" title="TechNet" xmlUrl="http://blogs.technet.com/b/machinelearning/rss.aspx" htmlUrl="http://blogs.technet.com/b/machinelearning/default.aspx"/>
+			<outline type="rss" text="Eric Siegel" title="Eric Siegel" xmlUrl="http://feeds.feedburner.com/predictiveanalyticsworld/GXRy" htmlUrl="http://www.predictiveanalyticsworld.com/blog"/>
+			<outline type="rss" text="Daniel Nee" title="Daniel Nee" xmlUrl="http://danielnee.com/?feed=rss2" htmlUrl="http://danielnee.com"/>
 			<outline type="rss" text="Airbnb Data blog" title="Airbnb Data blog" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com/data/"/>
         </outline>
     </body>
