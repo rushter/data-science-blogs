@@ -91,6 +91,8 @@
 			<outline type="rss" text="Eric Siegel" title="Eric Siegel" xmlUrl="http://feeds.feedburner.com/predictiveanalyticsworld/GXRy" htmlUrl="http://www.predictiveanalyticsworld.com/blog"/>
 			<outline type="rss" text="Daniel Nee" title="Daniel Nee" xmlUrl="http://danielnee.com/?feed=rss2" htmlUrl="http://danielnee.com"/>
 			<outline type="rss" text="Airbnb Data blog" title="Airbnb Data blog" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com/data/"/>
+			<outline type="rss" text="Fabian Pedregosa" title="Fabian Pedregosa" xmlUrl="http://fa.bianp.net/blog/feed/" htmlUrl="http://fa.bianp.net/"/>
+			<outline type="rss" text="The Shape of Data" title="The Shape of Data" xmlUrl="https://shapeofdata.wordpress.com/feed/" htmlUrl="https://shapeofdata.wordpress.com"/>
         </outline>
     </body>
 </opml>
