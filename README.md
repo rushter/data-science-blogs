@@ -85,6 +85,8 @@ A curated list of data science blogs
 * Eric Siegel http://www.predictiveanalyticsworld.com/blog [(RSS)] (http://feeds.feedburner.com/predictiveanalyticsworld/GXRy)
 * Daniel Nee http://danielnee.com [(RSS)] (http://danielnee.com/?feed=rss2)
 * Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)] (http://nerds.airbnb.com/feed/)
+* Fabian Pedregosa http://fa.bianp.net/ [(RSS)] (http://fa.bianp.net/blog/feed/)
+* The Shape of Data https://shapeofdata.wordpress.com [(RSS)] (https://shapeofdata.wordpress.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
