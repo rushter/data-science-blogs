@@ -50,6 +50,7 @@ A curated list of data science blogs
 * Life, Language, Learning http://daoudclarke.github.io/ [(RSS)] (http://daoudclarke.github.io/atom.xml)
 * Louis Dorard http://www.louisdorard.com/blog/ [(RSS)] (http://www.louisdorard.com/blog?format=rss)
 * M.E.Driscoll http://medriscoll.com/ [(RSS)] (http://medriscoll.com/rss)
+* Machinalis http://www.machinalis.com/blog [(RSS)] (http://www.machinalis.com/blog/feeds/rss/)
 * Machine Learning https://charlesmartin14.wordpress.com/ [(RSS)] (http://charlesmartin14.wordpress.com/feed/)
 * Machine Learning (Theory) http://hunch.net/ [(RSS)] (http://hunch.net/?feed=rss2)
 * Machine Learning and Data Science http://alexhwoods.com/ [(RSS)] (http://alexhwoods.com/feed/)
