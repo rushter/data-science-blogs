@@ -88,6 +88,7 @@ A curated list of data science blogs
 * Fabian Pedregosa http://fa.bianp.net/ [(RSS)] (http://fa.bianp.net/blog/feed/)
 * The Shape of Data https://shapeofdata.wordpress.com [(RSS)] (https://shapeofdata.wordpress.com/feed/)
 * Rocket-Powered Data Science http://rocketdatascience.org [(RSS)] (http://rocketdatascience.org/?feed=rss2)
+* Prooffreader.com http://www.prooffreader.com [(RSS)] (http://www.prooffreader.com/feeds/posts/default) & ProoffreaderPlus http://prooffreaderplus.blogspot.ca/ [(RSS)] (http://prooffreaderplus.blogspot.ca/feeds/posts/default)
 
 
 # RSS
