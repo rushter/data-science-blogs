@@ -63,6 +63,7 @@ A curated list of data science blogs
 * Models are illuminating and wrong https://peadarcoyle.wordpress.com/ [(RSS)] (http://peadarcoyle.wordpress.com/feed/)
 * no free hunch http://blog.kaggle.com/ [(RSS)] (http://blog.kaggle.com/feed/)
 * Nuit Blanche http://nuit-blanche.blogspot.com/ [(RSS)] (http://nuit-blanche.blogspot.com/feeds/posts/default)
+* Pete Warden's blog http://petewarden.com/ [(RSS)] (http://feeds.feedburner.com/typepad/petewarden)
 * Plotly Blog http://blog.plot.ly/ [(RSS)] (http://blog.plot.ly/rss)
 * Prooffreader.com http://www.prooffreader.com [(RSS)] (http://www.prooffreader.com/feeds/posts/default)
 * ProoffreaderPlus http://prooffreaderplus.blogspot.ca/ [(RSS)] (http://prooffreaderplus.blogspot.ca/feeds/posts/default)
@@ -83,6 +84,7 @@ A curated list of data science blogs
 * The Data Science Lab https://datasciencelab.wordpress.com/ [(RSS)] (http://datasciencelab.wordpress.com/feed/)
 * The Science of Data http://www.martingoodson.com [(RSS)] (http://www.martingoodson.com/rss/)
 * The Shape of Data https://shapeofdata.wordpress.com [(RSS)] (https://shapeofdata.wordpress.com/feed/)
+* THE ETZ-FILES http://alexanderetz.com/ [(RSS)] (http://nicebrain.wordpress.com/feed/)
 * Tombone's Computer Vision Blog http://www.computervisionblog.com/ [(RSS)] (http://www.computervisionblog.com/feeds/posts/default)
 * Trevor Stephens http://trevorstephens.com/ [(RSS)] (http://trevorstephens.com/rss)
 * Trey Causey http://treycausey.com/ [(RSS)] (http://treycausey.com/feeds/all.atom.xml)
@@ -96,10 +98,6 @@ A curated list of data science blogs
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
 Also you can add [a feed] (http://dsguide.biz/reader/feeds/posts) where the list is always up to date.
-
-#### Blog post frequency (roughly)
-All blogs - 64 per week / 202 per month.  
-Without KDnuggets, R-bloggers and Nuit Blanche - 21 per week / 109 per month.
 
 # Contributing
 Your contributions are always welcome!
