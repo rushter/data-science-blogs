@@ -78,6 +78,7 @@ A curated list of data science blogs
 * Sebastian Raschka http://sebastianraschka.com/articles.html [(RSS)] (http://sebastianraschka.com/rss_feed.xml)
 * Simply Statistics http://simplystatistics.org [(RSS)] (http://simplystatistics.org/feed/)
 * Stitch Fix Tech Blog http://multithreaded.stitchfix.com/blog/ [(RSS)] (http://multithreaded.stitchfix.com/feed.xml)
+* Startup.ML Blog http://startup.ml/blog [(RSS)] (http://startup.ml/blog)
 * TechNet http://blogs.technet.com/b/machinelearning/default.aspx [(RSS)] (http://blogs.technet.com/b/machinelearning/rss.aspx)
 * The Angry Statistician http://angrystatistician.blogspot.com/ [(RSS)] (http://angrystatistician.blogspot.com/feeds/posts/default)
 * The Data Camp Blog http://blog.datacamp.com [(RSS)] (http://blog.datacamp.com/feed/)
