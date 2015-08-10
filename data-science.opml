@@ -94,6 +94,7 @@
 			<outline type="rss" text="Fabian Pedregosa" title="Fabian Pedregosa" xmlUrl="http://fa.bianp.net/blog/feed/" htmlUrl="http://fa.bianp.net/"/>
 			<outline type="rss" text="The Shape of Data" title="The Shape of Data" xmlUrl="https://shapeofdata.wordpress.com/feed/" htmlUrl="https://shapeofdata.wordpress.com"/>
 			<outline type="rss" text="Rocket-Powered Data Science" title="Rocket-Powered Data Science" xmlUrl="http://rocketdatascience.org/?feed=rss2" htmlUrl="http://rocketdatascience.org"/>
+			<outline type="rss" text="Prooffreader.com" title="Prooffreader.com" xmlUrl="http://www.prooffreader.com/feeds/posts/default" htmlUrl="http://www.prooffreader.com"/>
         </outline>
     </body>
 </opml>
