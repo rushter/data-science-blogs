@@ -69,6 +69,7 @@ A curated list of data science blogs
 * Pythonic Perambulations https://jakevdp.github.io/ [(RSS)] (http://jakevdp.github.com/atom.xml)
 * R-bloggers http://www.r-bloggers.com/ [(RSS)] (http://feeds.feedburner.com/RBloggers)
 * Rayli.Net http://rayli.net/blog/ [(RSS)] (http://rayli.net/blog/feed/)
+* Randy Zwitch http://randyzwitch.com/category/data-science/ [(RSS)] (http://randyzwitch.com/category/data-science/feed/)
 * Revolutions http://blog.revolutionanalytics.com/ [(RSS)] (http://blog.revolutionanalytics.com/atom.xml)
 * Rocket-Powered Data Science http://rocketdatascience.org [(RSS)] (http://rocketdatascience.org/?feed=rss2)
 * samim https://medium.com/@samim [(RSS)] (https://medium.com/feed/@samim)
