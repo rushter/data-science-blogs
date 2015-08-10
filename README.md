@@ -87,6 +87,8 @@ A curated list of data science blogs
 * Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)] (http://nerds.airbnb.com/feed/)
 * Fabian Pedregosa http://fa.bianp.net/ [(RSS)] (http://fa.bianp.net/blog/feed/)
 * The Shape of Data https://shapeofdata.wordpress.com [(RSS)] (https://shapeofdata.wordpress.com/feed/)
+* Rocket-Powered Data Science http://rocketdatascience.org [(RSS)] (http://rocketdatascience.org/?feed=rss2)
+
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
