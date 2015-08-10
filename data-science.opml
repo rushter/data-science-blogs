@@ -56,6 +56,7 @@
 			<outline type="rss" text="Life, Language, Learning" title="Life, Language, Learning" xmlUrl="http://daoudclarke.github.io/atom.xml" htmlUrl="http://daoudclarke.github.io/"/>
 			<outline type="rss" text="Louis Dorard" title="Louis Dorard" xmlUrl="http://www.louisdorard.com/blog?format=rss" htmlUrl="http://www.louisdorard.com/blog/"/>
 			<outline type="rss" text="M.E.Driscoll" title="M.E.Driscoll" xmlUrl="http://medriscoll.com/rss" htmlUrl="http://medriscoll.com/"/>
+			<outline type="rss" text="Machinalis" title="Machinalis" xmlUrl="http://www.machinalis.com/blog/feeds/rss/" htmlUrl="http://www.machinalis.com/blog"/>
 			<outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://charlesmartin14.wordpress.com/feed/" htmlUrl="https://charlesmartin14.wordpress.com/"/>
 			<outline type="rss" text="Machine Learning (Theory)" title="Machine Learning (Theory)" xmlUrl="http://hunch.net/?feed=rss2" htmlUrl="http://hunch.net/"/>
 			<outline type="rss" text="Machine Learning and Data Science" title="Machine Learning and Data Science" xmlUrl="http://alexhwoods.com/feed/" htmlUrl="http://alexhwoods.com/"/>
@@ -75,6 +76,7 @@
 			<outline type="rss" text="Pythonic Perambulations" title="Pythonic Perambulations" xmlUrl="http://jakevdp.github.com/atom.xml" htmlUrl="https://jakevdp.github.io/"/>
 			<outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="http://feeds.feedburner.com/RBloggers" htmlUrl="http://www.r-bloggers.com/"/>
 			<outline type="rss" text="Rayli.Net" title="Rayli.Net" xmlUrl="http://rayli.net/blog/feed/" htmlUrl="http://rayli.net/blog/"/>
+			<outline type="rss" text="Randy Zwitch" title="Randy Zwitch" xmlUrl="http://randyzwitch.com/category/data-science/feed/" htmlUrl="http://randyzwitch.com/category/data-science/"/>
 			<outline type="rss" text="Revolutions" title="Revolutions" xmlUrl="http://blog.revolutionanalytics.com/atom.xml" htmlUrl="http://blog.revolutionanalytics.com/"/>
 			<outline type="rss" text="Rocket-Powered Data Science" title="Rocket-Powered Data Science" xmlUrl="http://rocketdatascience.org/?feed=rss2" htmlUrl="http://rocketdatascience.org"/>
 			<outline type="rss" text="samim" title="samim" xmlUrl="https://medium.com/feed/@samim" htmlUrl="https://medium.com/@samim"/>
