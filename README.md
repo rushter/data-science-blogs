@@ -95,6 +95,12 @@ A curated list of data science blogs
 * Yanir Seroussi http://yanirseroussi.com/ [(RSS)] (http://yanirseroussi.com/feed/)
 * Zac Stewart http://zacstewart.com/ [(RSS)] (http://zacstewart.com/feed.xml)
 * ŷhat http://blog.yhathq.com/ [(RSS)] (http://blog.yhathq.com/rss.xml)
+* Wes McKinney http://blog.wesmckinney.com/ [(RSS)] (http://wesmckinney.com/blog/feed/)
+* Sean J. Taylor http://seanjtaylor.com/ [(RSS)] (http://seanjtaylor.com/rss)
+* Adventures in Data Land http://blog.smola.org [(RSS)] (http://blog.smola.org/rss)
+* Data Miners Blog http://blog.data-miners.com/ [(RSS)] (http://blog.data-miners.com/feeds/posts/default?alt=rss)
+* Dataclysm http://blog.okcupid.com/ [(RSS)] (http://blog.okcupid.com/index.php/feed/) 
+* Calculated Risk http://www.calculatedriskblog.com [(RSS)] (http://feeds.feedburner.com/CalculatedRisk) 
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
