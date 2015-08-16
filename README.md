@@ -11,6 +11,7 @@ A curated list of data science blogs
 * blog += 1 http://snippyhollow.github.io/ [(RSS)] (http://snippyhollow.github.io/atom.xml)
 * Carl Shan http://carlshan.com/ [(RSS)] (http://feeds.feedburner.com/carlshan)
 * Christophe Bourguignat https://medium.com/@chris_bour [(RSS)] (https://medium.com/feed/@chris_bour)
+* Cloudera Data Science Posts http://blog.cloudera.com/blog/category/data-science/ [(RSS)] (http://blog.cloudera.com/blog/category/data-science/feed/)
 * colah's blog http://colah.github.io/archive.html [(RSS)] (http://colah.github.io/rss.xml)
 * Daniel Forsyth http://www.danielforsyth.me/ [(RSS)] (http://www.danielforsyth.me/rss/)
 * Daniel Nee http://danielnee.com [(RSS)] (http://danielnee.com/?feed=rss2)
