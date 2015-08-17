@@ -13,6 +13,7 @@ A curated list of data science blogs
 * Christophe Bourguignat https://medium.com/@chris_bour [(RSS)] (https://medium.com/feed/@chris_bour)
 * Cloudera Data Science Posts http://blog.cloudera.com/blog/category/data-science/ [(RSS)] (http://blog.cloudera.com/blog/category/data-science/feed/)
 * colah's blog http://colah.github.io/archive.html [(RSS)] (http://colah.github.io/rss.xml)
+* Cloudera Engineering Blog · Data Science Posts http://blog.cloudera.com/blog/category/data-science/
 * Daniel Forsyth http://www.danielforsyth.me/ [(RSS)] (http://www.danielforsyth.me/rss/)
 * Daniel Nee http://danielnee.com [(RSS)] (http://danielnee.com/?feed=rss2)
 * Data Based Inventions http://datalab.lu/ [(RSS)] (http://datalab.lu/atom.xml)
