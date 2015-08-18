@@ -17,6 +17,7 @@
 			<outline type="rss" text="blog += 1" title="blog += 1" xmlUrl="http://snippyhollow.github.io/atom.xml" htmlUrl="http://snippyhollow.github.io/"/>
 			<outline type="rss" text="Carl Shan" title="Carl Shan" xmlUrl="http://feeds.feedburner.com/carlshan" htmlUrl="http://carlshan.com/"/>
 			<outline type="rss" text="Christophe Bourguignat" title="Christophe Bourguignat" xmlUrl="https://medium.com/feed/@chris_bour" htmlUrl="https://medium.com/@chris_bour"/>
+			<outline type="rss" text="Cloudera Data Science Posts" title="Cloudera Data Science Posts" xmlUrl="http://blog.cloudera.com/blog/category/data-science/feed/" htmlUrl="http://blog.cloudera.com/blog/category/data-science/"/>
 			<outline type="rss" text="colah's blog" title="colah's blog" xmlUrl="http://colah.github.io/rss.xml" htmlUrl="http://colah.github.io/archive.html"/>
 			<outline type="rss" text="Daniel Forsyth" title="Daniel Forsyth" xmlUrl="http://www.danielforsyth.me/rss/" htmlUrl="http://www.danielforsyth.me/"/>
 			<outline type="rss" text="Daniel Nee" title="Daniel Nee" xmlUrl="http://danielnee.com/?feed=rss2" htmlUrl="http://danielnee.com"/>
@@ -65,6 +66,7 @@
 			<outline type="rss" text="Math ∩ Programming" title="Math ∩ Programming" xmlUrl="http://jeremykun.wordpress.com/feed/" htmlUrl="http://jeremykun.com/"/>
 			<outline type="rss" text="Matthew Rocklin" title="Matthew Rocklin" xmlUrl="http://matthewrocklin.com/blog/atom.xml" htmlUrl="http://matthewrocklin.com/blog/"/>
 			<outline type="rss" text="Mic Farris" title="Mic Farris" xmlUrl="http://www.micfarris.com/feed/" htmlUrl="http://www.micfarris.com/"/>
+			<outline type="rss" text="minimaxir | Max Woolf's Blog" title="minimaxir | Max Woolf's Blog" xmlUrl="http://minimaxir.com/rss.xml" htmlUrl="http://minimaxir.com/"/>
 			<outline type="rss" text="MLWave" title="MLWave" xmlUrl="http://mlwave.com/feed/" htmlUrl="http://mlwave.com/"/>
 			<outline type="rss" text="Models are illuminating and wrong" title="Models are illuminating and wrong" xmlUrl="http://peadarcoyle.wordpress.com/feed/" htmlUrl="https://peadarcoyle.wordpress.com/"/>
 			<outline type="rss" text="no free hunch" title="no free hunch" xmlUrl="http://blog.kaggle.com/feed/" htmlUrl="http://blog.kaggle.com/"/>
@@ -78,6 +80,7 @@
 			<outline type="rss" text="R-bloggers" title="R-bloggers" xmlUrl="http://feeds.feedburner.com/RBloggers" htmlUrl="http://www.r-bloggers.com/"/>
 			<outline type="rss" text="Rayli.Net" title="Rayli.Net" xmlUrl="http://rayli.net/blog/feed/" htmlUrl="http://rayli.net/blog/"/>
 			<outline type="rss" text="Randy Zwitch" title="Randy Zwitch" xmlUrl="http://randyzwitch.com/category/data-science/feed/" htmlUrl="http://randyzwitch.com/category/data-science/"/>
+			<outline type="rss" text="Ramiro Gómez" title="Ramiro Gómez" xmlUrl="http://ramiro.org/notebook/rss.xml" htmlUrl="http://ramiro.org/notebooks/"/>
 			<outline type="rss" text="Revolutions" title="Revolutions" xmlUrl="http://blog.revolutionanalytics.com/atom.xml" htmlUrl="http://blog.revolutionanalytics.com/"/>
 			<outline type="rss" text="Rocket-Powered Data Science" title="Rocket-Powered Data Science" xmlUrl="http://rocketdatascience.org/?feed=rss2" htmlUrl="http://rocketdatascience.org"/>
 			<outline type="rss" text="samim" title="samim" xmlUrl="https://medium.com/feed/@samim" htmlUrl="https://medium.com/@samim"/>
@@ -85,6 +88,7 @@
 			<outline type="rss" text="Simply Statistics" title="Simply Statistics" xmlUrl="http://simplystatistics.org/feed/" htmlUrl="http://simplystatistics.org"/>
 			<outline type="rss" text="Stitch Fix Tech Blog" title="Stitch Fix Tech Blog" xmlUrl="http://multithreaded.stitchfix.com/feed.xml" htmlUrl="http://multithreaded.stitchfix.com/blog/"/>
 			<outline type="rss" text="Startup.ML Blog" title="Startup.ML Blog" xmlUrl="http://startup.ml/blog" htmlUrl="http://startup.ml/blog"/>
+			<outline type="rss" text="Storytelling with Statistics on Quora" title="Storytelling with Statistics on Quora" xmlUrl="http://datastories.quora.com/rss" htmlUrl="http://datastories.quora.com/"/>
 			<outline type="rss" text="TechNet" title="TechNet" xmlUrl="http://blogs.technet.com/b/machinelearning/rss.aspx" htmlUrl="http://blogs.technet.com/b/machinelearning/default.aspx"/>
 			<outline type="rss" text="The Angry Statistician" title="The Angry Statistician" xmlUrl="http://angrystatistician.blogspot.com/feeds/posts/default" htmlUrl="http://angrystatistician.blogspot.com/"/>
 			<outline type="rss" text="The Data Camp Blog" title="The Data Camp Blog" xmlUrl="http://blog.datacamp.com/feed/" htmlUrl="http://blog.datacamp.com"/>
@@ -106,6 +110,7 @@
 			<outline type="rss" text="Adventures in Data Land" title="Adventures in Data Land" xmlUrl="http://blog.smola.org/rss" htmlUrl="http://blog.smola.org"/>
 			<outline type="rss" text="Data Miners Blog" title="Data Miners Blog" xmlUrl="http://blog.data-miners.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.data-miners.com/"/>
 			<outline type="rss" text="Dataclysm" title="Dataclysm" xmlUrl="http://blog.okcupid.com/index.php/feed/" htmlUrl="http://blog.okcupid.com/"/>
+			<outline type="rss" text="Advanced Analytics & R" title="Advanced Analytics & R" xmlUrl="http://advanceddataanalytics.net/feed/" htmlUrl="http://advanceddataanalytics.net/"/>
         </outline>
     </body>
 </opml>
