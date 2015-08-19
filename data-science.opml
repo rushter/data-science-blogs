@@ -110,7 +110,7 @@
 			<outline type="rss" text="Adventures in Data Land" title="Adventures in Data Land" xmlUrl="http://blog.smola.org/rss" htmlUrl="http://blog.smola.org"/>
 			<outline type="rss" text="Data Miners Blog" title="Data Miners Blog" xmlUrl="http://blog.data-miners.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.data-miners.com/"/>
 			<outline type="rss" text="Dataclysm" title="Dataclysm" xmlUrl="http://blog.okcupid.com/index.php/feed/" htmlUrl="http://blog.okcupid.com/"/>
-			<outline type="rss" text="Advanced Analytics & R" title="Advanced Analytics & R" xmlUrl="http://advanceddataanalytics.net/feed/" htmlUrl="http://advanceddataanalytics.net/"/>
+			<outline type="rss" text="Advanced Analytics   R" title="Advanced Analytics   R" xmlUrl="http://advanceddataanalytics.net/feed/" htmlUrl="http://advanceddataanalytics.net/"/>
         </outline>
     </body>
 </opml>
