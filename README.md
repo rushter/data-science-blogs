@@ -105,6 +105,7 @@ A curated list of data science blogs
 * Data Miners Blog http://blog.data-miners.com/ [(RSS)] (http://blog.data-miners.com/feeds/posts/default?alt=rss)
 * Dataclysm http://blog.okcupid.com/ [(RSS)] (http://blog.okcupid.com/index.php/feed/) 
 * Advanced Analytics & R http://advanceddataanalytics.net/ [(RSS)] (http://advanceddataanalytics.net/feed/)
+* korbonits | Math ∩ Data http://korbonits.github.io/ [(RSS)] (http://korbonits.github.io/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
