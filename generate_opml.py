@@ -1,4 +1,5 @@
 import re
+import html
 
 xmlbody = """<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by generate_opml.py, please don't edit manually. -->
@@ -21,7 +22,7 @@ blogs = re.findall('\* (.*?) http([s]{0,1})\:\/\/(.*?) \[\(RSS\)\] \((.*?)\)', r
 
 items = ''
 for blog in blogs:
-    item = xmlitem.format(title=blog[0].strip(),
+    item = xmlitem.format(title=html.escape(blog[0].strip()),
                           httpfeed='http{0}://{1}'.format(blog[1].strip(), blog[2].strip()),
                           rssfeed=blog[3].strip())
     items += '\t\t\t{}\r\n'.format(item)
