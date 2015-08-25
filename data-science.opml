@@ -111,7 +111,8 @@
 			<outline type="rss" text="Data Miners Blog" title="Data Miners Blog" xmlUrl="http://blog.data-miners.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.data-miners.com/"/>
 			<outline type="rss" text="Dataclysm" title="Dataclysm" xmlUrl="http://blog.okcupid.com/index.php/feed/" htmlUrl="http://blog.okcupid.com/"/>
 			<outline type="rss" text="Advanced Analytics &amp; R" title="Advanced Analytics &amp; R" xmlUrl="http://advanceddataanalytics.net/feed/" htmlUrl="http://advanceddataanalytics.net/"/>
-			<outline type="rss" text="korbonits | Math ∩ Data" title="korbonits | Math ∩ Data" xmlUrl="http://korbonits.github.io/" htmlUrl="http://korbonits.github.io/"/>
+			<outline type="rss" text="korbonits | Math ∩ Data" title="korbonits | Math ∩ Data" xmlUrl="http://korbonits.github.io/feed.xml" htmlUrl="http://korbonits.github.io/"/>
+			<outline type="rss" text="p-value.info" title="p-value.info" xmlUrl="http://www.p-value.info/feeds/posts/default" htmlUrl="http://www.p-value.info/"/>
         </outline>
     </body>
 </opml>
