@@ -108,6 +108,7 @@ A curated list of data science blogs
 * korbonits | Math ∩ Data http://korbonits.github.io/ [(RSS)] (http://korbonits.github.io/feed.xml)
 * p-value.info http://www.p-value.info/ [(RSS)] (http://www.p-value.info/feeds/posts/default)
 * John's Soapbox http://joschu.github.io/ [(RSS)] (http://joschu.github.io/feed.xml)
+* Bugra Akyildiz http://bugra.github.io/ [(RSS)] (http://bugra.github.io/feeds/all.atom.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
