@@ -23,6 +23,7 @@ A curated list of data science blogs
 * Data Science Tutorials https://codementor.io/data-science/tutorial [(RSS)] (https://www.codementor.io/data-science/tutorial/feed)
 * Dataaspirant http://dataaspirant.com/ [(RSS)] (http://dataaspirant.wordpress.com/feed/)
 * DataGenetics http://datagenetics.com/blog.html [(RSS)] (http://datagenetics.com/feed/rss.xml)
+* Datascope http://datascopeanalytics.com/blog [(RSS)] (http://datascopeanalytics.com/rss)
 * Dataquest Blog https://www.dataquest.io/blog/ [(RSS)] (https://www.dataquest.io/blog/atom.xml)
 * Dato Blog http://blog.dato.com/ [(RSS)] (http://blog.dato.com/rss.xml)
 * Dayne Batten http://daynebatten.com [(RSS)] (http://daynebatten.com/feed/)
