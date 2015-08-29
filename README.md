@@ -49,6 +49,7 @@ A curated list of data science blogs
 * Kenny Bastani http://www.kennybastani.com/ [(RSS)] (http://www.kennybastani.com/feeds/posts/default?alt=rss)
 * Kevin Davenport http://kldavenport.com/ [(RSS)] (http://kldavenport.com/feed/)
 * Large Scale Machine Learning  http://bickson.blogspot.com/ [(RSS)] (http://bickson.blogspot.com/feeds/posts/default)
+* Learning With Data http://learningwithdata.com/ [(RSS)] (http://learningwithdata.com/rss_feed.xml)
 * Life, Language, Learning http://daoudclarke.github.io/ [(RSS)] (http://daoudclarke.github.io/atom.xml)
 * Louis Dorard http://www.louisdorard.com/blog/ [(RSS)] (http://www.louisdorard.com/blog?format=rss)
 * M.E.Driscoll http://medriscoll.com/ [(RSS)] (http://medriscoll.com/rss)
