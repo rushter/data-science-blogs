@@ -29,6 +29,7 @@
 			<outline type="rss" text="Data Science Tutorials" title="Data Science Tutorials" xmlUrl="https://www.codementor.io/data-science/tutorial/feed" htmlUrl="https://codementor.io/data-science/tutorial"/>
 			<outline type="rss" text="Dataaspirant" title="Dataaspirant" xmlUrl="http://dataaspirant.wordpress.com/feed/" htmlUrl="http://dataaspirant.com/"/>
 			<outline type="rss" text="DataGenetics" title="DataGenetics" xmlUrl="http://datagenetics.com/feed/rss.xml" htmlUrl="http://datagenetics.com/blog.html"/>
+			<outline type="rss" text="Datascope" title="Datascope" xmlUrl="http://datascopeanalytics.com/rss" htmlUrl="http://datascopeanalytics.com/blog"/>
 			<outline type="rss" text="Dataquest Blog" title="Dataquest Blog" xmlUrl="https://www.dataquest.io/blog/atom.xml" htmlUrl="https://www.dataquest.io/blog/"/>
 			<outline type="rss" text="Dato Blog" title="Dato Blog" xmlUrl="http://blog.dato.com/rss.xml" htmlUrl="http://blog.dato.com/"/>
 			<outline type="rss" text="Dayne Batten" title="Dayne Batten" xmlUrl="http://daynebatten.com/feed/" htmlUrl="http://daynebatten.com"/>
@@ -54,6 +55,7 @@
 			<outline type="rss" text="Kenny Bastani" title="Kenny Bastani" xmlUrl="http://www.kennybastani.com/feeds/posts/default?alt=rss" htmlUrl="http://www.kennybastani.com/"/>
 			<outline type="rss" text="Kevin Davenport" title="Kevin Davenport" xmlUrl="http://kldavenport.com/feed/" htmlUrl="http://kldavenport.com/"/>
 			<outline type="rss" text="Large Scale Machine Learning" title="Large Scale Machine Learning" xmlUrl="http://bickson.blogspot.com/feeds/posts/default" htmlUrl="http://bickson.blogspot.com/"/>
+			<outline type="rss" text="Learning With Data" title="Learning With Data" xmlUrl="http://learningwithdata.com/rss_feed.xml" htmlUrl="http://learningwithdata.com/"/>
 			<outline type="rss" text="Life, Language, Learning" title="Life, Language, Learning" xmlUrl="http://daoudclarke.github.io/atom.xml" htmlUrl="http://daoudclarke.github.io/"/>
 			<outline type="rss" text="Louis Dorard" title="Louis Dorard" xmlUrl="http://www.louisdorard.com/blog?format=rss" htmlUrl="http://www.louisdorard.com/blog/"/>
 			<outline type="rss" text="M.E.Driscoll" title="M.E.Driscoll" xmlUrl="http://medriscoll.com/rss" htmlUrl="http://medriscoll.com/"/>
@@ -113,6 +115,8 @@
 			<outline type="rss" text="Advanced Analytics &amp; R" title="Advanced Analytics &amp; R" xmlUrl="http://advanceddataanalytics.net/feed/" htmlUrl="http://advanceddataanalytics.net/"/>
 			<outline type="rss" text="korbonits | Math ∩ Data" title="korbonits | Math ∩ Data" xmlUrl="http://korbonits.github.io/feed.xml" htmlUrl="http://korbonits.github.io/"/>
 			<outline type="rss" text="p-value.info" title="p-value.info" xmlUrl="http://www.p-value.info/feeds/posts/default" htmlUrl="http://www.p-value.info/"/>
+			<outline type="rss" text="John&#x27;s Soapbox" title="John&#x27;s Soapbox" xmlUrl="http://joschu.github.io/feed.xml" htmlUrl="http://joschu.github.io/"/>
+			<outline type="rss" text="Bugra Akyildiz" title="Bugra Akyildiz" xmlUrl="http://bugra.github.io/feeds/all.atom.xml" htmlUrl="http://bugra.github.io/"/>
         </outline>
     </body>
 </opml>
