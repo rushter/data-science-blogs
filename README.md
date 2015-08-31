@@ -111,6 +111,7 @@ A curated list of data science blogs
 * p-value.info http://www.p-value.info/ [(RSS)] (http://www.p-value.info/feeds/posts/default)
 * John's Soapbox http://joschu.github.io/ [(RSS)] (http://joschu.github.io/feed.xml)
 * Bugra Akyildiz http://bugra.github.io/ [(RSS)] (http://bugra.github.io/feeds/all.atom.xml)
+* The unofficial Google data science Blog http://www.unofficialgoogledatascience.com/ [(RSS)] (http://www.unofficialgoogledatascience.com/feeds/posts/default)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
