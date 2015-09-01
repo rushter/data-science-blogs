@@ -113,6 +113,7 @@ A curated list of data science blogs
 * Bugra Akyildiz http://bugra.github.io/ [(RSS)] (http://bugra.github.io/feeds/all.atom.xml)
 * The unofficial Google data science Blog http://www.unofficialgoogledatascience.com/ [(RSS)] (http://www.unofficialgoogledatascience.com/feeds/posts/default)
 * Ahmed El Deeb https://medium.com/@D33B [(RSS)] (https://medium.com/feed/@D33B)
+* LATERAL BLOG https://blog.lateral.io/ [(RSS)] (https://blog.lateral.io/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
