@@ -116,6 +116,7 @@ A curated list of data science blogs
 * LATERAL BLOG https://blog.lateral.io/ [(RSS)] (https://blog.lateral.io/feed/)
 * Jesse Steinweg-Woods https://jessesw.com/ [(RSS)] (https://jessesw.com/feed.xml)
 * Joe Cauteruccio http://www.joecjr.com/ [(RSS)] (http://www.joecjr.com/feed/)
+* Aakash Japi http://aakashjapi.com/ [(RSS)] (http://logicx24.github.io/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
