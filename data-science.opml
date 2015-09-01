@@ -118,6 +118,9 @@
 			<outline type="rss" text="John&#x27;s Soapbox" title="John&#x27;s Soapbox" xmlUrl="http://joschu.github.io/feed.xml" htmlUrl="http://joschu.github.io/"/>
 			<outline type="rss" text="Bugra Akyildiz" title="Bugra Akyildiz" xmlUrl="http://bugra.github.io/feeds/all.atom.xml" htmlUrl="http://bugra.github.io/"/>
 			<outline type="rss" text="The unofficial Google data science Blog" title="The unofficial Google data science Blog" xmlUrl="http://www.unofficialgoogledatascience.com/feeds/posts/default" htmlUrl="http://www.unofficialgoogledatascience.com/"/>
+			<outline type="rss" text="Ahmed El Deeb" title="Ahmed El Deeb" xmlUrl="https://medium.com/feed/@D33B" htmlUrl="https://medium.com/@D33B"/>
+			<outline type="rss" text="LATERAL BLOG" title="LATERAL BLOG" xmlUrl="https://blog.lateral.io/feed/" htmlUrl="https://blog.lateral.io/"/>
+			<outline type="rss" text="Jesse Steinweg-Woods" title="Jesse Steinweg-Woods" xmlUrl="https://jessesw.com/feed.xml" htmlUrl="https://jessesw.com/"/>
         </outline>
     </body>
 </opml>
