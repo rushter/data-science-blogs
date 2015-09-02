@@ -1,4 +1,4 @@
-# Data science blogs
+﻿# Data science blogs
 A curated list of data science blogs
 * Aakash Japi http://aakashjapi.com/ [(RSS)] (http://logicx24.github.io/feed.xml)
 * Advanced Analytics & R http://advanceddataanalytics.net/ [(RSS)] (http://advanceddataanalytics.net/feed/)
@@ -36,6 +36,7 @@ A curated list of data science blogs
 * Dayne Batten http://daynebatten.com [(RSS)] (http://daynebatten.com/feed/)
 * Deep Learning http://deeplearning.net/feed/ [(RSS)] (http://deeplearning.net/feed/)
 * Deep Learning https://timdettmers.wordpress.com/ [(RSS)] (http://timdettmers.wordpress.com/feed/)
+* Diving into data https://blog.datadive.net/ [(RSS)] (http://blog.datadive.net/feed/)
 * Domino Data Lab's blog http://blog.dominodatalab.com/ [(RSS)] (http://blog.dominodatalab.com/rss/)
 * Dr. Randal S. Olson http://www.randalolson.com/blog/ [(RSS)] (http://www.randalolson.com/feed/)
 * Edwin Chen http://blog.echen.me [(RSS)] (http://blog.echen.me/feeds/all.rss.xml)
