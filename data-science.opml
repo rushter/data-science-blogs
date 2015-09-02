@@ -42,6 +42,7 @@
 			<outline type="rss" text="Dayne Batten" title="Dayne Batten" xmlUrl="http://daynebatten.com/feed/" htmlUrl="http://daynebatten.com"/>
 			<outline type="rss" text="Deep Learning" title="Deep Learning" xmlUrl="http://deeplearning.net/feed/" htmlUrl="http://deeplearning.net/feed/"/>
 			<outline type="rss" text="Deep Learning" title="Deep Learning" xmlUrl="http://timdettmers.wordpress.com/feed/" htmlUrl="https://timdettmers.wordpress.com/"/>
+			<outline type="rss" text="Diving into data" title="Diving into data" xmlUrl="http://blog.datadive.net/feed/" htmlUrl="https://blog.datadive.net/"/>
 			<outline type="rss" text="Domino Data Lab&#x27;s blog" title="Domino Data Lab&#x27;s blog" xmlUrl="http://blog.dominodatalab.com/rss/" htmlUrl="http://blog.dominodatalab.com/"/>
 			<outline type="rss" text="Dr. Randal S. Olson" title="Dr. Randal S. Olson" xmlUrl="http://www.randalolson.com/feed/" htmlUrl="http://www.randalolson.com/blog/"/>
 			<outline type="rss" text="Edwin Chen" title="Edwin Chen" xmlUrl="http://blog.echen.me/feeds/all.rss.xml" htmlUrl="http://blog.echen.me"/>
