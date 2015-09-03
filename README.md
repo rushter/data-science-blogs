@@ -100,6 +100,7 @@ A curated list of data science blogs
 * Startup.ML Blog http://startup.ml/blog [(RSS)] (http://startup.ml/blog)
 * Stitch Fix Tech Blog http://multithreaded.stitchfix.com/blog/ [(RSS)] (http://multithreaded.stitchfix.com/feed.xml)
 * Storytelling with Statistics on Quora http://datastories.quora.com/ [(RSS)] (http://datastories.quora.com/rss)
+* Subconscious Musings http://blogs.sas.com/content/subconsciousmusings/ [(RSS)] (http://feeds.feedburner.com/advanalytics)
 * TechNet http://blogs.technet.com/b/machinelearning/default.aspx [(RSS)] (http://blogs.technet.com/b/machinelearning/rss.aspx)
 * The Angry Statistician http://angrystatistician.blogspot.com/ [(RSS)] (http://angrystatistician.blogspot.com/feeds/posts/default)
 * The Data Camp Blog http://blog.datacamp.com [(RSS)] (http://blog.datacamp.com/feed/)
