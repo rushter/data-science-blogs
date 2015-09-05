@@ -106,6 +106,7 @@
 			<outline type="rss" text="Startup.ML Blog" title="Startup.ML Blog" xmlUrl="http://startup.ml/blog" htmlUrl="http://startup.ml/blog"/>
 			<outline type="rss" text="Stitch Fix Tech Blog" title="Stitch Fix Tech Blog" xmlUrl="http://multithreaded.stitchfix.com/feed.xml" htmlUrl="http://multithreaded.stitchfix.com/blog/"/>
 			<outline type="rss" text="Storytelling with Statistics on Quora" title="Storytelling with Statistics on Quora" xmlUrl="http://datastories.quora.com/rss" htmlUrl="http://datastories.quora.com/"/>
+			<outline type="rss" text="Subconscious Musings" title="Subconscious Musings" xmlUrl="http://feeds.feedburner.com/advanalytics" htmlUrl="http://blogs.sas.com/content/subconsciousmusings/"/>
 			<outline type="rss" text="TechNet" title="TechNet" xmlUrl="http://blogs.technet.com/b/machinelearning/rss.aspx" htmlUrl="http://blogs.technet.com/b/machinelearning/default.aspx"/>
 			<outline type="rss" text="The Angry Statistician" title="The Angry Statistician" xmlUrl="http://angrystatistician.blogspot.com/feeds/posts/default" htmlUrl="http://angrystatistician.blogspot.com/"/>
 			<outline type="rss" text="The Data Camp Blog" title="The Data Camp Blog" xmlUrl="http://blog.datacamp.com/feed/" htmlUrl="http://blog.datacamp.com"/>
