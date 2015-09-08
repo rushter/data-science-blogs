@@ -119,6 +119,7 @@ A curated list of data science blogs
 * Yanir Seroussi http://yanirseroussi.com/ [(RSS)] (http://yanirseroussi.com/feed/)
 * Zac Stewart http://zacstewart.com/ [(RSS)] (http://zacstewart.com/feed.xml)
 * ŷhat http://blog.yhathq.com/ [(RSS)] (http://blog.yhathq.com/rss.xml)
+* Alex Perrier http://alexperrier.github.io/ [(RSS)] (http://alexperrier.github.io/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
