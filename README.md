@@ -122,6 +122,7 @@ A curated list of data science blogs
 * Alex Perrier http://alexperrier.github.io/ [(RSS)] (http://alexperrier.github.io/feed.xml)
 * A Blog From a Human-engineer-being http://www.erogol.com/ [(RSS)] (http://www.erogol.com/feed/)
 * DataRobot http://www.datarobot.com/blog/ [(RSS)] (http://www.datarobot.com/feed/)
+* Robert Chang https://medium.com/@rchang [(RSS)] (https://medium.com/feed/@rchang)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
