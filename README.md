@@ -125,6 +125,7 @@ A curated list of data science blogs
 * Robert Chang https://medium.com/@rchang [(RSS)] (https://medium.com/feed/@rchang)
 * DataLook http://blog.datalook.io/ [(RSS)] (http://blog.datalook.io/feed/)
 * Mitch Crowe http://www.dataphoric.com/ [(RSS)] (http://www.dataphoric.com/feed.xml)
+* Connect with Data Science http://www.datasciencebowl.com/connect-with-data-science/ [(RSS)] (http://www.datasciencebowl.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
