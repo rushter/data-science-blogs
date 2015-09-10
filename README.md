@@ -133,6 +133,7 @@ A curated list of data science blogs
 * TechnoCalifornia http://technocalifornia.blogspot.se/ [(RSS)] (http://technocalifornia.blogspot.com/feeds/posts/default)
 * INSPIRATION INFORMATION http://myinspirationinformation.com/ [(RSS)] (http://myinspirationinformation.com/feed/)
 * Publishable Stuff http://www.sumsar.net/ [(RSS)] (http://www.sumsar.net/atom.xml)
+* TEXT ANALYSIS BLOG | AYLIEN http://blog.aylien.com/ [(RSS)] (http://blog.aylien.com/rss)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
