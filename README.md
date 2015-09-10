@@ -130,6 +130,7 @@ A curated list of data science blogs
 * Jeremy D. Jackson, PhD http://www.jeremydjacksonphd.com/ [(RSS)] (http://www.jeremydjacksonphd.com/?feed=rss2)
 * Shakir's Machine Learning Blog http://blog.shakirm.com/ [(RSS)] (http://blog.shakirm.com/feed/)
 * Melody Wolk http://melodywolk.com/projects/ [(RSS)] (http://melodywolk.com/feed/)
+* TechnoCalifornia http://technocalifornia.blogspot.se/ [(RSS)] (http://technocalifornia.blogspot.com/feeds/posts/default)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
