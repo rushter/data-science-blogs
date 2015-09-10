@@ -136,6 +136,7 @@ A curated list of data science blogs
 * TEXT ANALYSIS BLOG | AYLIEN http://blog.aylien.com/ [(RSS)] (http://blog.aylien.com/rss)
 * Sebastian's slow blog http://www.nowozin.net/sebastian/blog/ [(RSS)] (http://www.nowozin.net/sebastian/blog/feeds/all.atom.xml)
 * MAREK REI http://www.marekrei.com/blog/ [(RSS)] (http://www.marekrei.com/blog/feed/)
+* Probably Overthinking It http://allendowney.blogspot.ca/ [(RSS)] (http://allendowney.blogspot.com/feeds/posts/default)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
