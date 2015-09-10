@@ -131,6 +131,7 @@ A curated list of data science blogs
 * Shakir's Machine Learning Blog http://blog.shakirm.com/ [(RSS)] (http://blog.shakirm.com/feed/)
 * Melody Wolk http://melodywolk.com/projects/ [(RSS)] (http://melodywolk.com/feed/)
 * TechnoCalifornia http://technocalifornia.blogspot.se/ [(RSS)] (http://technocalifornia.blogspot.com/feeds/posts/default)
+* INSPIRATION INFORMATION http://myinspirationinformation.com/ [(RSS)] (http://myinspirationinformation.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
