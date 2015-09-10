@@ -134,6 +134,7 @@ A curated list of data science blogs
 * INSPIRATION INFORMATION http://myinspirationinformation.com/ [(RSS)] (http://myinspirationinformation.com/feed/)
 * Publishable Stuff http://www.sumsar.net/ [(RSS)] (http://www.sumsar.net/atom.xml)
 * TEXT ANALYSIS BLOG | AYLIEN http://blog.aylien.com/ [(RSS)] (http://blog.aylien.com/rss)
+* Sebastian's slow blog http://www.nowozin.net/sebastian/blog/ [(RSS)] (http://www.nowozin.net/sebastian/blog/feeds/all.atom.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
