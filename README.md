@@ -129,6 +129,7 @@ A curated list of data science blogs
 * Drew Conway https://medium.com/@drewconway [(RSS)] (https://medium.com/feed/@drewconway)
 * Jeremy D. Jackson, PhD http://www.jeremydjacksonphd.com/ [(RSS)] (http://www.jeremydjacksonphd.com/?feed=rss2)
 * Shakir's Machine Learning Blog http://blog.shakirm.com/ [(RSS)] (http://blog.shakirm.com/feed/)
+* Melody Wolk http://melodywolk.com/projects/ [(RSS)] (http://melodywolk.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
