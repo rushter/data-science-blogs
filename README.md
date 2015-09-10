@@ -127,6 +127,8 @@ A curated list of data science blogs
 * Mitch Crowe http://www.dataphoric.com/ [(RSS)] (http://www.dataphoric.com/feed.xml)
 * Connect with Data Science http://www.datasciencebowl.com/connect-with-data-science/ [(RSS)] (http://www.datasciencebowl.com/feed/)
 * Drew Conway https://medium.com/@drewconway [(RSS)] (https://medium.com/feed/@drewconway)
+* Jeremy D. Jackson, PhD http://www.jeremydjacksonphd.com/ [(RSS)] (http://www.jeremydjacksonphd.com/?feed=rss2)
+* 
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
