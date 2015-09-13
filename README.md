@@ -97,7 +97,7 @@ A curated list of data science blogs
 * Sean J. Taylor http://seanjtaylor.com/ [(RSS)] (http://seanjtaylor.com/rss)
 * Sebastian Raschka http://sebastianraschka.com/articles.html [(RSS)] (http://sebastianraschka.com/rss_feed.xml)
 * Simply Statistics http://simplystatistics.org [(RSS)] (http://simplystatistics.org/feed/)
-* Startup.ML Blog http://startup.ml/blog [(RSS)] (http://startup.ml/blog)
+* Startup.ML Blog http://startup.ml/blog [(RSS)] (http://www.startup.ml/blog?format=RSS)
 * Stitch Fix Tech Blog http://multithreaded.stitchfix.com/blog/ [(RSS)] (http://multithreaded.stitchfix.com/feed.xml)
 * Storytelling with Statistics on Quora http://datastories.quora.com/ [(RSS)] (http://datastories.quora.com/rss)
 * Subconscious Musings http://blogs.sas.com/content/subconsciousmusings/ [(RSS)] (http://feeds.feedburner.com/advanalytics)
