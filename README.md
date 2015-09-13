@@ -138,6 +138,7 @@ A curated list of data science blogs
 * MAREK REI http://www.marekrei.com/blog/ [(RSS)] (http://www.marekrei.com/blog/feed/)
 * Probably Overthinking It http://allendowney.blogspot.ca/ [(RSS)] (http://allendowney.blogspot.com/feeds/posts/default)
 * WildML http://www.wildml.com/ [(RSS)] (http://www.wildml.com/feed/)
+* MARGINALLY INTERESTING http://blog.mikiobraun.de/ [(RSS)] (http://feeds.feedburner.com/MarginallyInteresting)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
