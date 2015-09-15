@@ -141,6 +141,7 @@ A curated list of data science blogs
 * ŷhat http://blog.yhathq.com/ [(RSS)] (http://blog.yhathq.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)] (http://outlace.com/feed.xml)
 * District Data Labs http://districtdatalabs.silvrback.com/ [(RSS)] (https://districtdatalabs.silvrback.com/feed)
+* inFERENCe http://www.inference.vc/ [(RSS)] (http://www.inference.vc/rss/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
