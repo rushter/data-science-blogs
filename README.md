@@ -144,6 +144,7 @@ A curated list of data science blogs
 * inFERENCe http://www.inference.vc/ [(RSS)] (http://www.inference.vc/rss/)
 * Stigler Diet http://stiglerdiet.com/ [(RSS)] (http://stiglerdiet.com/feeds/all.atom.xml)
 * Data Piques http://blog.ethanrosenthal.com/ [(RSS)] (http://blog.ethanrosenthal.com/atom.xml)
+* RNDuja Blog http://rnduja.github.io/ [(RSS)] (http://rnduja.github.io/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
