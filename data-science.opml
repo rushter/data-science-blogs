@@ -146,6 +146,10 @@
 			<outline type="rss" text="Zac Stewart" title="Zac Stewart" xmlUrl="http://zacstewart.com/feed.xml" htmlUrl="http://zacstewart.com/"/>
 			<outline type="rss" text="ŷhat" title="ŷhat" xmlUrl="http://blog.yhathq.com/rss.xml" htmlUrl="http://blog.yhathq.com/"/>
 			<outline type="rss" text="ℚuantitative √ourney" title="ℚuantitative √ourney" xmlUrl="http://outlace.com/feed.xml" htmlUrl="http://outlace.com/"/>
+			<outline type="rss" text="District Data Labs" title="District Data Labs" xmlUrl="https://districtdatalabs.silvrback.com/feed" htmlUrl="http://districtdatalabs.silvrback.com/"/>
+			<outline type="rss" text="inFERENCe" title="inFERENCe" xmlUrl="http://www.inference.vc/rss/" htmlUrl="http://www.inference.vc/"/>
+			<outline type="rss" text="Stigler Diet" title="Stigler Diet" xmlUrl="http://stiglerdiet.com/feeds/all.atom.xml" htmlUrl="http://stiglerdiet.com/"/>
+			<outline type="rss" text="Data Piques" title="Data Piques" xmlUrl="http://blog.ethanrosenthal.com/atom.xml" htmlUrl="http://blog.ethanrosenthal.com/"/>
         </outline>
     </body>
 </opml>
