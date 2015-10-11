@@ -56,11 +56,13 @@
 			<outline type="rss" text="Entrepreneurial Geekiness" title="Entrepreneurial Geekiness" xmlUrl="http://ianozsvald.com/feed/" htmlUrl="http://ianozsvald.com/"/>
 			<outline type="rss" text="Eric Siegel" title="Eric Siegel" xmlUrl="http://feeds.feedburner.com/predictiveanalyticsworld/GXRy" htmlUrl="http://www.predictiveanalyticsworld.com/blog"/>
 			<outline type="rss" text="Fabian Pedregosa" title="Fabian Pedregosa" xmlUrl="http://fa.bianp.net/blog/feed/" htmlUrl="http://fa.bianp.net/"/>
+			<outline type="rss" text="Fast Forward Labs" title="Fast Forward Labs" xmlUrl="http://blog.fastforwardlabs.com/rss" htmlUrl="http://blog.fastforwardlabs.com/"/>
 			<outline type="rss" text="FastML" title="FastML" xmlUrl="http://fastml.com/atom.xml" htmlUrl="http://fastml.com/"/>
 			<outline type="rss" text="Garbled Notes" title="Garbled Notes" xmlUrl="http://www.chioka.in/feed/" htmlUrl="http://www.chioka.in/"/>
 			<outline type="rss" text="Greg Reda" title="Greg Reda" xmlUrl="http://www.gregreda.com/feeds/all.atom.xml" htmlUrl="http://www.gregreda.com/blog/"/>
 			<outline type="rss" text="i am trask" title="i am trask" xmlUrl="http://iamtrask.github.io/feed.xml" htmlUrl="http://iamtrask.github.io/"/>
 			<outline type="rss" text="I Quant NY" title="I Quant NY" xmlUrl="http://iquantny.tumblr.com/rss" htmlUrl="http://iquantny.tumblr.com/"/>
+			<outline type="rss" text="iDiBON" title="iDiBON" xmlUrl="http://idibon.com/blog/rss" htmlUrl="http://idibon.com/blog/"/>
 			<outline type="rss" text="INSPIRATION INFORMATION" title="INSPIRATION INFORMATION" xmlUrl="http://myinspirationinformation.com/feed/" htmlUrl="http://myinspirationinformation.com/"/>
 			<outline type="rss" text="I’m a bandit" title="I’m a bandit" xmlUrl="https://blogs.princeton.edu/imabandit/feed/" htmlUrl="https://blogs.princeton.edu/imabandit/"/>
 			<outline type="rss" text="Jeremy D. Jackson, PhD" title="Jeremy D. Jackson, PhD" xmlUrl="http://www.jeremydjacksonphd.com/?feed=rss2" htmlUrl="http://www.jeremydjacksonphd.com/"/>
@@ -150,6 +152,7 @@
 			<outline type="rss" text="inFERENCe" title="inFERENCe" xmlUrl="http://www.inference.vc/rss/" htmlUrl="http://www.inference.vc/"/>
 			<outline type="rss" text="Stigler Diet" title="Stigler Diet" xmlUrl="http://stiglerdiet.com/feeds/all.atom.xml" htmlUrl="http://stiglerdiet.com/"/>
 			<outline type="rss" text="Data Piques" title="Data Piques" xmlUrl="http://blog.ethanrosenthal.com/atom.xml" htmlUrl="http://blog.ethanrosenthal.com/"/>
+			<outline type="rss" text="RNDuja Blog" title="RNDuja Blog" xmlUrl="http://rnduja.github.io/feed.xml" htmlUrl="http://rnduja.github.io/"/>
         </outline>
     </body>
 </opml>
