@@ -10,6 +10,7 @@ A curated list of data science blogs
 * Alex Perrier http://alexperrier.github.io/ [(RSS)] (http://alexperrier.github.io/feed.xml)
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)] (http://feeds.feedburner.com/AnalyticsVidhya)
 * Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
+* Andreas Müller http://peekaboo-vision.blogspot.com/ [(RSS)] (http://peekaboo-vision.blogspot.com/atom.xml)
 * Beautiful Data http://beautifuldata.net/ [(RSS)] (http://beautifuldata.net/feed/)
 * Beckerfuffle http://mdbecker.github.io/ [(RSS)] (http://mdbecker.github.io/atom.xml)
 * Becoming A Data Scientist http://www.becomingadatascientist.com/ [(RSS)] (http://www.becomingadatascientist.com/feed/)
