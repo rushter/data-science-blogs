@@ -73,6 +73,7 @@ A curated list of data science blogs
 * korbonits | Math ∩ Data http://korbonits.github.io/ [(RSS)] (http://korbonits.github.io/feed.xml)
 * Large Scale Machine Learning  http://bickson.blogspot.com/ [(RSS)] (http://bickson.blogspot.com/feeds/posts/default)
 * LATERAL BLOG https://blog.lateral.io/ [(RSS)] (https://blog.lateral.io/feed/)
+* LearnDataSci https://learndatasci.com/ [(RSS)] (https://learndatasci.com/feed/)
 * Learning With Data http://learningwithdata.com/ [(RSS)] (http://learningwithdata.com/rss_feed.xml)
 * Life, Language, Learning http://daoudclarke.github.io/ [(RSS)] (http://daoudclarke.github.io/atom.xml)
 * Louis Dorard http://www.louisdorard.com/blog/ [(RSS)] (http://www.louisdorard.com/blog?format=rss)
