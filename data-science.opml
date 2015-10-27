@@ -16,6 +16,7 @@
 			<outline type="rss" text="Alex Perrier" title="Alex Perrier" xmlUrl="http://alexperrier.github.io/feed.xml" htmlUrl="http://alexperrier.github.io/"/>
 			<outline type="rss" text="Analytics Vidhya" title="Analytics Vidhya" xmlUrl="http://feeds.feedburner.com/AnalyticsVidhya" htmlUrl="http://www.analyticsvidhya.com/blog/"/>
 			<outline type="rss" text="Andrej Karpathy blog" title="Andrej Karpathy blog" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
+			<outline type="rss" text="Andreas Müller" title="Andreas Müller" xmlUrl="http://peekaboo-vision.blogspot.com/atom.xml" htmlUrl="http://peekaboo-vision.blogspot.com/"/>
 			<outline type="rss" text="Beautiful Data" title="Beautiful Data" xmlUrl="http://beautifuldata.net/feed/" htmlUrl="http://beautifuldata.net/"/>
 			<outline type="rss" text="Beckerfuffle" title="Beckerfuffle" xmlUrl="http://mdbecker.github.io/atom.xml" htmlUrl="http://mdbecker.github.io/"/>
 			<outline type="rss" text="Becoming A Data Scientist" title="Becoming A Data Scientist" xmlUrl="http://www.becomingadatascientist.com/feed/" htmlUrl="http://www.becomingadatascientist.com/"/>
@@ -78,6 +79,7 @@
 			<outline type="rss" text="korbonits | Math ∩ Data" title="korbonits | Math ∩ Data" xmlUrl="http://korbonits.github.io/feed.xml" htmlUrl="http://korbonits.github.io/"/>
 			<outline type="rss" text="Large Scale Machine Learning" title="Large Scale Machine Learning" xmlUrl="http://bickson.blogspot.com/feeds/posts/default" htmlUrl="http://bickson.blogspot.com/"/>
 			<outline type="rss" text="LATERAL BLOG" title="LATERAL BLOG" xmlUrl="https://blog.lateral.io/feed/" htmlUrl="https://blog.lateral.io/"/>
+			<outline type="rss" text="LearnDataSci" title="LearnDataSci" xmlUrl="http://www.learndatasci.com/feed/" htmlUrl="https://learndatasci.com/"/>
 			<outline type="rss" text="Learning With Data" title="Learning With Data" xmlUrl="http://learningwithdata.com/rss_feed.xml" htmlUrl="http://learningwithdata.com/"/>
 			<outline type="rss" text="Life, Language, Learning" title="Life, Language, Learning" xmlUrl="http://daoudclarke.github.io/atom.xml" htmlUrl="http://daoudclarke.github.io/"/>
 			<outline type="rss" text="Louis Dorard" title="Louis Dorard" xmlUrl="http://www.louisdorard.com/blog?format=rss" htmlUrl="http://www.louisdorard.com/blog/"/>
