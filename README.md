@@ -149,7 +149,7 @@ A curated list of data science blogs
 * Stigler Diet http://stiglerdiet.com/ [(RSS)] (http://stiglerdiet.com/feeds/all.atom.xml)
 * Data Piques http://blog.ethanrosenthal.com/ [(RSS)] (http://blog.ethanrosenthal.com/atom.xml)
 * RNDuja Blog http://rnduja.github.io/ [(RSS)] (http://rnduja.github.io/feed.xml)
-* http://datasciencedegree.wisconsin.edu/blog/ [(RSS)] (http://datasciencedegree.wisconsin.edu/feed/)
+* UW Data Science Blog http://datasciencedegree.wisconsin.edu/blog/ [(RSS)] (http://datasciencedegree.wisconsin.edu/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
