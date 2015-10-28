@@ -50,6 +50,7 @@ A curated list of data science blogs
 * Emilio Ferrara, Ph.D.  http://www.emilio.ferrara.name/ [(RSS)] (http://www.emilio.ferrara.name/feed/)
 * Entrepreneurial Geekiness http://ianozsvald.com/ [(RSS)] (http://ianozsvald.com/feed/)
 * Eric Siegel http://www.predictiveanalyticsworld.com/blog [(RSS)] (http://feeds.feedburner.com/predictiveanalyticsworld/GXRy)
+* Erik Bern http://erikbern.com [(RSS)] (http://erikbern.com/feed/)
 * Fabian Pedregosa http://fa.bianp.net/ [(RSS)] (http://fa.bianp.net/blog/feed/)
 * Fast Forward Labs http://blog.fastforwardlabs.com/ [(RSS)] (http://blog.fastforwardlabs.com/rss)
 * FastML http://fastml.com/ [(RSS)] (http://fastml.com/atom.xml)
