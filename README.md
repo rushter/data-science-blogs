@@ -152,6 +152,9 @@ A curated list of data science blogs
 * RNDuja Blog http://rnduja.github.io/ [(RSS)] (http://rnduja.github.io/feed.xml)
 * UW Data Science Blog http://datasciencedegree.wisconsin.edu/blog/ [(RSS)] (http://datasciencedegree.wisconsin.edu/feed/)
 * The Data Incubator http://blog.thedataincubator.com/ [(RSS)] (http://blog.thedataincubator.com/feed/)
+* The Clever Machine https://theclevermachine.wordpress.com/ [(RSS)] (http://theclevermachine.wordpress.com/feed/)
+* Machine Learning, etc http://yaroslavvb.blogspot.com [(RSS)] (http://yaroslavvb.blogspot.com/feeds/posts/default)
+* RaRe Technologies http://rare-technologies.com/blog/ [(RSS)] (http://rare-technologies.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
