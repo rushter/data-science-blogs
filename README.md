@@ -155,6 +155,7 @@ A curated list of data science blogs
 * The Clever Machine https://theclevermachine.wordpress.com/ [(RSS)] (http://theclevermachine.wordpress.com/feed/)
 * Machine Learning, etc http://yaroslavvb.blogspot.com [(RSS)] (http://yaroslavvb.blogspot.com/feeds/posts/default)
 * RaRe Technologies http://rare-technologies.com/blog/ [(RSS)] (http://rare-technologies.com/feed/)
+* Data Labs http://blog.insightdatalabs.com/ [(RSS)] (http://blog.insightdatalabs.com/rss/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
