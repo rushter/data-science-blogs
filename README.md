@@ -151,6 +151,7 @@ A curated list of data science blogs
 * Data Piques http://blog.ethanrosenthal.com/ [(RSS)] (http://blog.ethanrosenthal.com/atom.xml)
 * RNDuja Blog http://rnduja.github.io/ [(RSS)] (http://rnduja.github.io/feed.xml)
 * UW Data Science Blog http://datasciencedegree.wisconsin.edu/blog/ [(RSS)] (http://datasciencedegree.wisconsin.edu/feed/)
+* The Data Incubator http://blog.thedataincubator.com/ [(RSS)] (http://blog.thedataincubator.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
