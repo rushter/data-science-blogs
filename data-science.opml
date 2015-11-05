@@ -56,6 +56,7 @@
 			<outline type="rss" text="Emilio Ferrara, Ph.D." title="Emilio Ferrara, Ph.D." xmlUrl="http://www.emilio.ferrara.name/feed/" htmlUrl="http://www.emilio.ferrara.name/"/>
 			<outline type="rss" text="Entrepreneurial Geekiness" title="Entrepreneurial Geekiness" xmlUrl="http://ianozsvald.com/feed/" htmlUrl="http://ianozsvald.com/"/>
 			<outline type="rss" text="Eric Siegel" title="Eric Siegel" xmlUrl="http://feeds.feedburner.com/predictiveanalyticsworld/GXRy" htmlUrl="http://www.predictiveanalyticsworld.com/blog"/>
+			<outline type="rss" text="Erik Bern" title="Erik Bern" xmlUrl="http://erikbern.com/feed/" htmlUrl="http://erikbern.com"/>
 			<outline type="rss" text="Fabian Pedregosa" title="Fabian Pedregosa" xmlUrl="http://fa.bianp.net/blog/feed/" htmlUrl="http://fa.bianp.net/"/>
 			<outline type="rss" text="Fast Forward Labs" title="Fast Forward Labs" xmlUrl="http://blog.fastforwardlabs.com/rss" htmlUrl="http://blog.fastforwardlabs.com/"/>
 			<outline type="rss" text="FastML" title="FastML" xmlUrl="http://fastml.com/atom.xml" htmlUrl="http://fastml.com/"/>
@@ -155,6 +156,13 @@
 			<outline type="rss" text="Stigler Diet" title="Stigler Diet" xmlUrl="http://stiglerdiet.com/feeds/all.atom.xml" htmlUrl="http://stiglerdiet.com/"/>
 			<outline type="rss" text="Data Piques" title="Data Piques" xmlUrl="http://blog.ethanrosenthal.com/atom.xml" htmlUrl="http://blog.ethanrosenthal.com/"/>
 			<outline type="rss" text="RNDuja Blog" title="RNDuja Blog" xmlUrl="http://rnduja.github.io/feed.xml" htmlUrl="http://rnduja.github.io/"/>
+			<outline type="rss" text="UW Data Science Blog" title="UW Data Science Blog" xmlUrl="http://datasciencedegree.wisconsin.edu/feed/" htmlUrl="http://datasciencedegree.wisconsin.edu/blog/"/>
+			<outline type="rss" text="The Data Incubator" title="The Data Incubator" xmlUrl="http://blog.thedataincubator.com/feed/" htmlUrl="http://blog.thedataincubator.com/"/>
+			<outline type="rss" text="The Clever Machine" title="The Clever Machine" xmlUrl="http://theclevermachine.wordpress.com/feed/" htmlUrl="https://theclevermachine.wordpress.com/"/>
+			<outline type="rss" text="Machine Learning, etc" title="Machine Learning, etc" xmlUrl="http://yaroslavvb.blogspot.com/feeds/posts/default" htmlUrl="http://yaroslavvb.blogspot.com"/>
+			<outline type="rss" text="RaRe Technologies" title="RaRe Technologies" xmlUrl="http://rare-technologies.com/feed/" htmlUrl="http://rare-technologies.com/blog/"/>
+			<outline type="rss" text="Data Labs" title="Data Labs" xmlUrl="http://blog.insightdatalabs.com/rss/" htmlUrl="http://blog.insightdatalabs.com/"/>
+			<outline type="rss" text="Number 2147483647" title="Number 2147483647" xmlUrl="http://no2147483647.wordpress.com/feed/" htmlUrl="https://no2147483647.wordpress.com/"/>
         </outline>
     </body>
 </opml>
