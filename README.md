@@ -157,6 +157,7 @@ A curated list of data science blogs
 * RaRe Technologies http://rare-technologies.com/blog/ [(RSS)] (http://rare-technologies.com/feed/)
 * Data Labs http://blog.insightdatalabs.com/ [(RSS)] (http://blog.insightdatalabs.com/rss/)
 * Number 2147483647 https://no2147483647.wordpress.com/ [(RSS)] (http://no2147483647.wordpress.com/feed/)
+* David Mimno http://www.mimno.org/ [(RSS)] (http://mimno.infosci.cornell.edu/b/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
