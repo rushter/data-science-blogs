@@ -159,6 +159,7 @@ A curated list of data science blogs
 * Number 2147483647 https://no2147483647.wordpress.com/ [(RSS)] (http://no2147483647.wordpress.com/feed/)
 * David Mimno http://www.mimno.org/ [(RSS)] (http://mimno.infosci.cornell.edu/b/feed.xml)
 * Avi Singh http://avisingh599.github.io/blog/ [(RSS)] (http://avisingh599.github.io/feed.xml)
+* StreamHacker http://streamhacker.com/ [(RSS)] (http://feeds.feedburner.com/StreamHacker)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
