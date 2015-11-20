@@ -162,6 +162,7 @@ A curated list of data science blogs
 * StreamHacker http://streamhacker.com/ [(RSS)] (http://feeds.feedburner.com/StreamHacker)
 * Deepdish http://deepdish.io/ [(RSS)] (http://deepdish.io/atom.xml)
 * William Lyon http://www.lyonwj.com/ [(RSS)] (http://www.lyonwj.com/atom.xml)
+* Full Stack ML http://fullstackml.com/ [(RSS)] (http://fullstackml.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
