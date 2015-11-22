@@ -163,6 +163,7 @@ A curated list of data science blogs
 * Deepdish http://deepdish.io/ [(RSS)] (http://deepdish.io/atom.xml)
 * William Lyon http://www.lyonwj.com/ [(RSS)] (http://www.lyonwj.com/atom.xml)
 * Full Stack ML http://fullstackml.com/ [(RSS)] (http://fullstackml.com/feed/)
+* Dataiku https://www.dataiku.com/blog/ [(RSS)] (http://www.dataiku.com/feed.xml) 
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
