@@ -35,6 +35,7 @@ A curated list of data science blogs
 * Dataclysm http://blog.okcupid.com/ [(RSS)] (http://blog.okcupid.com/index.php/feed/)
 * DataGenetics http://datagenetics.com/blog.html [(RSS)] (http://datagenetics.com/feed/rss.xml)
 * DataLook http://blog.datalook.io/ [(RSS)] (http://blog.datalook.io/feed/)
+* DataKind http://www.datakind.org/blog 
 * Dataquest Blog https://www.dataquest.io/blog/ [(RSS)] (https://www.dataquest.io/blog/atom.xml)
 * DataRobot http://www.datarobot.com/blog/ [(RSS)] (http://www.datarobot.com/feed/)
 * Datascope http://datascopeanalytics.com/blog [(RSS)] (http://datascopeanalytics.com/rss)
@@ -49,6 +50,7 @@ A curated list of data science blogs
 * Edwin Chen http://blog.echen.me [(RSS)] (http://blog.echen.me/feeds/all.rss.xml)
 * Emilio Ferrara, Ph.D.  http://www.emilio.ferrara.name/ [(RSS)] (http://www.emilio.ferrara.name/feed/)
 * Entrepreneurial Geekiness http://ianozsvald.com/ [(RSS)] (http://ianozsvald.com/feed/)
+* Eric Jonas http://ericjonas.com/archives.html 
 * Eric Siegel http://www.predictiveanalyticsworld.com/blog [(RSS)] (http://feeds.feedburner.com/predictiveanalyticsworld/GXRy)
 * Erik Bern http://erikbern.com [(RSS)] (http://erikbern.com/feed/)
 * Fabian Pedregosa http://fa.bianp.net/ [(RSS)] (http://fa.bianp.net/blog/feed/)
