@@ -28,6 +28,7 @@ A curated list of data science blogs
 * Data Miners Blog http://blog.data-miners.com/ [(RSS)] (http://blog.data-miners.com/feeds/posts/default?alt=rss)
 * Data Mining Research http://www.dataminingblog.com/ [(RSS)] (http://feeds.feedburner.com/dataminingblog)
 * Data Mining: Text Mining, Visualization and Social Media http://datamining.typepad.com/data_mining/ [(RSS)] (http://datamining.typepad.com/data_mining/atom.xml)
+* Data School http://www.dataschool.io/ [(RSS)] (http://www.dataschool.io/rss/)
 * Data Science 101 http://101.datascience.community/ [(RSS)] (http://101.datascience.community/feed/)
 * Data Science @ Facebook https://research.facebook.com/blog/datascience/ [(RSS)] (https://research.facebook.com/blog/rss)
 * Data Science Tutorials https://codementor.io/data-science/tutorial [(RSS)] (https://www.codementor.io/data-science/tutorial/feed)
