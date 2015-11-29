@@ -32,6 +32,7 @@ A curated list of data science blogs
 * Data Science 101 http://101.datascience.community/ [(RSS)] (http://101.datascience.community/feed/)
 * Data Science @ Facebook https://research.facebook.com/blog/datascience/ [(RSS)] (https://research.facebook.com/blog/rss)
 * Data Science Tutorials https://codementor.io/data-science/tutorial [(RSS)] (https://www.codementor.io/data-science/tutorial/feed)
+* Data Science Vademecum http://datasciencevademecum.wordpress.com/ [(RSS)] (http://datasciencevademecum.wordpress.com/feed/)
 * Dataaspirant http://dataaspirant.com/ [(RSS)] (http://dataaspirant.wordpress.com/feed/)
 * Dataclysm http://blog.okcupid.com/ [(RSS)] (http://blog.okcupid.com/index.php/feed/)
 * DataGenetics http://datagenetics.com/blog.html [(RSS)] (http://datagenetics.com/feed/rss.xml)
