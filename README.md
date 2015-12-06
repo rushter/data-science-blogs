@@ -169,6 +169,7 @@ A curated list of data science blogs
 * Full Stack ML http://fullstackml.com/ [(RSS)] (http://fullstackml.com/feed/)
 * Dataiku https://www.dataiku.com/blog/ [(RSS)] (http://www.dataiku.com/feed.xml)
 * EFavDB http://efavdb.com/ [(RSS)] (http://efavdb.com/feed/)
+* Florian Hartl http://florianhartl.com/ [(RSS)] (http://florianhartl.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
