@@ -170,6 +170,7 @@ A curated list of data science blogs
 * Dataiku https://www.dataiku.com/blog/ [(RSS)] (http://www.dataiku.com/feed.xml)
 * EFavDB http://efavdb.com/ [(RSS)] (http://efavdb.com/feed/)
 * Florian Hartl http://florianhartl.com/ [(RSS)] (http://florianhartl.com/feed/)
+* ERIN SHELLMAN http://www.erinshellman.com/ [(RSS)] (http://www.erinshellman.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
