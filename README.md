@@ -171,6 +171,7 @@ A curated list of data science blogs
 * EFavDB http://efavdb.com/ [(RSS)] (http://efavdb.com/feed/)
 * Florian Hartl http://florianhartl.com/ [(RSS)] (http://florianhartl.com/feed/)
 * ERIN SHELLMAN http://www.erinshellman.com/ [(RSS)] (http://www.erinshellman.com/feed/)
+* Rinu Boney http://rinuboney.github.io/ [(RSS)] (http://rinuboney.github.io/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
