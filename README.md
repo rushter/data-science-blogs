@@ -172,6 +172,7 @@ A curated list of data science blogs
 * Florian Hartl http://florianhartl.com/ [(RSS)] (http://florianhartl.com/feed/)
 * ERIN SHELLMAN http://www.erinshellman.com/ [(RSS)] (http://www.erinshellman.com/feed/)
 * Rinu Boney http://rinuboney.github.io/ [(RSS)] (http://rinuboney.github.io/feed.xml)
+* Opiate for the masses Data is our religion. http://opiateforthemass.es/ [(RSS)] (http://opiateforthemass.es/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
