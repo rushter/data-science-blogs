@@ -174,6 +174,7 @@ A curated list of data science blogs
 * Rinu Boney http://rinuboney.github.io/ [(RSS)] (http://rinuboney.github.io/feed.xml)
 * Opiate for the masses Data is our religion. http://opiateforthemass.es/ [(RSS)] (http://opiateforthemass.es/feed.xml)
 * Dustin Tran http://dustintran.com/blog/ [(RSS)] (http://dustintran.com/blog/rss/)
+* Mirror Image https://mirror2image.wordpress.com/ [(RSS)] (http://mirror2image.wordpress.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
