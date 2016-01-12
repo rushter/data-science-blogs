@@ -176,6 +176,7 @@ A curated list of data science blogs
 * Zac Stewart http://zacstewart.com/ [(RSS)] (http://zacstewart.com/feed.xml)
 * ŷhat http://blog.yhathq.com/ [(RSS)] (http://blog.yhathq.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)] (http://outlace.com/feed.xml)
+* 大トロ http://blog.otoro.net/ [(RSS)] (http://blog.otoro.net/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
