@@ -178,6 +178,7 @@ A curated list of data science blogs
 * ℚuantitative √ourney http://outlace.com/ [(RSS)] (http://outlace.com/feed.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)] (http://blog.otoro.net/feed/)
 * Mike Tyka http://mtyka.github.io/ [(RSS)] (http://mtyka.github.io//feed.xml)
+* Anton Lebedevich's Blog [(RSS)] (http://mabrek.github.io/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
