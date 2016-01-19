@@ -179,7 +179,7 @@ A curated list of data science blogs
 * 大トロ http://blog.otoro.net/ [(RSS)] (http://blog.otoro.net/feed/)
 * Mike Tyka http://mtyka.github.io/ [(RSS)] (http://mtyka.github.io//feed.xml)
 * Anton Lebedevich's Blog http://mabrek.github.io/ [(RSS)] (http://mabrek.github.io/feed.xml)
-* Neil Lawrence http://inverseprobability.com/rss.xml [(RSS)] (http://inverseprobability.com/blog.html)
+* Neil Lawrence http://inverseprobability.com/blog.html [(RSS)] (http://inverseprobability.com/rss.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
