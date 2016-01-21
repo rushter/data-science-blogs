@@ -98,6 +98,7 @@
 			<outline type="rss" text="korbonits | Math ∩ Data" title="korbonits | Math ∩ Data" xmlUrl="http://korbonits.github.io/feed.xml" htmlUrl="http://korbonits.github.io/"/>
 			<outline type="rss" text="Large Scale Machine Learning" title="Large Scale Machine Learning" xmlUrl="http://bickson.blogspot.com/feeds/posts/default" htmlUrl="http://bickson.blogspot.com/"/>
 			<outline type="rss" text="LATERAL BLOG" title="LATERAL BLOG" xmlUrl="https://blog.lateral.io/feed/" htmlUrl="https://blog.lateral.io/"/>
+			<outline type="rss" text="Learn Analytics Here" title="Learn Analytics Here" xmlUrl="https://learnanalyticshere.wordpress.com/feed/" htmlUrl="https://learnanalyticshere.wordpress.com/"/>
 			<outline type="rss" text="LearnDataSci" title="LearnDataSci" xmlUrl="http://www.learndatasci.com/feed/" htmlUrl="https://learndatasci.com/"/>
 			<outline type="rss" text="Learning With Data" title="Learning With Data" xmlUrl="http://learningwithdata.com/rss_feed.xml" htmlUrl="http://learningwithdata.com/"/>
 			<outline type="rss" text="Life, Language, Learning" title="Life, Language, Learning" xmlUrl="http://daoudclarke.github.io/atom.xml" htmlUrl="http://daoudclarke.github.io/"/>
@@ -110,6 +111,7 @@
 			<outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/feed/" htmlUrl="http://machinelearningmastery.com/blog/"/>
 			<outline type="rss" text="Machine Learning, etc" title="Machine Learning, etc" xmlUrl="http://yaroslavvb.blogspot.com/feeds/posts/default" htmlUrl="http://yaroslavvb.blogspot.com"/>
 			<outline type="rss" text="Machined Learnings" title="Machined Learnings" xmlUrl="http://www.machinedlearnings.com/feeds/posts/default" htmlUrl="http://www.machinedlearnings.com/"/>
+			<outline type="rss" text="Machine Learning, Maths and Physics" title="Machine Learning, Maths and Physics" xmlUrl="https://mlopezm.wordpress.com/feed/" htmlUrl="https://mlopezm.wordpress.com/"/>
 			<outline type="rss" text="MAREK REI" title="MAREK REI" xmlUrl="http://www.marekrei.com/blog/feed/" htmlUrl="http://www.marekrei.com/blog/"/>
 			<outline type="rss" text="MARGINALLY INTERESTING" title="MARGINALLY INTERESTING" xmlUrl="http://feeds.feedburner.com/MarginallyInteresting" htmlUrl="http://blog.mikiobraun.de/"/>
 			<outline type="rss" text="Math ∩ Programming" title="Math ∩ Programming" xmlUrl="http://jeremykun.wordpress.com/feed/" htmlUrl="http://jeremykun.com/"/>
@@ -125,6 +127,7 @@
 			<outline type="rss" text="Nuit Blanche" title="Nuit Blanche" xmlUrl="http://nuit-blanche.blogspot.com/feeds/posts/default" htmlUrl="http://nuit-blanche.blogspot.com/"/>
 			<outline type="rss" text="Number 2147483647" title="Number 2147483647" xmlUrl="http://no2147483647.wordpress.com/feed/" htmlUrl="https://no2147483647.wordpress.com/"/>
 			<outline type="rss" text="Opiate for the masses Data is our religion." title="Opiate for the masses Data is our religion." xmlUrl="http://opiateforthemass.es/feed.xml" htmlUrl="http://opiateforthemass.es/"/>
+			<outline type="rss" text="On Machine Intelligence" title="On Machine Intelligence" xmlUrl="https://aimatters.wordpress.com/feed/" htmlUrl="https://aimatters.wordpress.com/"/>
 			<outline type="rss" text="p-value.info" title="p-value.info" xmlUrl="http://www.p-value.info/feeds/posts/default" htmlUrl="http://www.p-value.info/"/>
 			<outline type="rss" text="Pete Warden&#x27;s blog" title="Pete Warden&#x27;s blog" xmlUrl="http://feeds.feedburner.com/typepad/petewarden" htmlUrl="http://petewarden.com/"/>
 			<outline type="rss" text="Plotly Blog" title="Plotly Blog" xmlUrl="http://blog.plot.ly/rss" htmlUrl="http://blog.plot.ly/"/>
