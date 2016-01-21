@@ -181,6 +181,7 @@ A curated list of data science blogs
 * Anton Lebedevich's Blog http://mabrek.github.io/ [(RSS)] (http://mabrek.github.io/feed.xml)
 * Neil Lawrence http://inverseprobability.com/blog.html [(RSS)] (http://inverseprobability.com/rss.xml)
 * John Myles White http://www.johnmyleswhite.com/ [(RSS)] (http://www.johnmyleswhite.com/feed/)
+* Sebastian Ruder http://sebastianruder.com/ [(RSS)] (http://sebastianruder.com/rss/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
