@@ -182,6 +182,7 @@ A curated list of data science blogs
 * Neil Lawrence http://inverseprobability.com/blog.html [(RSS)] (http://inverseprobability.com/rss.xml)
 * John Myles White http://www.johnmyleswhite.com/ [(RSS)] (http://www.johnmyleswhite.com/feed/)
 * Sebastian Ruder http://sebastianruder.com/ [(RSS)] (http://sebastianruder.com/rss/)
+* DENNY'S BLOG http://blog.dennybritz.com/ [(RSS)] (http://blog.dennybritz.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
