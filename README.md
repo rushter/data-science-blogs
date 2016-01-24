@@ -187,6 +187,7 @@ A curated list of data science blogs
 * John Myles White http://www.johnmyleswhite.com/ [(RSS)] (http://www.johnmyleswhite.com/feed/)
 * Sebastian Ruder http://sebastianruder.com/ [(RSS)] (http://sebastianruder.com/rss/)
 * DENNY'S BLOG http://blog.dennybritz.com/ [(RSS)] (http://blog.dennybritz.com/feed/)
+* WILL'S NOISE http://www.willmcginnis.com/ [(RSS)] (http://www.willmcginnis.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
