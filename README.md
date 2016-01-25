@@ -90,6 +90,7 @@ A curated list of data science blogs
 * Kenny Bastani http://www.kennybastani.com/ [(RSS)] (http://www.kennybastani.com/feeds/posts/default?alt=rss)
 * Kevin Davenport http://kldavenport.com/ [(RSS)] (http://kldavenport.com/feed/)
 * korbonits | Math ∩ Data http://korbonits.github.io/ [(RSS)] (http://korbonits.github.io/feed.xml)
+* Lazy Programmer http://lazyprogrammer.me/ [(RSS)] (http://lazyprogrammer.me/feed/)
 * Large Scale Machine Learning  http://bickson.blogspot.com/ [(RSS)] (http://bickson.blogspot.com/feeds/posts/default)
 * LATERAL BLOG https://blog.lateral.io/ [(RSS)] (https://blog.lateral.io/feed/)
 * Learn Analytics Here https://learnanalyticshere.wordpress.com/ [(RSS)] (https://learnanalyticshere.wordpress.com/feed/)
@@ -186,6 +187,8 @@ A curated list of data science blogs
 * John Myles White http://www.johnmyleswhite.com/ [(RSS)] (http://www.johnmyleswhite.com/feed/)
 * Sebastian Ruder http://sebastianruder.com/ [(RSS)] (http://sebastianruder.com/rss/)
 * DENNY'S BLOG http://blog.dennybritz.com/ [(RSS)] (http://blog.dennybritz.com/feed/)
+* WILL'S NOISE http://www.willmcginnis.com/ [(RSS)] (http://www.willmcginnis.com/feed/)
+* GAB41 http://www.lab41.org/gab41/ [(RSS)] (http://www.lab41.org/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
