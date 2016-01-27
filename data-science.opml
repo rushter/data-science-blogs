@@ -96,6 +96,7 @@
 			<outline type="rss" text="Kenny Bastani" title="Kenny Bastani" xmlUrl="http://www.kennybastani.com/feeds/posts/default?alt=rss" htmlUrl="http://www.kennybastani.com/"/>
 			<outline type="rss" text="Kevin Davenport" title="Kevin Davenport" xmlUrl="http://kldavenport.com/feed/" htmlUrl="http://kldavenport.com/"/>
 			<outline type="rss" text="korbonits | Math ∩ Data" title="korbonits | Math ∩ Data" xmlUrl="http://korbonits.github.io/feed.xml" htmlUrl="http://korbonits.github.io/"/>
+			<outline type="rss" text="Lazy Programmer" title="Lazy Programmer" xmlUrl="http://lazyprogrammer.me/feed/" htmlUrl="http://lazyprogrammer.me/"/>
 			<outline type="rss" text="Large Scale Machine Learning" title="Large Scale Machine Learning" xmlUrl="http://bickson.blogspot.com/feeds/posts/default" htmlUrl="http://bickson.blogspot.com/"/>
 			<outline type="rss" text="LATERAL BLOG" title="LATERAL BLOG" xmlUrl="https://blog.lateral.io/feed/" htmlUrl="https://blog.lateral.io/"/>
 			<outline type="rss" text="Learn Analytics Here" title="Learn Analytics Here" xmlUrl="https://learnanalyticshere.wordpress.com/feed/" htmlUrl="https://learnanalyticshere.wordpress.com/"/>
@@ -185,6 +186,17 @@
 			<outline type="rss" text="Zac Stewart" title="Zac Stewart" xmlUrl="http://zacstewart.com/feed.xml" htmlUrl="http://zacstewart.com/"/>
 			<outline type="rss" text="ŷhat" title="ŷhat" xmlUrl="http://blog.yhathq.com/rss.xml" htmlUrl="http://blog.yhathq.com/"/>
 			<outline type="rss" text="ℚuantitative √ourney" title="ℚuantitative √ourney" xmlUrl="http://outlace.com/feed.xml" htmlUrl="http://outlace.com/"/>
+			<outline type="rss" text="大トロ" title="大トロ" xmlUrl="http://blog.otoro.net/feed/" htmlUrl="http://blog.otoro.net/"/>
+			<outline type="rss" text="Mike Tyka" title="Mike Tyka" xmlUrl="http://mtyka.github.io//feed.xml" htmlUrl="http://mtyka.github.io/"/>
+			<outline type="rss" text="Anton Lebedevich&#x27;s Blog" title="Anton Lebedevich&#x27;s Blog" xmlUrl="http://mabrek.github.io/feed.xml" htmlUrl="http://mabrek.github.io/"/>
+			<outline type="rss" text="Neil Lawrence" title="Neil Lawrence" xmlUrl="http://inverseprobability.com/rss.xml" htmlUrl="http://inverseprobability.com/blog.html"/>
+			<outline type="rss" text="John Myles White" title="John Myles White" xmlUrl="http://www.johnmyleswhite.com/feed/" htmlUrl="http://www.johnmyleswhite.com/"/>
+			<outline type="rss" text="Sebastian Ruder" title="Sebastian Ruder" xmlUrl="http://sebastianruder.com/rss/" htmlUrl="http://sebastianruder.com/"/>
+			<outline type="rss" text="DENNY&#x27;S BLOG" title="DENNY&#x27;S BLOG" xmlUrl="http://blog.dennybritz.com/feed/" htmlUrl="http://blog.dennybritz.com/"/>
+			<outline type="rss" text="WILL&#x27;S NOISE" title="WILL&#x27;S NOISE" xmlUrl="http://www.willmcginnis.com/feed/" htmlUrl="http://www.willmcginnis.com/"/>
+			<outline type="rss" text="GAB41" title="GAB41" xmlUrl="http://www.lab41.org/feed/" htmlUrl="http://www.lab41.org/gab41/"/>
+			<outline type="rss" text="MAPR Blog" title="MAPR Blog" xmlUrl="https://www.mapr.com/bigdata.xml" htmlUrl="https://www.mapr.com/blog"/>
+			<outline type="rss" text="Hyon S Chu" title="Hyon S Chu" xmlUrl="https://medium.com/feed/@adailyventure" htmlUrl="https://medium.com/@adailyventure"/>
         </outline>
     </body>
 </opml>
