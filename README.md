@@ -191,6 +191,7 @@ A curated list of data science blogs
 * GAB41 http://www.lab41.org/gab41/ [(RSS)] (http://www.lab41.org/feed/)
 * MAPR Blog https://www.mapr.com/blog [(RSS)] (https://www.mapr.com/bigdata.xml)
 * Hyon S Chu https://medium.com/@adailyventure [(RSS)] (https://medium.com/feed/@adailyventure)
+* Andrey Kurenkov http://www.andreykurenkov.com/ [(RSS)] (http://www.andreykurenkov.com/writing/feed.xml/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
