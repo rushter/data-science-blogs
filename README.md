@@ -9,6 +9,7 @@ A curated list of data science blogs
 * Airbnb Data blog http://nerds.airbnb.com/data/ [(RSS)] (http://nerds.airbnb.com/feed/)
 * Alex Perrier http://alexperrier.github.io/ [(RSS)] (http://alexperrier.github.io/feed.xml)
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)] (http://feeds.feedburner.com/AnalyticsVidhya)
+* Analyzing Life | Data Analytics Tutorials & Experiments for Layman https://annalyzin.wordpress.com/ [(RSS)] (https://annalyzin.wordpress.com/feed/)
 * Andreas Müller http://peekaboo-vision.blogspot.com/ [(RSS)] (http://peekaboo-vision.blogspot.com/atom.xml)
 * Andrej Karpathy blog http://karpathy.github.io/ [(RSS)] (http://karpathy.github.io/feed.xml)
 * Avi Singh http://avisingh599.github.io/blog/ [(RSS)] (http://avisingh599.github.io/feed.xml)
