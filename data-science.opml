@@ -15,6 +15,7 @@
 			<outline type="rss" text="Airbnb Data blog" title="Airbnb Data blog" xmlUrl="http://nerds.airbnb.com/feed/" htmlUrl="http://nerds.airbnb.com/data/"/>
 			<outline type="rss" text="Alex Perrier" title="Alex Perrier" xmlUrl="http://alexperrier.github.io/feed.xml" htmlUrl="http://alexperrier.github.io/"/>
 			<outline type="rss" text="Analytics Vidhya" title="Analytics Vidhya" xmlUrl="http://feeds.feedburner.com/AnalyticsVidhya" htmlUrl="http://www.analyticsvidhya.com/blog/"/>
+			<outline type="rss" text="Analyzing Life | Data Analytics Tutorials &amp; Experiments for Layman" title="Analyzing Life | Data Analytics Tutorials &amp; Experiments for Layman" xmlUrl="https://annalyzin.wordpress.com/feed/" htmlUrl="https://annalyzin.wordpress.com/"/>
 			<outline type="rss" text="Andreas Müller" title="Andreas Müller" xmlUrl="http://peekaboo-vision.blogspot.com/atom.xml" htmlUrl="http://peekaboo-vision.blogspot.com/"/>
 			<outline type="rss" text="Andrej Karpathy blog" title="Andrej Karpathy blog" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
 			<outline type="rss" text="Avi Singh" title="Avi Singh" xmlUrl="http://avisingh599.github.io/feed.xml" htmlUrl="http://avisingh599.github.io/blog/"/>
@@ -197,6 +198,8 @@
 			<outline type="rss" text="GAB41" title="GAB41" xmlUrl="http://www.lab41.org/feed/" htmlUrl="http://www.lab41.org/gab41/"/>
 			<outline type="rss" text="MAPR Blog" title="MAPR Blog" xmlUrl="https://www.mapr.com/bigdata.xml" htmlUrl="https://www.mapr.com/blog"/>
 			<outline type="rss" text="Hyon S Chu" title="Hyon S Chu" xmlUrl="https://medium.com/feed/@adailyventure" htmlUrl="https://medium.com/@adailyventure"/>
+			<outline type="rss" text="Andrey Kurenkov" title="Andrey Kurenkov" xmlUrl="http://www.andreykurenkov.com/writing/feed.xml/" htmlUrl="http://www.andreykurenkov.com/"/>
+			<outline type="rss" text="Blog on neural networks" title="Blog on neural networks" xmlUrl="http://yerevann.github.io/atom.xml" htmlUrl="http://yerevann.github.io/atom.xml"/>
         </outline>
     </body>
 </opml>
