@@ -194,6 +194,7 @@ A curated list of data science blogs
 * Hyon S Chu https://medium.com/@adailyventure [(RSS)] (https://medium.com/feed/@adailyventure)
 * Andrey Kurenkov http://www.andreykurenkov.com/ [(RSS)] (http://www.andreykurenkov.com/writing/feed.xml/)
 * Blog on neural networks http://yerevann.github.io/atom.xml [(RSS)] (http://yerevann.github.io/atom.xml)
+* Daniel Homola http://danielhomola.com/category/blog/ [(RSS)] (http://danielhomola.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
