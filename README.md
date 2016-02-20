@@ -197,6 +197,8 @@ A curated list of data science blogs
 * ŷhat http://blog.yhathq.com/ [(RSS)] (http://blog.yhathq.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)] (http://outlace.com/feed.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)] (http://blog.otoro.net/feed/)
+* My thoughts on Data science, predictive analytics, Python http://shahramabyari.com/ [(RSS)] (http://shahramabyari.com/feed/)
+* Win-Vector Blog http://www.win-vector.com/blog/ [(RSS)] (www.win-vector.com/blog/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
