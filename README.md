@@ -200,6 +200,7 @@ A curated list of data science blogs
 * My thoughts on Data science, predictive analytics, Python http://shahramabyari.com/ [(RSS)] (http://shahramabyari.com/feed/)
 * Win-Vector Blog http://www.win-vector.com/blog/ [(RSS)] (www.win-vector.com/blog/feed/)
 * Brain of mat kelcey http://matpalm.com/blog/ [(RSS)] (http://matpalm.com/blog/feed)
+* R and Data Mining https://rdatamining.wordpress.com/ [(RSS)] (http://rdatamining.wordpress.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
