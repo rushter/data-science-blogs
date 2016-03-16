@@ -202,6 +202,7 @@ A curated list of data science blogs
 * Brain of mat kelcey http://matpalm.com/blog/ [(RSS)] (http://matpalm.com/blog/feed)
 * R and Data Mining https://rdatamining.wordpress.com/ [(RSS)] (http://rdatamining.wordpress.com/feed/)
 * Sachin Joglekar's blog https://codesachin.wordpress.com/ [(RSS)] (https://codesachin.wordpress.com/feed/)
+* Keeping Up With The Latest Techniques http://colinpriest.com/ [(RSS)] (http://colinpriest.com/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
