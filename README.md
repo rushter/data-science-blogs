@@ -203,6 +203,7 @@ A curated list of data science blogs
 * R and Data Mining https://rdatamining.wordpress.com/ [(RSS)] (http://rdatamining.wordpress.com/feed/)
 * Sachin Joglekar's blog https://codesachin.wordpress.com/ [(RSS)] (https://codesachin.wordpress.com/feed/)
 * Keeping Up With The Latest Techniques http://colinpriest.com/ [(RSS)] (http://colinpriest.com/feed/)
+* Eder Santana https://edersantana.github.io/blog.html [(RSS)]  (http://edersantana.github.io/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
