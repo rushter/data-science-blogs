@@ -205,7 +205,9 @@ A curated list of data science blogs
 * Keeping Up With The Latest Techniques http://colinpriest.com/ [(RSS)] (http://colinpriest.com/feed/)
 * Eder Santana https://edersantana.github.io/blog.html [(RSS)] (http://edersantana.github.io/feed.xml)
 * DatasFrame http://tomaugspurger.github.io/ [(RSS)] (http://tomaugspurger.github.io/feeds/all.rss.xml)
-* 
+* Swan Intelligence http://swanintelligence.com/ [(RSS)] (http://swanintelligence.com/feeds/all.rss.xml)
+* Alex Castrouni https://medium.com/@innoarchitech [(RSS)] (https://medium.com/feed/@innoarchitech)
+* Chris Stucchio https://www.chrisstucchio.com/blog/index.html [(RSS)] (http://www.chrisstucchio.com/blog/atom.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
