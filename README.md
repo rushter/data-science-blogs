@@ -208,6 +208,8 @@ A curated list of data science blogs
 * Swan Intelligence http://swanintelligence.com/ [(RSS)] (http://swanintelligence.com/feeds/all.rss.xml)
 * Alex Castrouni https://medium.com/@innoarchitech [(RSS)] (https://medium.com/feed/@innoarchitech)
 * Chris Stucchio https://www.chrisstucchio.com/blog/index.html [(RSS)] (http://www.chrisstucchio.com/blog/atom.xml)
+* Datanice https://datanice.wordpress.com/ [(RSS)] (https://datanice.wordpress.com/feed/)
+* Ira Korshunova http://irakorshunova.github.io/ [(RSS)] (http://irakorshunova.github.io/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
