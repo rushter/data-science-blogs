@@ -203,6 +203,19 @@
 			<outline type="rss" text="ŷhat" title="ŷhat" xmlUrl="http://blog.yhathq.com/rss.xml" htmlUrl="http://blog.yhathq.com/"/>
 			<outline type="rss" text="ℚuantitative √ourney" title="ℚuantitative √ourney" xmlUrl="http://outlace.com/feed.xml" htmlUrl="http://outlace.com/"/>
 			<outline type="rss" text="大トロ" title="大トロ" xmlUrl="http://blog.otoro.net/feed/" htmlUrl="http://blog.otoro.net/"/>
+			<outline type="rss" text="My thoughts on Data science, predictive analytics, Python" title="My thoughts on Data science, predictive analytics, Python" xmlUrl="http://shahramabyari.com/feed/" htmlUrl="http://shahramabyari.com/"/>
+			<outline type="rss" text="Win-Vector Blog" title="Win-Vector Blog" xmlUrl="www.win-vector.com/blog/feed/" htmlUrl="http://www.win-vector.com/blog/"/>
+			<outline type="rss" text="Brain of mat kelcey" title="Brain of mat kelcey" xmlUrl="http://matpalm.com/blog/feed" htmlUrl="http://matpalm.com/blog/"/>
+			<outline type="rss" text="R and Data Mining" title="R and Data Mining" xmlUrl="http://rdatamining.wordpress.com/feed/" htmlUrl="https://rdatamining.wordpress.com/"/>
+			<outline type="rss" text="Sachin Joglekar&#x27;s blog" title="Sachin Joglekar&#x27;s blog" xmlUrl="https://codesachin.wordpress.com/feed/" htmlUrl="https://codesachin.wordpress.com/"/>
+			<outline type="rss" text="Keeping Up With The Latest Techniques" title="Keeping Up With The Latest Techniques" xmlUrl="http://colinpriest.com/feed/" htmlUrl="http://colinpriest.com/"/>
+			<outline type="rss" text="Eder Santana" title="Eder Santana" xmlUrl="http://edersantana.github.io/feed.xml" htmlUrl="https://edersantana.github.io/blog.html"/>
+			<outline type="rss" text="DatasFrame" title="DatasFrame" xmlUrl="http://tomaugspurger.github.io/feeds/all.rss.xml" htmlUrl="http://tomaugspurger.github.io/"/>
+			<outline type="rss" text="Swan Intelligence" title="Swan Intelligence" xmlUrl="http://swanintelligence.com/feeds/all.rss.xml" htmlUrl="http://swanintelligence.com/"/>
+			<outline type="rss" text="Alex Castrouni" title="Alex Castrouni" xmlUrl="https://medium.com/feed/@innoarchitech" htmlUrl="https://medium.com/@innoarchitech"/>
+			<outline type="rss" text="Chris Stucchio" title="Chris Stucchio" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="https://www.chrisstucchio.com/blog/index.html"/>
+			<outline type="rss" text="Datanice" title="Datanice" xmlUrl="https://datanice.wordpress.com/feed/" htmlUrl="https://datanice.wordpress.com/"/>
+			<outline type="rss" text="Ira Korshunova" title="Ira Korshunova" xmlUrl="http://irakorshunova.github.io/feed.xml" htmlUrl="http://irakorshunova.github.io/"/>
         </outline>
     </body>
 </opml>
