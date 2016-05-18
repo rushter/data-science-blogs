@@ -212,6 +212,10 @@ A curated list of data science blogs
 * 大トロ http://blog.otoro.net/ [(RSS)] (http://blog.otoro.net/feed/)
 * Andrew Brooks http://brooksandrew.github.io/simpleblog/ [(RSS)] (http://brooksandrew.github.io/simpleblog/feed.xml)
 * Mourad Mourafiq http://mourafiq.com/ [(RSS)] (http://mourafiq.com/atom.xml)
+* Building Babylon https://building-babylon.net/ [(RSS)] (http://building-babylon.net/feed/)
+* Travel By The Numbers http://travelbythenumbers.com/ [(RSS)] (http://travelbythenumbers.com/feed/)
+* _ET) Z) Q) http://benjaminbolte.com/blog/ [(RSS)] (http://benjaminbolte.com/blog/)
+* Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)] (http://www.benfrederickson.com/atom.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
