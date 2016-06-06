@@ -216,6 +216,7 @@ A curated list of data science blogs
 * Travel By The Numbers http://travelbythenumbers.com/ [(RSS)] (http://travelbythenumbers.com/feed/)
 * _ET) Z) Q) http://benjaminbolte.com/blog/ [(RSS)] (http://benjaminbolte.com/blog/)
 * Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)] (http://www.benfrederickson.com/atom.xml)
+* Eugenio Culurciello http://culurciello.github.io/ [(RSS)] (https://http://culurciello.github.io//feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
