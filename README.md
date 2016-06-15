@@ -217,6 +217,7 @@ A curated list of data science blogs
 * _ET) Z) Q) http://benjaminbolte.com/blog/ [(RSS)] (http://benjaminbolte.com/blog/)
 * Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)] (http://www.benfrederickson.com/atom.xml)
 * Eugenio Culurciello http://culurciello.github.io/ [(RSS)] (http://culurciello.github.io/feed.xml)
+* Moonshots http://jxieeducation.com/ [(RSS)] (http://jxieeducation.com/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
