@@ -52,6 +52,7 @@ A curated list of data science blogs
 * DataKind http://www.datakind.org/blog [(RSS)] (http://feeds.feedburner.com/DataKin)
 * DataLook http://blog.datalook.io/ [(RSS)] (http://blog.datalook.io/feed/)
 * Datanice https://datanice.wordpress.com/ [(RSS)] (https://datanice.wordpress.com/feed/)
+* Datatau http://www.datatau.com/ [(RSS)] (http://www.datatau.com/rss)
 * Dataquest Blog https://www.dataquest.io/blog/ [(RSS)] (https://www.dataquest.io/blog/atom.xml)
 * DataRobot http://www.datarobot.com/blog/ [(RSS)] (http://www.datarobot.com/feed/)
 * Datascope http://datascopeanalytics.com/blog [(RSS)] (http://datascopeanalytics.com/rss)
