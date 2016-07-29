@@ -22,6 +22,7 @@ A curated list of data science blogs
 * Big-Ish Data http://bigishdata.com/ [(RSS)] (http://bigishdata.com/feed/)
 * blog += 1 http://snippyhollow.github.io/ [(RSS)] (http://snippyhollow.github.io/atom.xml)
 * Blog on neural networks http://yerevann.github.io/atom.xml [(RSS)] (http://yerevann.github.io/atom.xml)
+* blogR | R tips and tricks from a scientist https://drsimonj.svbtle.com/ [(RSS)] (https://drsimonj.svbtle.com/)
 * Brain of mat kelcey http://matpalm.com/blog/ [(RSS)] (http://matpalm.com/blog/feed)
 * Bugra Akyildiz http://bugra.github.io/ [(RSS)] (http://bugra.github.io/feeds/all.atom.xml)
 * Carl Shan http://carlshan.com/ [(RSS)] (http://feeds.feedburner.com/carlshan)
