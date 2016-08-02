@@ -220,6 +220,7 @@ A curated list of data science blogs
 * Eugenio Culurciello http://culurciello.github.io/ [(RSS)] (http://culurciello.github.io/feed.xml)
 * Moonshots http://jxieeducation.com/ [(RSS)] (http://jxieeducation.com/feed.xml)
 * Random notes on Computer Science, Mathematics and Software Engineering http://barmaley-exe.github.io/ [(RSS)] (http://feeds.feedburner.com/barmaley-exe-blog-feed)
+* Blogistic RegressionAbout Projects http://d10genes.github.io/blog/ [(RSS)] (http://d10genes.github.io/blog/feed.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
