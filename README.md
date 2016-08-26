@@ -222,6 +222,8 @@ A curated list of data science blogs
 * Random notes on Computer Science, Mathematics and Software Engineering http://barmaley-exe.github.io/ [(RSS)] (http://feeds.feedburner.com/barmaley-exe-blog-feed)
 * Blogistic RegressionAbout Projects http://d10genes.github.io/blog/ [(RSS)] (http://d10genes.github.io/blog/feed.xml)
 * R2RT http://r2rt.com/ [(RSS)] (http://r2rt.com/feeds/all.atom.xml)
+* Natural language processing blog http://nlpers.blogspot.fr/ [(RSS)] (http://nlpers.blogspot.com/feeds/posts/default)
+* NLP and Deep Learning enthusiast http://camron.xyz/ [(RSS)] (http://camron.xyz/index.php/feed/)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
