@@ -165,6 +165,7 @@ A curated list of data science blogs
 * Publishable Stuff http://www.sumsar.net/ [(RSS)] (http://www.sumsar.net/atom.xml)
 * PyImageSearch http://www.pyimagesearch.com/ [(RSS)] (http://feeds.feedburner.com/Pyimagesearch)
 * Pythonic Perambulations https://jakevdp.github.io/ [(RSS)] (http://jakevdp.github.com/atom.xml)
+* quintuitive http://quintuitive.com/ [(RSS)] (http://quintuitive.com/feed/)
 * R and Data Mining https://rdatamining.wordpress.com/ [(RSS)] (http://rdatamining.wordpress.com/feed/)
 * R-bloggers http://www.r-bloggers.com/ [(RSS)] (http://feeds.feedburner.com/RBloggers)
 * R2RT http://r2rt.com/ [(RSS)] (http://r2rt.com/feeds/all.atom.xml)
