@@ -225,6 +225,7 @@ A curated list of data science blogs
 * ŷhat http://blog.yhat.com/ [(RSS)] (http://blog.yhat.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)] (http://outlace.com/feed.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)] (http://blog.otoro.net/feed.xml)
+* http://www.auduno.com/ [(RSS)] (http://auduno.tumblr.com/rss)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
