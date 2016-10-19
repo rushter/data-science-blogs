@@ -226,6 +226,7 @@ A curated list of data science blogs
 * ℚuantitative √ourney http://outlace.com/ [(RSS)] (http://outlace.com/feed.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)] (http://blog.otoro.net/feed.xml)
 * Audun M. Øygard http://www.auduno.com/ [(RSS)] (http://auduno.tumblr.com/rss)
+* Arthur Juliani https://medium.com/@awjuliani [(RSS)] (https://medium.com/feed/@awjuliani)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
