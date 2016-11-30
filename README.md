@@ -188,6 +188,7 @@ A curated list of data science blogs
 * Shakir's Machine Learning Blog http://blog.shakirm.com/ [(RSS)] (http://blog.shakirm.com/feed/)
 * Simply Statistics http://simplystatistics.org [(RSS)] (http://simplystatistics.org/feed/)
 * Startup.ML Blog http://startup.ml/blog [(RSS)] (http://www.startup.ml/blog?format=RSS)
+* Springboard Blog http://springboard.com/blog
 * Statistical Modeling, Causal Inference, and Social Science http://andrewgelman.com/ [(RSS)] (http://andrewgelman.com/feed/)
 * Stigler Diet http://stiglerdiet.com/ [(RSS)] (http://stiglerdiet.com/feeds/all.atom.xml)
 * Stitch Fix Tech Blog http://multithreaded.stitchfix.com/blog/ [(RSS)] (http://multithreaded.stitchfix.com/feed.xml)
