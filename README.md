@@ -230,6 +230,7 @@ A curated list of data science blogs
 * Arthur Juliani https://medium.com/@awjuliani [(RSS)] (https://medium.com/feed/@awjuliani)
 * Adit Deshpande https://adeshpande3.github.io/ [(RSS)] (https://adeshpande3.github.io/adeshpande3.github.io/feed.xml)
 * Brilliantly wrong thoughts on science and programming https://arogozhnikov.github.io/ [(RSS)] (http://arogozhnikov.github.io/feed.xml)
+* Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)] (http://www.benfrederickson.com/atom.xml)
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
