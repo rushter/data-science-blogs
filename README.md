@@ -97,6 +97,7 @@ A curated list of data science blogs
 * i am trask http://iamtrask.github.io/ [(RSS)] (http://iamtrask.github.io/feed.xml)
 * I Quant NY http://iquantny.tumblr.com/ [(RSS)] (http://iquantny.tumblr.com/rss)
 * inFERENCe http://www.inference.vc/ [(RSS)] (http://www.inference.vc/rss/)
+* Insight Data Science https://blog.insightdatascience.com/ [(RSS)] (https://blog.insightdatascience.com/feed)
 * INSPIRATION INFORMATION http://myinspirationinformation.com/ [(RSS)] (http://myinspirationinformation.com/feed/)
 * Ira Korshunova http://irakorshunova.github.io/ [(RSS)] (http://irakorshunova.github.io/feed.xml)
 * I’m a bandit https://blogs.princeton.edu/imabandit/ [(RSS)] (https://blogs.princeton.edu/imabandit/feed/)
