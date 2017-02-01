@@ -120,6 +120,7 @@ A curated list of data science blogs
 * LATERAL BLOG https://blog.lateral.io/ [(RSS)] (https://blog.lateral.io/feed/)
 * Lazy Programmer http://lazyprogrammer.me/ [(RSS)] (http://lazyprogrammer.me/feed/)
 * Learn Analytics Here https://learnanalyticshere.wordpress.com/ [(RSS)] (https://learnanalyticshere.wordpress.com/feed/)
+* LearnDataSci http://www.learndatasci.com/ [(RSS)] (http://www.learndatasci.com/feed/)
 * Learning With Data http://learningwithdata.com/ [(RSS)] (http://learningwithdata.com/rss_feed.xml)
 * Life, Language, Learning http://daoudclarke.github.io/ [(RSS)] (http://daoudclarke.github.io/atom.xml)
 * Louis Dorard http://www.louisdorard.com/blog/ [(RSS)] (http://www.louisdorard.com/blog?format=rss)
