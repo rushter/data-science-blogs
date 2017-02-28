@@ -236,7 +236,7 @@ A curated list of data science blogs
 
 # RSS
 You can import an [opml file] (./data-science.opml) to your favorite RSS reader.  
-Also you can add [a feed] (http://dsguide.biz/reader/feeds/posts) where the list is always up to date.
+Also you can add [a feed] (http://dsg.rushter.com/reader/feeds/posts) where the list is always up to date.
 
 # Contributing
 Your contributions are always welcome!
