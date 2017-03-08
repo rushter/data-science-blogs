@@ -211,6 +211,7 @@ A curated list of data science blogs
 * The unofficial Google data science Blog http://www.unofficialgoogledatascience.com/ [(RSS)] (http://www.unofficialgoogledatascience.com/feeds/posts/default)
 * Tim Dettmers http://timdettmers.com/ [(RSS)] (http://timdettmers.com/feed/)
 * Tombone's Computer Vision Blog http://www.computervisionblog.com/ [(RSS)] (http://www.computervisionblog.com/feeds/posts/default)
+* Tommy Blanchard http://tommyblanchard.com/category/projects [(RSS)] (http://tommyblanchard.com/feeds/all.atom.xml)
 * Trevor Stephens http://trevorstephens.com/ [(RSS)] (http://trevorstephens.com/feed.xml)
 * Trey Causey http://treycausey.com/ [(RSS)] (http://treycausey.com/feeds/all.atom.xml)
 * UW Data Science Blog http://datasciencedegree.wisconsin.edu/blog/ [(RSS)] (http://datasciencedegree.wisconsin.edu/feed/)
