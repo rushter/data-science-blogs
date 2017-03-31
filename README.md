@@ -236,6 +236,8 @@ A curated list of data science blogs
 * Brilliantly wrong thoughts on science and programming https://arogozhnikov.github.io/ [(RSS)](http://arogozhnikov.github.io/feed.xml)
 * Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)](http://www.benfrederickson.com/atom.xml)
 * Amazon AWS AI Blog https://aws.amazon.com/blogs/ai/ [(RSS)](https://aws.amazon.com/blogs/amazon-ai/feed/)
+* Dimensionless https://dimensionless.in/blog/ [(RSS)](https://dimensionless.in/feed)
+
 
 # RSS
 You can import an [opml file](./data-science.opml) to your favorite RSS reader.  
