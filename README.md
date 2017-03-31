@@ -146,6 +146,7 @@ A curated list of data science blogs
 * Mirror Image https://mirror2image.wordpress.com/ [(RSS)](http://mirror2image.wordpress.com/feed/)
 * Mitch Crowe http://www.dataphoric.com/ [(RSS)](http://www.dataphoric.com/feed.xml)
 * MLWave http://mlwave.com/ [(RSS)](http://mlwave.com/feed/)
+* MLWhiz http://mlwhiz.com/ [(RSS)](http://mlwhiz.com/atom.xml)
 * Models are illuminating and wrong https://peadarcoyle.wordpress.com/ [(RSS)](http://peadarcoyle.wordpress.com/feed/)
 * Moonshots http://jxieeducation.com/ [(RSS)](http://jxieeducation.com/feed.xml)
 * Mourad Mourafiq http://mourafiq.com/ [(RSS)](http://mourafiq.com/atom.xml)
