@@ -1,5 +1,6 @@
 # Data science blogs
 A curated list of data science blogs
+
 * A Blog From a Human-engineer-being http://www.erogol.com/ [(RSS)](http://www.erogol.com/feed/)
 * Aakash Japi http://aakashjapi.com/ [(RSS)](http://logicx24.github.io/feed.xml)
 * Advanced Analytics & R http://advanceddataanalytics.net/ [(RSS)](http://advanceddataanalytics.net/feed/)
@@ -241,7 +242,7 @@ A curated list of data science blogs
 
 # RSS
 You can import an [opml file](./data-science.opml) to your favorite RSS reader.  
-Also you can add [a feed](http://dsg.rushter.com/reader/feeds/posts) where the list is always up to date.
+Also you can add [a feed](http://rushter.com/dsreader/feed) where the list is always up to date.
 
 # Contributing
 Your contributions are always welcome!
