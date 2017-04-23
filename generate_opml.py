@@ -18,7 +18,7 @@ xmlitem = '<outline type="rss" text="{title}" title="{title}" ' \
           'xmlUrl="{rssfeed}" htmlUrl="{httpfeed}"/>'
 
 readme = open('README.md').read()
-blogs = re.findall('\* (.*?) http([s]{0,1})\:\/\/(.*?) \[\(RSS\)\] \((.*?)\)', readme)
+blogs = re.findall('\* (.*?) http([s]{0,1})\:\/\/(.*?) \[\(RSS\)\]\((.*?)\)', readme)
 
 items = ''
 for blog in blogs:
