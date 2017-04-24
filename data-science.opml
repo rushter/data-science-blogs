@@ -126,6 +126,7 @@
 			<outline type="rss" text="LATERAL BLOG" title="LATERAL BLOG" xmlUrl="https://blog.lateral.io/feed/" htmlUrl="https://blog.lateral.io/"/>
 			<outline type="rss" text="Lazy Programmer" title="Lazy Programmer" xmlUrl="http://lazyprogrammer.me/feed/" htmlUrl="http://lazyprogrammer.me/"/>
 			<outline type="rss" text="Learn Analytics Here" title="Learn Analytics Here" xmlUrl="https://learnanalyticshere.wordpress.com/feed/" htmlUrl="https://learnanalyticshere.wordpress.com/"/>
+			<outline type="rss" text="LearnDataSci" title="LearnDataSci" xmlUrl="http://www.learndatasci.com/feed/" htmlUrl="http://www.learndatasci.com/"/>
 			<outline type="rss" text="Learning With Data" title="Learning With Data" xmlUrl="http://learningwithdata.com/rss_feed.xml" htmlUrl="http://learningwithdata.com/"/>
 			<outline type="rss" text="Life, Language, Learning" title="Life, Language, Learning" xmlUrl="http://daoudclarke.github.io/atom.xml" htmlUrl="http://daoudclarke.github.io/"/>
 			<outline type="rss" text="Louis Dorard" title="Louis Dorard" xmlUrl="http://www.louisdorard.com/blog?format=rss" htmlUrl="http://www.louisdorard.com/blog/"/>
@@ -151,6 +152,7 @@
 			<outline type="rss" text="Mirror Image" title="Mirror Image" xmlUrl="http://mirror2image.wordpress.com/feed/" htmlUrl="https://mirror2image.wordpress.com/"/>
 			<outline type="rss" text="Mitch Crowe" title="Mitch Crowe" xmlUrl="http://www.dataphoric.com/feed.xml" htmlUrl="http://www.dataphoric.com/"/>
 			<outline type="rss" text="MLWave" title="MLWave" xmlUrl="http://mlwave.com/feed/" htmlUrl="http://mlwave.com/"/>
+			<outline type="rss" text="MLWhiz" title="MLWhiz" xmlUrl="http://mlwhiz.com/atom.xml" htmlUrl="http://mlwhiz.com/"/>
 			<outline type="rss" text="Models are illuminating and wrong" title="Models are illuminating and wrong" xmlUrl="http://peadarcoyle.wordpress.com/feed/" htmlUrl="https://peadarcoyle.wordpress.com/"/>
 			<outline type="rss" text="Moonshots" title="Moonshots" xmlUrl="http://jxieeducation.com/feed.xml" htmlUrl="http://jxieeducation.com/"/>
 			<outline type="rss" text="Mourad Mourafiq" title="Mourad Mourafiq" xmlUrl="http://mourafiq.com/atom.xml" htmlUrl="http://mourafiq.com/"/>
@@ -215,6 +217,7 @@
 			<outline type="rss" text="The unofficial Google data science Blog" title="The unofficial Google data science Blog" xmlUrl="http://www.unofficialgoogledatascience.com/feeds/posts/default" htmlUrl="http://www.unofficialgoogledatascience.com/"/>
 			<outline type="rss" text="Tim Dettmers" title="Tim Dettmers" xmlUrl="http://timdettmers.com/feed/" htmlUrl="http://timdettmers.com/"/>
 			<outline type="rss" text="Tombone&#x27;s Computer Vision Blog" title="Tombone&#x27;s Computer Vision Blog" xmlUrl="http://www.computervisionblog.com/feeds/posts/default" htmlUrl="http://www.computervisionblog.com/"/>
+			<outline type="rss" text="Tommy Blanchard" title="Tommy Blanchard" xmlUrl="http://tommyblanchard.com/feeds/all.atom.xml" htmlUrl="http://tommyblanchard.com/category/projects"/>
 			<outline type="rss" text="Trevor Stephens" title="Trevor Stephens" xmlUrl="http://trevorstephens.com/feed.xml" htmlUrl="http://trevorstephens.com/"/>
 			<outline type="rss" text="Trey Causey" title="Trey Causey" xmlUrl="http://treycausey.com/feeds/all.atom.xml" htmlUrl="http://treycausey.com/"/>
 			<outline type="rss" text="UW Data Science Blog" title="UW Data Science Blog" xmlUrl="http://datasciencedegree.wisconsin.edu/feed/" htmlUrl="http://datasciencedegree.wisconsin.edu/blog/"/>
@@ -237,6 +240,9 @@
 			<outline type="rss" text="Adit Deshpande" title="Adit Deshpande" xmlUrl="https://adeshpande3.github.io/adeshpande3.github.io/feed.xml" htmlUrl="https://adeshpande3.github.io/"/>
 			<outline type="rss" text="Brilliantly wrong thoughts on science and programming" title="Brilliantly wrong thoughts on science and programming" xmlUrl="http://arogozhnikov.github.io/feed.xml" htmlUrl="https://arogozhnikov.github.io/"/>
 			<outline type="rss" text="Ben Frederickson" title="Ben Frederickson" xmlUrl="http://www.benfrederickson.com/atom.xml" htmlUrl="http://www.benfrederickson.com/blog/"/>
+			<outline type="rss" text="Amazon AWS AI Blog" title="Amazon AWS AI Blog" xmlUrl="https://aws.amazon.com/blogs/amazon-ai/feed/" htmlUrl="https://aws.amazon.com/blogs/ai/"/>
+			<outline type="rss" text="Dimensionless" title="Dimensionless" xmlUrl="https://dimensionless.in/feed" htmlUrl="https://dimensionless.in/blog/"/>
+			<outline type="rss" text="Distill" title="Distill" xmlUrl="http://distill.pub/rss.xml" htmlUrl="http://distill.pub/"/>
         </outline>
     </body>
 </opml>
