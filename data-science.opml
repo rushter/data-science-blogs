@@ -194,7 +194,6 @@
 			<outline type="rss" text="Sebastian Raschka" title="Sebastian Raschka" xmlUrl="http://sebastianraschka.com/rss_feed.xml" htmlUrl="http://sebastianraschka.com/blog/index.html"/>
 			<outline type="rss" text="Sebastian Ruder" title="Sebastian Ruder" xmlUrl="http://sebastianruder.com/rss/" htmlUrl="http://sebastianruder.com/"/>
 			<outline type="rss" text="Sebastian&#x27;s slow blog" title="Sebastian&#x27;s slow blog" xmlUrl="http://www.nowozin.net/sebastian/blog/feeds/all.atom.xml" htmlUrl="http://www.nowozin.net/sebastian/blog/"/>
-			<outline type="rss" text="SFL Scientific" title="SFL Scientific" xmlUrl="http://sflscientific.com/blog/?format=rss" htmlUrl="https://sflscientific.com/blog/"/>
 			<outline type="rss" text="Shakir&#x27;s Machine Learning Blog" title="Shakir&#x27;s Machine Learning Blog" xmlUrl="http://blog.shakirm.com/feed/" htmlUrl="http://blog.shakirm.com/"/>
 			<outline type="rss" text="Simply Statistics" title="Simply Statistics" xmlUrl="http://simplystatistics.org/feed/" htmlUrl="http://simplystatistics.org"/>
 			<outline type="rss" text="Startup.ML Blog" title="Startup.ML Blog" xmlUrl="http://www.startup.ml/blog?format=RSS" htmlUrl="http://startup.ml/blog"/>
@@ -244,6 +243,7 @@
 			<outline type="rss" text="Amazon AWS AI Blog" title="Amazon AWS AI Blog" xmlUrl="https://aws.amazon.com/blogs/amazon-ai/feed/" htmlUrl="https://aws.amazon.com/blogs/ai/"/>
 			<outline type="rss" text="Dimensionless" title="Dimensionless" xmlUrl="https://dimensionless.in/feed" htmlUrl="https://dimensionless.in/blog/"/>
 			<outline type="rss" text="Distill" title="Distill" xmlUrl="http://distill.pub/rss.xml" htmlUrl="http://distill.pub/"/>
+			<outline type="rss" text="SFL Scientific Blog" title="SFL Scientific Blog" xmlUrl="http://sflscientific.com/blog/?format=rss" htmlUrl="https://sflscientific.com/blog/"/>
         </outline>
     </body>
 </opml>
