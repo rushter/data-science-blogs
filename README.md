@@ -241,6 +241,7 @@ A curated list of data science blogs
 * Dimensionless https://dimensionless.in/blog/ [(RSS)](https://dimensionless.in/feed)
 * Distill http://distill.pub/ [(RSS)](http://distill.pub/rss.xml)
 * SFL Scientific Blog https://sflscientific.com/blog/ [(RSS)](http://sflscientific.com/blog/?format=rss)
+* Moody Rd http://blog.mrtz.org/ [(RSS)](http://blog.mrtz.org/feed.xml)
 
 
 # RSS
