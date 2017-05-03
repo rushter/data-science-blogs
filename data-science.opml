@@ -8,6 +8,7 @@
         <outline text="Data science blogs" title="Data science blogs">
 			<outline type="rss" text="A Blog From a Human-engineer-being" title="A Blog From a Human-engineer-being" xmlUrl="http://www.erogol.com/feed/" htmlUrl="http://www.erogol.com/"/>
 			<outline type="rss" text="Aakash Japi" title="Aakash Japi" xmlUrl="http://logicx24.github.io/feed.xml" htmlUrl="http://aakashjapi.com/"/>
+			<outline type="rss" text="Adit Deshpande" title="Adit Deshpande" xmlUrl="https://adeshpande3.github.io/adeshpande3.github.io/feed.xml" htmlUrl="https://adeshpande3.github.io/"/>
 			<outline type="rss" text="Advanced Analytics &amp; R" title="Advanced Analytics &amp; R" xmlUrl="http://advanceddataanalytics.net/feed/" htmlUrl="http://advanceddataanalytics.net/"/>
 			<outline type="rss" text="Adventures in Data Land" title="Adventures in Data Land" xmlUrl="http://blog.smola.org/rss" htmlUrl="http://blog.smola.org"/>
 			<outline type="rss" text="Agile Data Science" title="Agile Data Science" xmlUrl="http://blog.sense.io/rss/" htmlUrl="http://blog.sense.io/"/>
@@ -16,23 +17,28 @@
 			<outline type="rss" text="Alex Castrounis | InnoArchiTech" title="Alex Castrounis | InnoArchiTech" xmlUrl="http://www.innoarchitech.com/feed.xml" htmlUrl="http://www.innoarchitech.com/"/>
 			<outline type="rss" text="Alex Perrier" title="Alex Perrier" xmlUrl="http://alexperrier.github.io/feed.xml" htmlUrl="http://alexperrier.github.io/"/>
 			<outline type="rss" text="Algobeans | Data Analytics Tutorials &amp; Experiments for the Layman" title="Algobeans | Data Analytics Tutorials &amp; Experiments for the Layman" xmlUrl="https://algobeans.com/feed/" htmlUrl="https://algobeans.com"/>
+			<outline type="rss" text="Amazon AWS AI Blog" title="Amazon AWS AI Blog" xmlUrl="https://aws.amazon.com/blogs/amazon-ai/feed/" htmlUrl="https://aws.amazon.com/blogs/ai/"/>
 			<outline type="rss" text="Analytics Vidhya" title="Analytics Vidhya" xmlUrl="http://feeds.feedburner.com/AnalyticsVidhya" htmlUrl="http://www.analyticsvidhya.com/blog/"/>
 			<outline type="rss" text="Andreas Müller" title="Andreas Müller" xmlUrl="http://peekaboo-vision.blogspot.com/atom.xml" htmlUrl="http://peekaboo-vision.blogspot.com/"/>
 			<outline type="rss" text="Andrej Karpathy blog" title="Andrej Karpathy blog" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
 			<outline type="rss" text="Andrew Brooks" title="Andrew Brooks" xmlUrl="http://brooksandrew.github.io/simpleblog/feed.xml" htmlUrl="http://brooksandrew.github.io/simpleblog/"/>
 			<outline type="rss" text="Andrey Kurenkov" title="Andrey Kurenkov" xmlUrl="http://www.andreykurenkov.com/writing/feed.xml/" htmlUrl="http://www.andreykurenkov.com/writing/"/>
 			<outline type="rss" text="Anton Lebedevich&#x27;s Blog" title="Anton Lebedevich&#x27;s Blog" xmlUrl="http://mabrek.github.io/feed.xml" htmlUrl="http://mabrek.github.io/"/>
+			<outline type="rss" text="Arthur Juliani" title="Arthur Juliani" xmlUrl="https://medium.com/feed/@awjuliani" htmlUrl="https://medium.com/@awjuliani"/>
+			<outline type="rss" text="Audun M. Øygard" title="Audun M. Øygard" xmlUrl="http://auduno.tumblr.com/rss" htmlUrl="http://www.auduno.com/"/>
 			<outline type="rss" text="Avi Singh" title="Avi Singh" xmlUrl="http://avisingh599.github.io/feed.xml" htmlUrl="https://avisingh599.github.io/"/>
 			<outline type="rss" text="Beautiful Data" title="Beautiful Data" xmlUrl="http://beautifuldata.net/feed/" htmlUrl="http://beautifuldata.net/"/>
 			<outline type="rss" text="Beckerfuffle" title="Beckerfuffle" xmlUrl="http://mdbecker.github.io/atom.xml" htmlUrl="http://mdbecker.github.io/"/>
 			<outline type="rss" text="Becoming A Data Scientist" title="Becoming A Data Scientist" xmlUrl="http://www.becomingadatascientist.com/feed/" htmlUrl="http://www.becomingadatascientist.com/"/>
 			<outline type="rss" text="Ben Bolte&#x27;s Blog" title="Ben Bolte&#x27;s Blog" xmlUrl="http://benjaminbolte.com/ml/" htmlUrl="http://benjaminbolte.com/ml/"/>
 			<outline type="rss" text="Ben Frederickson" title="Ben Frederickson" xmlUrl="http://www.benfrederickson.com/atom.xml" htmlUrl="http://www.benfrederickson.com/blog/"/>
+			<outline type="rss" text="Ben Frederickson" title="Ben Frederickson" xmlUrl="http://www.benfrederickson.com/atom.xml" htmlUrl="http://www.benfrederickson.com/blog/"/>
 			<outline type="rss" text="Big-Ish Data" title="Big-Ish Data" xmlUrl="http://bigishdata.com/feed/" htmlUrl="http://bigishdata.com/"/>
 			<outline type="rss" text="Blog on neural networks" title="Blog on neural networks" xmlUrl="http://yerevann.github.io/atom.xml" htmlUrl="http://yerevann.github.io/"/>
 			<outline type="rss" text="Blogistic RegressionAbout Projects" title="Blogistic RegressionAbout Projects" xmlUrl="http://d10genes.github.io/blog/feed.xml" htmlUrl="http://d10genes.github.io/blog/"/>
 			<outline type="rss" text="blogR | R tips and tricks from a scientist" title="blogR | R tips and tricks from a scientist" xmlUrl="https://drsimonj.svbtle.com/" htmlUrl="https://drsimonj.svbtle.com/"/>
 			<outline type="rss" text="Brain of mat kelcey" title="Brain of mat kelcey" xmlUrl="http://matpalm.com/blog/feed" htmlUrl="http://matpalm.com/blog/"/>
+			<outline type="rss" text="Brilliantly wrong thoughts on science and programming" title="Brilliantly wrong thoughts on science and programming" xmlUrl="http://arogozhnikov.github.io/feed.xml" htmlUrl="https://arogozhnikov.github.io/"/>
 			<outline type="rss" text="Bugra Akyildiz" title="Bugra Akyildiz" xmlUrl="http://bugra.github.io/feeds/all.atom.xml" htmlUrl="http://bugra.github.io/"/>
 			<outline type="rss" text="Building Babylon" title="Building Babylon" xmlUrl="http://building-babylon.net/feed/" htmlUrl="https://building-babylon.net/"/>
 			<outline type="rss" text="Carl Shan" title="Carl Shan" xmlUrl="http://feeds.feedburner.com/carlshan" htmlUrl="http://carlshan.com/"/>
@@ -74,6 +80,8 @@
 			<outline type="rss" text="Deepdish" title="Deepdish" xmlUrl="http://deepdish.io/atom.xml" htmlUrl="http://deepdish.io/"/>
 			<outline type="rss" text="Delip Rao" title="Delip Rao" xmlUrl="http://deliprao.com/feed" htmlUrl="http://deliprao.com/"/>
 			<outline type="rss" text="DENNY&#x27;S BLOG" title="DENNY&#x27;S BLOG" xmlUrl="http://blog.dennybritz.com/feed/" htmlUrl="http://blog.dennybritz.com/"/>
+			<outline type="rss" text="Dimensionless" title="Dimensionless" xmlUrl="https://dimensionless.in/feed" htmlUrl="https://dimensionless.in/blog/"/>
+			<outline type="rss" text="Distill" title="Distill" xmlUrl="http://distill.pub/rss.xml" htmlUrl="http://distill.pub/"/>
 			<outline type="rss" text="District Data Labs" title="District Data Labs" xmlUrl="https://districtdatalabs.silvrback.com/feed" htmlUrl="http://districtdatalabs.silvrback.com/"/>
 			<outline type="rss" text="Diving into data" title="Diving into data" xmlUrl="http://blog.datadive.net/feed/" htmlUrl="https://blog.datadive.net/"/>
 			<outline type="rss" text="Domino Data Lab&#x27;s blog" title="Domino Data Lab&#x27;s blog" xmlUrl="http://blog.dominodatalab.com/rss/" htmlUrl="http://blog.dominodatalab.com/"/>
@@ -129,12 +137,13 @@
 			<outline type="rss" text="LearnDataSci" title="LearnDataSci" xmlUrl="http://www.learndatasci.com/feed/" htmlUrl="http://www.learndatasci.com/"/>
 			<outline type="rss" text="Learning With Data" title="Learning With Data" xmlUrl="http://learningwithdata.com/rss_feed.xml" htmlUrl="http://learningwithdata.com/"/>
 			<outline type="rss" text="Life, Language, Learning" title="Life, Language, Learning" xmlUrl="http://daoudclarke.github.io/atom.xml" htmlUrl="http://daoudclarke.github.io/"/>
+			<outline type="rss" text="Locke Data" title="Locke Data" xmlUrl="https://itsalocke.com/feed" htmlUrl="https://itsalocke.com/blog/"/>
 			<outline type="rss" text="Louis Dorard" title="Louis Dorard" xmlUrl="http://www.louisdorard.com/blog?format=rss" htmlUrl="http://www.louisdorard.com/blog/"/>
 			<outline type="rss" text="M.E.Driscoll" title="M.E.Driscoll" xmlUrl="http://medriscoll.com/rss" htmlUrl="http://medriscoll.com/"/>
 			<outline type="rss" text="Machinalis" title="Machinalis" xmlUrl="http://www.machinalis.com/blog/feeds/rss/" htmlUrl="http://www.machinalis.com/blog"/>
-			<outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://charlesmartin14.wordpress.com/feed/" htmlUrl="https://charlesmartin14.wordpress.com/"/>
 			<outline type="rss" text="Machine Learning (Theory)" title="Machine Learning (Theory)" xmlUrl="http://hunch.net/?feed=rss2" htmlUrl="http://hunch.net/"/>
 			<outline type="rss" text="Machine Learning and Data Science" title="Machine Learning and Data Science" xmlUrl="http://alexhwoods.com/feed/" htmlUrl="http://alexhwoods.com/blog/"/>
+			<outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://charlesmartin14.wordpress.com/feed/" htmlUrl="https://charlesmartin14.wordpress.com/"/>
 			<outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/feed/" htmlUrl="http://machinelearningmastery.com/blog/"/>
 			<outline type="rss" text="Machine Learning, etc" title="Machine Learning, etc" xmlUrl="http://yaroslavvb.blogspot.com/feeds/posts/default" htmlUrl="http://yaroslavvb.blogspot.com"/>
 			<outline type="rss" text="Machine Learning, Maths and Physics" title="Machine Learning, Maths and Physics" xmlUrl="https://mlopezm.wordpress.com/feed/" htmlUrl="https://mlopezm.wordpress.com/"/>
@@ -154,6 +163,7 @@
 			<outline type="rss" text="MLWave" title="MLWave" xmlUrl="http://mlwave.com/feed/" htmlUrl="http://mlwave.com/"/>
 			<outline type="rss" text="MLWhiz" title="MLWhiz" xmlUrl="http://mlwhiz.com/atom.xml" htmlUrl="http://mlwhiz.com/"/>
 			<outline type="rss" text="Models are illuminating and wrong" title="Models are illuminating and wrong" xmlUrl="http://peadarcoyle.wordpress.com/feed/" htmlUrl="https://peadarcoyle.wordpress.com/"/>
+			<outline type="rss" text="Moody Rd" title="Moody Rd" xmlUrl="http://blog.mrtz.org/feed.xml" htmlUrl="http://blog.mrtz.org/"/>
 			<outline type="rss" text="Moonshots" title="Moonshots" xmlUrl="http://jxieeducation.com/feed.xml" htmlUrl="http://jxieeducation.com/"/>
 			<outline type="rss" text="Mourad Mourafiq" title="Mourad Mourafiq" xmlUrl="http://mourafiq.com/atom.xml" htmlUrl="http://mourafiq.com/"/>
 			<outline type="rss" text="My thoughts on Data science, predictive analytics, Python" title="My thoughts on Data science, predictive analytics, Python" xmlUrl="http://shahramabyari.com/feed/" htmlUrl="http://shahramabyari.com/"/>
@@ -194,6 +204,7 @@
 			<outline type="rss" text="Sebastian Raschka" title="Sebastian Raschka" xmlUrl="http://sebastianraschka.com/rss_feed.xml" htmlUrl="http://sebastianraschka.com/blog/index.html"/>
 			<outline type="rss" text="Sebastian Ruder" title="Sebastian Ruder" xmlUrl="http://sebastianruder.com/rss/" htmlUrl="http://sebastianruder.com/"/>
 			<outline type="rss" text="Sebastian&#x27;s slow blog" title="Sebastian&#x27;s slow blog" xmlUrl="http://www.nowozin.net/sebastian/blog/feeds/all.atom.xml" htmlUrl="http://www.nowozin.net/sebastian/blog/"/>
+			<outline type="rss" text="SFL Scientific Blog" title="SFL Scientific Blog" xmlUrl="http://sflscientific.com/blog/?format=rss" htmlUrl="https://sflscientific.com/blog/"/>
 			<outline type="rss" text="Shakir&#x27;s Machine Learning Blog" title="Shakir&#x27;s Machine Learning Blog" xmlUrl="http://blog.shakirm.com/feed/" htmlUrl="http://blog.shakirm.com/"/>
 			<outline type="rss" text="Simply Statistics" title="Simply Statistics" xmlUrl="http://simplystatistics.org/feed/" htmlUrl="http://simplystatistics.org"/>
 			<outline type="rss" text="Startup.ML Blog" title="Startup.ML Blog" xmlUrl="http://www.startup.ml/blog?format=RSS" htmlUrl="http://startup.ml/blog"/>
@@ -235,15 +246,6 @@
 			<outline type="rss" text="ŷhat" title="ŷhat" xmlUrl="http://blog.yhat.com/rss.xml" htmlUrl="http://blog.yhat.com/"/>
 			<outline type="rss" text="ℚuantitative √ourney" title="ℚuantitative √ourney" xmlUrl="http://outlace.com/feed.xml" htmlUrl="http://outlace.com/"/>
 			<outline type="rss" text="大トロ" title="大トロ" xmlUrl="http://blog.otoro.net/feed.xml" htmlUrl="http://blog.otoro.net/"/>
-			<outline type="rss" text="Audun M. Øygard" title="Audun M. Øygard" xmlUrl="http://auduno.tumblr.com/rss" htmlUrl="http://www.auduno.com/"/>
-			<outline type="rss" text="Arthur Juliani" title="Arthur Juliani" xmlUrl="https://medium.com/feed/@awjuliani" htmlUrl="https://medium.com/@awjuliani"/>
-			<outline type="rss" text="Adit Deshpande" title="Adit Deshpande" xmlUrl="https://adeshpande3.github.io/adeshpande3.github.io/feed.xml" htmlUrl="https://adeshpande3.github.io/"/>
-			<outline type="rss" text="Brilliantly wrong thoughts on science and programming" title="Brilliantly wrong thoughts on science and programming" xmlUrl="http://arogozhnikov.github.io/feed.xml" htmlUrl="https://arogozhnikov.github.io/"/>
-			<outline type="rss" text="Ben Frederickson" title="Ben Frederickson" xmlUrl="http://www.benfrederickson.com/atom.xml" htmlUrl="http://www.benfrederickson.com/blog/"/>
-			<outline type="rss" text="Amazon AWS AI Blog" title="Amazon AWS AI Blog" xmlUrl="https://aws.amazon.com/blogs/amazon-ai/feed/" htmlUrl="https://aws.amazon.com/blogs/ai/"/>
-			<outline type="rss" text="Dimensionless" title="Dimensionless" xmlUrl="https://dimensionless.in/feed" htmlUrl="https://dimensionless.in/blog/"/>
-			<outline type="rss" text="Distill" title="Distill" xmlUrl="http://distill.pub/rss.xml" htmlUrl="http://distill.pub/"/>
-			<outline type="rss" text="SFL Scientific Blog" title="SFL Scientific Blog" xmlUrl="http://sflscientific.com/blog/?format=rss" htmlUrl="https://sflscientific.com/blog/"/>
         </outline>
     </body>
 </opml>
