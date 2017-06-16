@@ -47,6 +47,7 @@ A curated list of data science blogs
 * Daniel Homola http://danielhomola.com/category/blog/ [(RSS)](http://danielhomola.com/feed/)
 * Daniel Nee http://danielnee.com [(RSS)](http://danielnee.com/?feed=rss2)
 * Data Based Inventions http://datalab.lu/ [(RSS)](http://datalab.lu/atom.xml)
+* Data Blogger https://www.data-blogger.com/ [(RSS)](https://www.data-blogger.com/feed/)
 * Data Labs http://blog.insightdatalabs.com/ [(RSS)](http://blog.insightdatalabs.com/rss/)
 * Data Miners Blog http://blog.data-miners.com/ [(RSS)](http://blog.data-miners.com/feeds/posts/default?alt=rss)
 * Data Mining Research http://www.dataminingblog.com/ [(RSS)](http://feeds.feedburner.com/dataminingblog)
