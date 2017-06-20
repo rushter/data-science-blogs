@@ -141,7 +141,7 @@ A curated list of data science blogs
 * Machine Learning and Data Science http://alexhwoods.com/blog/ [(RSS)](http://alexhwoods.com/feed/)
 * Machine Learning https://charlesmartin14.wordpress.com/ [(RSS)](http://charlesmartin14.wordpress.com/feed/)
 * Machine Learning Mastery http://machinelearningmastery.com/blog/ [(RSS)](http://machinelearningmastery.com/feed/)
-* Machine Learning Blogs https://machinelearningblogs.com/feed/ [(RSS)](https://machinelearningblogs.com/feed/)
+* Machine Learning Blogs https://machinelearningblogs.com/ [(RSS)](https://machinelearningblogs.com/feed/)
 * Machine Learning, etc http://yaroslavvb.blogspot.com [(RSS)](http://yaroslavvb.blogspot.com/feeds/posts/default)
 * Machine Learning, Maths and Physics https://mlopezm.wordpress.com/ [(RSS)](https://mlopezm.wordpress.com/feed/)
 * Machined Learnings http://www.machinedlearnings.com/ [(RSS)](http://www.machinedlearnings.com/feeds/posts/default)
