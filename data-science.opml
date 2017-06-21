@@ -52,6 +52,7 @@
 			<outline type="rss" text="Daniel Homola" title="Daniel Homola" xmlUrl="http://danielhomola.com/feed/" htmlUrl="http://danielhomola.com/category/blog/"/>
 			<outline type="rss" text="Daniel Nee" title="Daniel Nee" xmlUrl="http://danielnee.com/?feed=rss2" htmlUrl="http://danielnee.com"/>
 			<outline type="rss" text="Data Based Inventions" title="Data Based Inventions" xmlUrl="http://datalab.lu/atom.xml" htmlUrl="http://datalab.lu/"/>
+			<outline type="rss" text="Data Blogger" title="Data Blogger" xmlUrl="https://www.data-blogger.com/feed/" htmlUrl="https://www.data-blogger.com/"/>
 			<outline type="rss" text="Data Labs" title="Data Labs" xmlUrl="http://blog.insightdatalabs.com/rss/" htmlUrl="http://blog.insightdatalabs.com/"/>
 			<outline type="rss" text="Data Miners Blog" title="Data Miners Blog" xmlUrl="http://blog.data-miners.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.data-miners.com/"/>
 			<outline type="rss" text="Data Mining Research" title="Data Mining Research" xmlUrl="http://feeds.feedburner.com/dataminingblog" htmlUrl="http://www.dataminingblog.com/"/>
@@ -145,6 +146,7 @@
 			<outline type="rss" text="Machine Learning and Data Science" title="Machine Learning and Data Science" xmlUrl="http://alexhwoods.com/feed/" htmlUrl="http://alexhwoods.com/blog/"/>
 			<outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://charlesmartin14.wordpress.com/feed/" htmlUrl="https://charlesmartin14.wordpress.com/"/>
 			<outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/feed/" htmlUrl="http://machinelearningmastery.com/blog/"/>
+			<outline type="rss" text="Machine Learning Blogs" title="Machine Learning Blogs" xmlUrl="https://machinelearningblogs.com/feed/" htmlUrl="https://machinelearningblogs.com/"/>
 			<outline type="rss" text="Machine Learning, etc" title="Machine Learning, etc" xmlUrl="http://yaroslavvb.blogspot.com/feeds/posts/default" htmlUrl="http://yaroslavvb.blogspot.com"/>
 			<outline type="rss" text="Machine Learning, Maths and Physics" title="Machine Learning, Maths and Physics" xmlUrl="https://mlopezm.wordpress.com/feed/" htmlUrl="https://mlopezm.wordpress.com/"/>
 			<outline type="rss" text="Machined Learnings" title="Machined Learnings" xmlUrl="http://www.machinedlearnings.com/feeds/posts/default" htmlUrl="http://www.machinedlearnings.com/"/>
