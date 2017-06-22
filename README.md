@@ -28,6 +28,7 @@ A curated list of data science blogs
 * Ben Bolte's Blog http://benjaminbolte.com/ml/ [(RSS)](http://benjaminbolte.com/ml/)
 * Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)](http://www.benfrederickson.com/atom.xml)
 * Ben Frederickson http://www.benfrederickson.com/blog/ [(RSS)](http://www.benfrederickson.com/atom.xml)
+* Berkeley AI Research http://bair.berkeley.edu/blog/ [(RSS)](http://bair.berkeley.edu/blog/feed.xml)
 * Big-Ish Data http://bigishdata.com/ [(RSS)](http://bigishdata.com/feed/)
 * Blog on neural networks http://yerevann.github.io/ [(RSS)](http://yerevann.github.io/atom.xml)
 * Blogistic RegressionAbout Projects http://d10genes.github.io/blog/ [(RSS)](http://d10genes.github.io/blog/feed.xml)
