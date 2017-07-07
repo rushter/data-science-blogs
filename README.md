@@ -50,6 +50,7 @@ A curated list of data science blogs
 * Data Based Inventions http://datalab.lu/ [(RSS)](http://datalab.lu/atom.xml)
 * Data Blogger https://www.data-blogger.com/ [(RSS)](https://www.data-blogger.com/feed/)
 * Data Labs http://blog.insightdatalabs.com/ [(RSS)](http://blog.insightdatalabs.com/rss/)
+* Data Meets Media http://datameetsmedia.com/ [(RSS)](http://datameetsmedia.com/feed/)
 * Data Miners Blog http://blog.data-miners.com/ [(RSS)](http://blog.data-miners.com/feeds/posts/default?alt=rss)
 * Data Mining Research http://www.dataminingblog.com/ [(RSS)](http://feeds.feedburner.com/dataminingblog)
 * Data Mining: Text Mining, Visualization and Social Media http://datamining.typepad.com/data_mining/ [(RSS)](http://datamining.typepad.com/data_mining/atom.xml)
