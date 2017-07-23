@@ -211,6 +211,7 @@ A curated list of data science blogs
 * Statistical Modeling, Causal Inference, and Social Science http://andrewgelman.com/ [(RSS)](http://andrewgelman.com/feed/)
 * Stigler Diet http://stiglerdiet.com/ [(RSS)](http://stiglerdiet.com/feeds/all.atom.xml)
 * Stitch Fix Tech Blog http://multithreaded.stitchfix.com/blog/ [(RSS)](http://multithreaded.stitchfix.com/feed.xml)
+* Stochastic R&D Notes http://arseny.info/ [(RSS)](http://arseny.info/feeds/all.rss.xml)
 * Storytelling with Statistics on Quora http://datastories.quora.com/ [(RSS)](http://datastories.quora.com/rss)
 * StreamHacker http://streamhacker.com/ [(RSS)](http://feeds.feedburner.com/StreamHacker)
 * Subconscious Musings http://blogs.sas.com/content/subconsciousmusings/ [(RSS)](http://feeds.feedburner.com/advanalytics)
