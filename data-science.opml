@@ -19,6 +19,7 @@
 			<outline type="rss" text="Algobeans | Data Analytics Tutorials &amp; Experiments for the Layman" title="Algobeans | Data Analytics Tutorials &amp; Experiments for the Layman" xmlUrl="https://algobeans.com/feed/" htmlUrl="https://algobeans.com"/>
 			<outline type="rss" text="Amazon AWS AI Blog" title="Amazon AWS AI Blog" xmlUrl="https://aws.amazon.com/blogs/amazon-ai/feed/" htmlUrl="https://aws.amazon.com/blogs/ai/"/>
 			<outline type="rss" text="Analytics Vidhya" title="Analytics Vidhya" xmlUrl="http://feeds.feedburner.com/AnalyticsVidhya" htmlUrl="http://www.analyticsvidhya.com/blog/"/>
+			<outline type="rss" text="Analytics and Visualization in Big Data @ Sicara" title="Analytics and Visualization in Big Data @ Sicara" xmlUrl="https://blog.sicara.com/feed" htmlUrl="https://blog.sicara.com"/>
 			<outline type="rss" text="Andreas Müller" title="Andreas Müller" xmlUrl="http://peekaboo-vision.blogspot.com/atom.xml" htmlUrl="http://peekaboo-vision.blogspot.com/"/>
 			<outline type="rss" text="Andrej Karpathy blog" title="Andrej Karpathy blog" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
 			<outline type="rss" text="Andrew Brooks" title="Andrew Brooks" xmlUrl="http://brooksandrew.github.io/simpleblog/feed.xml" htmlUrl="http://brooksandrew.github.io/simpleblog/"/>
@@ -54,6 +55,7 @@
 			<outline type="rss" text="Data Based Inventions" title="Data Based Inventions" xmlUrl="http://datalab.lu/atom.xml" htmlUrl="http://datalab.lu/"/>
 			<outline type="rss" text="Data Blogger" title="Data Blogger" xmlUrl="https://www.data-blogger.com/feed/" htmlUrl="https://www.data-blogger.com/"/>
 			<outline type="rss" text="Data Labs" title="Data Labs" xmlUrl="http://blog.insightdatalabs.com/rss/" htmlUrl="http://blog.insightdatalabs.com/"/>
+			<outline type="rss" text="Data Meets Media" title="Data Meets Media" xmlUrl="http://datameetsmedia.com/feed/" htmlUrl="http://datameetsmedia.com/"/>
 			<outline type="rss" text="Data Miners Blog" title="Data Miners Blog" xmlUrl="http://blog.data-miners.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.data-miners.com/"/>
 			<outline type="rss" text="Data Mining Research" title="Data Mining Research" xmlUrl="http://feeds.feedburner.com/dataminingblog" htmlUrl="http://www.dataminingblog.com/"/>
 			<outline type="rss" text="Data Mining: Text Mining, Visualization and Social Media" title="Data Mining: Text Mining, Visualization and Social Media" xmlUrl="http://datamining.typepad.com/data_mining/atom.xml" htmlUrl="http://datamining.typepad.com/data_mining/"/>
@@ -213,6 +215,7 @@
 			<outline type="rss" text="Statistical Modeling, Causal Inference, and Social Science" title="Statistical Modeling, Causal Inference, and Social Science" xmlUrl="http://andrewgelman.com/feed/" htmlUrl="http://andrewgelman.com/"/>
 			<outline type="rss" text="Stigler Diet" title="Stigler Diet" xmlUrl="http://stiglerdiet.com/feeds/all.atom.xml" htmlUrl="http://stiglerdiet.com/"/>
 			<outline type="rss" text="Stitch Fix Tech Blog" title="Stitch Fix Tech Blog" xmlUrl="http://multithreaded.stitchfix.com/feed.xml" htmlUrl="http://multithreaded.stitchfix.com/blog/"/>
+			<outline type="rss" text="Stochastic R&amp;D Notes" title="Stochastic R&amp;D Notes" xmlUrl="http://arseny.info/feeds/all.rss.xml" htmlUrl="http://arseny.info/"/>
 			<outline type="rss" text="Storytelling with Statistics on Quora" title="Storytelling with Statistics on Quora" xmlUrl="http://datastories.quora.com/rss" htmlUrl="http://datastories.quora.com/"/>
 			<outline type="rss" text="StreamHacker" title="StreamHacker" xmlUrl="http://feeds.feedburner.com/StreamHacker" htmlUrl="http://streamhacker.com/"/>
 			<outline type="rss" text="Subconscious Musings" title="Subconscious Musings" xmlUrl="http://feeds.feedburner.com/advanalytics" htmlUrl="http://blogs.sas.com/content/subconsciousmusings/"/>
