@@ -62,7 +62,7 @@
 			<outline type="rss" text="Data Piques" title="Data Piques" xmlUrl="http://blog.ethanrosenthal.com/feeds/all.atom.xml" htmlUrl="http://blog.ethanrosenthal.com/"/>
 			<outline type="rss" text="Data School" title="Data School" xmlUrl="http://www.dataschool.io/rss/" htmlUrl="http://www.dataschool.io/"/>
 			<outline type="rss" text="Data Science 101" title="Data Science 101" xmlUrl="http://101.datascience.community/feed/" htmlUrl="http://101.datascience.community/"/>
-			<outline type="rss" text="Data Science @ Facebook" title="Data Science @ Facebook" xmlUrl="https://research.facebook.com/blog/datascience/" htmlUrl="https://research.facebook.com/blog/datascience/"/>
+			<outline type="rss" text="Data Science @ Facebook" title="Data Science @ Facebook" xmlUrl="https://research.fb.com/category/data-science/feed/" htmlUrl="https://research.fb.com/category/data-science/"/>
 			<outline type="rss" text="Data Science Insights" title="Data Science Insights" xmlUrl="http://www.datasciencebowl.com/feed/" htmlUrl="http://www.datasciencebowl.com/data-science-insights/"/>
 			<outline type="rss" text="Data Science Tutorials" title="Data Science Tutorials" xmlUrl="https://www.codementor.io/data-science/tutorial/feed" htmlUrl="https://codementor.io/data-science/tutorial"/>
 			<outline type="rss" text="Data Science Vademecum" title="Data Science Vademecum" xmlUrl="http://datasciencevademecum.wordpress.com/feed/" htmlUrl="http://datasciencevademecum.wordpress.com/"/>
@@ -248,4 +248,3 @@
         </outline>
     </body>
 </opml>
-    
