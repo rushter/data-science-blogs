@@ -7,6 +7,7 @@ A curated list of data science blogs
 * Advanced Analytics & R http://advanceddataanalytics.net/ [(RSS)](http://advanceddataanalytics.net/feed/)
 * Adventures in Data Land http://blog.smola.org [(RSS)](http://blog.smola.org/rss)
 * Agile Data Science http://blog.sense.io/ [(RSS)](http://blog.sense.io/rss/)
+* Ahmed BESBES https://ahmedbesbes.com/ [(RSS)](https://ahmedbesbes.com/feeds/all.atom.xml)
 * Ahmed El Deeb https://medium.com/@D33B [(RSS)](https://medium.com/feed/@D33B)
 * Airbnb Data blog https://medium.com/airbnb-engineering/tagged/data-science [(RSS)](https://medium.com/airbnb-engineering/tagged/data-science)
 * Alex Castrounis | InnoArchiTech http://www.innoarchitech.com/ [(RSS)](http://www.innoarchitech.com/feed.xml)
