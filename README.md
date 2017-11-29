@@ -50,7 +50,7 @@ A curated list of data science blogs
 * Daniel Nee http://danielnee.com [(RSS)](http://danielnee.com/?feed=rss2)
 * Data Based Inventions http://datalab.lu/ [(RSS)](http://datalab.lu/atom.xml)
 * Data Blogger https://www.data-blogger.com/ [(RSS)](https://www.data-blogger.com/feed/)
-* Data Double Confirm https://projectoyo.wixsite.com/datadoubleconfirm [(RSS)](https://projectosyo.wixsite.com/datadoubleconfirm/feed.xml)
+* Data Double Confirm https://projectosyo.wixsite.com/datadoubleconfirm [(RSS)](https://projectosyo.wixsite.com/datadoubleconfirm/feed.xml)
 * Data Labs http://blog.insightdatalabs.com/ [(RSS)](http://blog.insightdatalabs.com/rss/)
 * Data Meets Media http://datameetsmedia.com/ [(RSS)](http://datameetsmedia.com/feed/)
 * Data Miners Blog http://blog.data-miners.com/ [(RSS)](http://blog.data-miners.com/feeds/posts/default?alt=rss)
