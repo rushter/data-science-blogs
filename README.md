@@ -11,7 +11,7 @@ A curated list of data science blogs
 * Ahmed El Deeb https://medium.com/@D33B [(RSS)](https://medium.com/feed/@D33B)
 * Airbnb Data blog https://medium.com/airbnb-engineering/tagged/data-science [(RSS)](https://medium.com/airbnb-engineering/tagged/data-science)
 * Alex Castrounis | InnoArchiTech http://www.innoarchitech.com/ [(RSS)](http://www.innoarchitech.com/feed.xml)
-* Alex Perrier http://alexperrier.github.io/ [(RSS)](http://alexperrier.github.io/feed.xml)
+* Alex Perrier http://alexisperrier.com/ [(RSS)](http://alexisperrier.com//feed.xml)
 * Algobeans | Data Analytics Tutorials & Experiments for the Layman https://algobeans.com [(RSS)](https://algobeans.com/feed/)
 * Amazon AWS AI Blog https://aws.amazon.com/blogs/ai/ [(RSS)](https://aws.amazon.com/blogs/amazon-ai/feed/)
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)](http://feeds.feedburner.com/AnalyticsVidhya)
