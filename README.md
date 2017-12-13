@@ -156,7 +156,7 @@ A curated list of data science blogs
 * Mike Tyka http://mtyka.github.io/ [(RSS)](http://mtyka.github.io//feed.xml)
 * minimaxir | Max Woolf's Blog http://minimaxir.com/ [(RSS)](http://minimaxir.com/rss.xml)
 * Mirror Image https://mirror2image.wordpress.com/ [(RSS)](http://mirror2image.wordpress.com/feed/)
-* Mitch Crowe http://www.dataphoric.com/ [(RSS)](http://www.dataphoric.com/feed.xml)
+* Mitch Crowe http://www.mitchcrowe.com/ [(RSS)](http://feeds.feedburner.com/mitchcrowe/ydqG?format=xml)
 * MLWave http://mlwave.com/ [(RSS)](http://mlwave.com/feed/)
 * MLWhiz http://mlwhiz.com/ [(RSS)](http://mlwhiz.com/atom.xml)
 * Models are illuminating and wrong https://peadarcoyle.wordpress.com/ [(RSS)](http://peadarcoyle.wordpress.com/feed/)
