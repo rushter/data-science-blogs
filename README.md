@@ -114,6 +114,7 @@ A curated list of data science blogs
 * INSPIRATION INFORMATION http://myinspirationinformation.com/ [(RSS)](http://myinspirationinformation.com/feed/)
 * Ira Korshunova http://irakorshunova.github.io/ [(RSS)](http://irakorshunova.github.io/feed.xml)
 * I’m a bandit https://blogs.princeton.edu/imabandit/ [(RSS)](https://blogs.princeton.edu/imabandit/feed/)
+* Java Machine Learning and DeepLearning http://ramok.tech/machine-learning/
 * Jason Toy http://www.jtoy.net/ [(RSS)](http://jtoy.net/atom.xml)
 * Jeremy D. Jackson, PhD http://www.jeremydjacksonphd.com/ [(RSS)](http://www.jeremydjacksonphd.com/?feed=rss2)
 * Jesse Steinweg-Woods https://jessesw.com/ [(RSS)](https://jessesw.com/feed.xml)
