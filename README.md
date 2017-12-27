@@ -176,6 +176,7 @@ A curated list of data science blogs
 * Opiate for the masses Data is our religion. http://opiateforthemass.es/ [(RSS)](http://opiateforthemass.es/feed.xml)
 * p-value.info http://www.p-value.info/ [(RSS)](http://www.p-value.info/feeds/posts/default)
 * Pete Warden's blog http://petewarden.com/ [(RSS)](http://feeds.feedburner.com/typepad/petewarden)
+* Peter Laurinec - Time series data mining in R https://petolau.github.io/ [(RSS)](https://petolau.github.io/feed.xml)
 * Plotly Blog http://blog.plot.ly/ [(RSS)](http://blog.plot.ly/rss)
 * Probably Overthinking It http://allendowney.blogspot.ca/ [(RSS)](http://allendowney.blogspot.com/feeds/posts/default)
 * Prooffreader.com http://www.prooffreader.com [(RSS)](http://www.prooffreader.com/feeds/posts/default)
