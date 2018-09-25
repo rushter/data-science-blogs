@@ -124,6 +124,7 @@ A curated list of data science blogs
 * Jonas Degrave http://317070.github.io/ [(RSS)](http://317070.github.io/feed.xml)
 * Joy Of Data http://www.joyofdata.de/blog/ [(RSS)](http://www.joyofdata.de/blog/feed/)
 * Julia Evans http://jvns.ca/ [(RSS)](http://jvns.ca/atom.xml)
+* jWork.ORG.  https://jwork.org/ [(RSS)](https://jwork.org/main/rss.xml)
 * KDnuggets http://www.kdnuggets.com/ [(RSS)](http://feeds.feedburner.com/kdnuggets-data-mining-analytics)
 * Keeping Up With The Latest Techniques http://colinpriest.com/ [(RSS)](http://colinpriest.com/feed/)
 * Kenny Bastani http://www.kennybastani.com/ [(RSS)](http://www.kennybastani.com/feeds/posts/default?alt=rss)
