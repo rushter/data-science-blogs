@@ -119,6 +119,7 @@ A curated list of data science blogs
 * Java Machine Learning and DeepLearning http://ramok.tech/machine-learning/ [(RSS)](http://ramok.tech/feed/)
 * Jason Toy http://www.jtoy.net/ [(RSS)](http://jtoy.net/atom.xml)
 * Jeremy D. Jackson, PhD http://www.jeremydjacksonphd.com/ [(RSS)](http://www.jeremydjacksonphd.com/?feed=rss2)
+* jWork.ORG.  https://jwork.org/ [(RSS)](https://jwork.org/main/rss.xml)
 * Jesse Steinweg-Woods https://jessesw.com/ [(RSS)](https://jessesw.com/feed.xml)
 * John Myles White http://www.johnmyleswhite.com/ [(RSS)](http://www.johnmyleswhite.com/feed/)
 * Jonas Degrave http://317070.github.io/ [(RSS)](http://317070.github.io/feed.xml)

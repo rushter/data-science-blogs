@@ -124,6 +124,7 @@
 			<outline type="rss" text="Jonas Degrave" title="Jonas Degrave" xmlUrl="http://317070.github.io/feed.xml" htmlUrl="http://317070.github.io/"/>
 			<outline type="rss" text="Joy Of Data" title="Joy Of Data" xmlUrl="http://www.joyofdata.de/blog/feed/" htmlUrl="http://www.joyofdata.de/blog/"/>
 			<outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="http://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
+			<outline type="rss" text="jWork.ORG" title="jWork.ORG portal" xmlUrl="https://jwork.org/main/rss.xml" htmlUrl="http://jwork.org/"/>
 			<outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="http://www.kdnuggets.com/"/>
 			<outline type="rss" text="Keeping Up With The Latest Techniques" title="Keeping Up With The Latest Techniques" xmlUrl="http://colinpriest.com/feed/" htmlUrl="http://colinpriest.com/"/>
 			<outline type="rss" text="Kenny Bastani" title="Kenny Bastani" xmlUrl="http://www.kennybastani.com/feeds/posts/default?alt=rss" htmlUrl="http://www.kennybastani.com/"/>
