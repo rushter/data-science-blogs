@@ -107,6 +107,7 @@ A curated list of data science blogs
 * Full Stack ML http://fullstackml.com/ [(RSS)](http://fullstackml.com/feed/)
 * GAB41 http://www.lab41.org/gab41/ [(RSS)](http://www.lab41.org/feed/)
 * Garbled Notes http://www.chioka.in/ [(RSS)](http://www.chioka.in/feed.xml)
+* Gradient Metrics Blog http://gradientmetrics.com/blog [(RSS)](http://gradientmetrics.com/feed)
 * Grate News Everyone http://gratenewseveryone.wordpress.com/ [(RSS)](https://gratenewseveryone.wordpress.com/feed/)
 * Greg Reda http://www.gregreda.com/blog/ [(RSS)](http://www.gregreda.com/feeds/all.atom.xml)
 * i am trask http://iamtrask.github.io/ [(RSS)](http://iamtrask.github.io/feed.xml)
