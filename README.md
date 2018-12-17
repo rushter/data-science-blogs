@@ -77,6 +77,8 @@ A curated list of data science blogs
 * Datascope http://datascopeanalytics.com/blog [(RSS)](http://datascopeanalytics.com/rss)
 * DatasFrame http://tomaugspurger.github.io/ [(RSS)](http://tomaugspurger.github.io/feeds/all.rss.xml)
 * David Mimno http://www.mimno.org/ [(RSS)](http://mimno.infosci.cornell.edu/b/feed.xml)
+* David Robinson http://varianceexplained.org/
+[(RSS)](http://varianceexplained.org/feed.xml)
 * Dayne Batten http://daynebatten.com [(RSS)](http://daynebatten.com/feed/)
 * Deep Learning http://deeplearning.net/blog/ [(RSS)](http://deeplearning.net/feed/)
 * Deepdish http://deepdish.io/ [(RSS)](http://deepdish.io/atom.xml)
