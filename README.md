@@ -174,6 +174,7 @@ A curated list of data science blogs
 * My thoughts on Data science, predictive analytics, Python http://shahramabyari.com/ [(RSS)](http://shahramabyari.com/feed/)
 * Natural language processing blog http://nlpers.blogspot.fr/ [(RSS)](http://nlpers.blogspot.com/feeds/posts/default)
 * Neil Lawrence http://inverseprobability.com/blog.html [(RSS)](http://inverseprobability.com/rss.xml)
+* Nikolai Janakiev https://janakiev.com/ [(RSS)](https://janakiev.com/feed.xml)
 * NLP and Deep Learning enthusiast http://camron.xyz/ [(RSS)](http://camron.xyz/index.php/feed/)
 * no free hunch http://blog.kaggle.com/ [(RSS)](http://blog.kaggle.com/feed/)
 * Nuit Blanche http://nuit-blanche.blogspot.com/ [(RSS)](http://nuit-blanche.blogspot.com/feeds/posts/default)
