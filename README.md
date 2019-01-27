@@ -95,6 +95,7 @@ A curated list of data science blogs
 * Eder Santana https://edersantana.github.io/blog.html [(RSS)](http://edersantana.github.io/feed.xml)
 * Edwin Chen http://blog.echen.me [(RSS)](http://blog.echen.me/feeds/all.rss.xml)
 * EFavDB http://efavdb.com/ [(RSS)](http://efavdb.com/feed/)
+* Eigenfoo https://eigenfoo.xyz/ [(RSS)](https://eigenfoo.xyz/feed.xml)
 * Emilio Ferrara, Ph.D.  http://www.emilio.ferrara.name/ [(RSS)](http://www.emilio.ferrara.name/feed/)
 * Entrepreneurial Geekiness http://ianozsvald.com/ [(RSS)](http://ianozsvald.com/feed/)
 * Eric Jonas http://ericjonas.com/archives.html [(RSS)](http://ericjonas.com/archives.html)
