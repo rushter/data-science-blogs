@@ -131,6 +131,7 @@ A curated list of data science blogs
 * Joy Of Data http://www.joyofdata.de/blog/ [(RSS)](http://www.joyofdata.de/blog/feed/)
 * Julia Evans http://jvns.ca/ [(RSS)](http://jvns.ca/atom.xml)
 * jWork.ORG.  https://jwork.org/ [(RSS)](https://jwork.org/main/rss.xml)
+* Kavita Ganesan's NLP and Text Mining Blog http://kavita-ganesan.com/ [(RSS)](http://kavita-ganesan.com/feed/atom)
 * KDnuggets http://www.kdnuggets.com/ [(RSS)](http://feeds.feedburner.com/kdnuggets-data-mining-analytics)
 * Keeping Up With The Latest Techniques http://colinpriest.com/ [(RSS)](http://colinpriest.com/feed/)
 * Kenny Bastani http://www.kennybastani.com/ [(RSS)](http://www.kennybastani.com/feeds/posts/default?alt=rss)
