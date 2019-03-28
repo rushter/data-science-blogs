@@ -244,6 +244,7 @@ A curated list of data science blogs
 * Trevor Stephens http://trevorstephens.com/ [(RSS)](http://trevorstephens.com/feed.xml)
 * Trey Causey http://treycausey.com/ [(RSS)](http://treycausey.com/feeds/all.atom.xml)
 * UW Data Science Blog http://datasciencedegree.wisconsin.edu/blog/ [(RSS)](http://datasciencedegree.wisconsin.edu/feed/)
+* Victor Zhou https://victorzhou.com
 * Wellecks http://wellecks.wordpress.com/ [(RSS)](http://wellecks.wordpress.com/feed/)
 * Wes McKinney http://wesmckinney.com/archives.html [(RSS)](http://wesmckinney.com/feeds/all.atom.xml)
 * While My MCMC Gently Samples http://twiecki.github.io/ [(RSS)](http://twiecki.github.io/atom.xml)
