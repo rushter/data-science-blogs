@@ -87,7 +87,7 @@ A curated list of data science blogs
 * DENNY'S BLOG http://blog.dennybritz.com/ [(RSS)](http://blog.dennybritz.com/feed/)
 * Dimensionless https://dimensionless.in/blog/ [(RSS)](https://dimensionless.in/feed)
 * Distill http://distill.pub/ [(RSS)](http://distill.pub/rss.xml)
-* District Data Labs http://districtdatalabs.silvrback.com/ [(RSS)](https://districtdatalabs.silvrback.com/feed)
+* District Data Labs https://www.districtdatalabs.com/blog
 * Diving into data https://blog.datadive.net/ [(RSS)](http://blog.datadive.net/feed/)
 * Domino Data Lab's blog http://blog.dominodatalab.com/ [(RSS)](http://blog.dominodatalab.com/rss/)
 * Dr. Randal S. Olson http://www.randalolson.com/blog/ [(RSS)](http://www.randalolson.com/feed/)
