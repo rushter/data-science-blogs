@@ -62,6 +62,7 @@ A curated list of data science blogs
 * Data Science @ Facebook https://research.fb.com/category/data-science/ [(RSS)](https://research.fb.com/category/data-science/feed/)
 * Data Science Dojo Blog https://blog.datasciencedojo.com/ [(RSS)](https://blog.datasciencedojo.com/rss/)
 * Data Science Insights http://www.datasciencebowl.com/data-science-insights/ [(RSS)](http://www.datasciencebowl.com/feed/)
+* Data Science Plus https://datascienceplus.com/ [(RSS)](https://datascienceplus.com/feed/)
 * Data Science Tutorials https://codementor.io/data-science/tutorial [(RSS)](https://www.codementor.io/data-science/tutorial/feed)
 * Data Science Vademecum http://datasciencevademecum.wordpress.com/ [(RSS)](http://datasciencevademecum.wordpress.com/feed/)
 * Data Science Notebook http://uconn.science/ [(RSS)](http://uconn.science/feed/)
