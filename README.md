@@ -205,7 +205,7 @@ A curated list of data science blogs
 * Randy Zwitch http://randyzwitch.com/ [(RSS)](http://randyzwitch.com/feed.xml)
 * RaRe Technologies http://rare-technologies.com/blog/ [(RSS)](http://rare-technologies.com/feed/)
 * Rayli.Net http://rayli.net/blog/ [(RSS)](http://rayli.net/blog/feed/)
-* Reinforcement Learning For Fun https://reinforcementlearning4.fun [(RSS) https://reinforcementlearning4.fun/feed]
+* Reinforcement Learning For Fun https://reinforcementlearning4.fun [(RSS)] (https://reinforcementlearning4.fun/feed)
 * Revolutions http://blog.revolutionanalytics.com/ [(RSS)](http://blog.revolutionanalytics.com/atom.xml)
 * Rinu Boney http://rinuboney.github.io/ [(RSS)](http://rinuboney.github.io/feed.xml)
 * RNDuja Blog http://rnduja.github.io/ [(RSS)](http://rnduja.github.io/feed.xml)
