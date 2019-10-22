@@ -261,7 +261,7 @@ A curated list of data science blogs
 * ŷhat http://blog.yhat.com/ [(RSS)](http://blog.yhat.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)](http://outlace.com/feeds/all.atom.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)](http://blog.otoro.net/feed.xml)
-
+* Computer vision introduction: https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720
 
 # RSS
 You can import an [opml file](./data-science.opml) to your favorite RSS reader.  
