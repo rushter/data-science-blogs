@@ -3,7 +3,7 @@ A curated list of data science blogs
 
 * A Blog From a Human-engineer-being http://www.erogol.com/ [(RSS)](http://www.erogol.com/feed/)
 * Aakash Japi http://aakashjapi.com/ [(RSS)](http://logicx24.github.io/feed.xml)
-* Abhinav Sagar https://medium.com/@abhinav.sagar [(RSS)](https://medium.com/@abhinav.sagar)
+* Abhinav Sagar https://medium.com/@abhinav.sagar [(RSS)](https://medium.com/feed/@abhinav.sagar)
 * Adit Deshpande https://adeshpande3.github.io/ [(RSS)](https://adeshpande3.github.io/adeshpande3.github.io/feed.xml)
 * Advanced Analytics & R http://advanceddataanalytics.net/ [(RSS)](http://advanceddataanalytics.net/feed/)
 * Adventures in Data Land http://blog.smola.org [(RSS)](http://blog.smola.org/rss)
