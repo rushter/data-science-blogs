@@ -19,6 +19,7 @@ A curated list of data science blogs
 * Analytics and Visualization in Big Data @ Sicara https://blog.sicara.com [(RSS)](https://blog.sicara.com/feed)
 * Andreas Müller http://peekaboo-vision.blogspot.com/ [(RSS)](http://peekaboo-vision.blogspot.com/atom.xml)
 * Andrej Karpathy blog http://karpathy.github.io/ [(RSS)](http://karpathy.github.io/feed.xml)
+* Andrey Vasnetsov https://comprehension.ml/ [(RSS)](https://comprehension.ml/index.xml)
 * Andrew Brooks http://brooksandrew.github.io/simpleblog/ [(RSS)](http://brooksandrew.github.io/simpleblog/feed.xml)
 * Andrey Kurenkov http://www.andreykurenkov.com/writing/ [(RSS)](http://www.andreykurenkov.com/writing/feed.xml/)
 * Anton Lebedevich's Blog http://mabrek.github.io/ [(RSS)](http://mabrek.github.io/feed.xml)
