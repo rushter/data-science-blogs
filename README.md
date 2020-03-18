@@ -169,6 +169,7 @@ A curated list of data science blogs
 * Matthew Rocklin http://matthewrocklin.com/blog/ [(RSS)](http://matthewrocklin.com/blog/atom.xml)
 * Mic Farris http://www.micfarris.com/ [(RSS)](http://www.micfarris.com/feed/)
 * Mike Tyka http://mtyka.github.io/ [(RSS)](http://mtyka.github.io//feed.xml)
+* MindsDB Blog https://www.mindsdb.com/blog [(RSS)](https://www.mindsdb.com/blog/rss.xml)
 * minimaxir | Max Woolf's Blog http://minimaxir.com/ [(RSS)](http://minimaxir.com/rss.xml)
 * Mirror Image https://mirror2image.wordpress.com/ [(RSS)](http://mirror2image.wordpress.com/feed/)
 * Mitch Crowe http://www.mitchcrowe.com/ [(RSS)](http://feeds.feedburner.com/mitchcrowe/ydqG?format=xml)
