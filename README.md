@@ -164,6 +164,7 @@ A curated list of data science blogs
 * MAPPING BABEL https://jack-clark.net/ [(RSS)](https://jack-clark.net/feed/)
 * MAPR Blog https://mapr.com/blog/
 * MAREK REI http://www.marekrei.com/blog/ [(RSS)](http://www.marekrei.com/blog/feed/)
+* Mark White https://www.markhw.com/blog [(RSS)] (https://www.markhw.com/blog?format=rss)
 * MARGINALLY INTERESTING http://blog.mikiobraun.de/ [(RSS)](http://feeds.feedburner.com/MarginallyInteresting)
 * Math ∩ Programming http://jeremykun.com/ [(RSS)](http://jeremykun.wordpress.com/feed/)
 * Matthew Rocklin http://matthewrocklin.com/blog/ [(RSS)](http://matthewrocklin.com/blog/atom.xml)
