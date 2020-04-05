@@ -221,6 +221,7 @@ A curated list of data science blogs
 * Sebastian Raschka http://sebastianraschka.com/blog/index.html [(RSS)](http://sebastianraschka.com/rss_feed.xml)
 * Sebastian Ruder http://sebastianruder.com/ [(RSS)](http://sebastianruder.com/rss/)
 * Sebastian's slow blog http://www.nowozin.net/sebastian/blog/ [(RSS)](http://www.nowozin.net/sebastian/blog/feeds/all.atom.xml)
+* Self Learn Data Science https://selflearndatascience.com [(RSS)](https://selflearndatascience.com/feed/)
 * SFL Scientific Blog https://sflscientific.com/blog-index/ [(RSS)](http://sflscientific.com/blog/?format=rss)
 * Shakir's Machine Learning Blog http://blog.shakirm.com/ [(RSS)](http://blog.shakirm.com/feed/)
 * Simply Statistics http://simplystatistics.org [(RSS)](http://simplystatistics.org/feed/)
