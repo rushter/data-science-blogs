@@ -15,6 +15,7 @@ A curated list of data science blogs
 * Alex Perrier http://alexisperrier.com/ [(RSS)](http://alexisperrier.com//feed.xml)
 * Algobeans | Data Analytics Tutorials & Experiments for the Layman https://algobeans.com [(RSS)](https://algobeans.com/feed/)
 * Amazon AWS AI Blog https://aws.amazon.com/blogs/ai/ [(RSS)](https://aws.amazon.com/blogs/amazon-ai/feed/)
+* Amit Chaudhary https://amitness.com [(RSS)](https://amitness.com/atom.xml)
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ [(RSS)](http://feeds.feedburner.com/AnalyticsVidhya)
 * Analytics and Visualization in Big Data @ Sicara https://blog.sicara.com [(RSS)](https://blog.sicara.com/feed)
 * Andreas Müller http://peekaboo-vision.blogspot.com/ [(RSS)](http://peekaboo-vision.blogspot.com/atom.xml)
