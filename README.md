@@ -244,6 +244,7 @@ A curated list of data science blogs
 * The Data Camp Blog https://www.datacamp.com/community/blog [(RSS)](http://blog.datacamp.com/feed/)
 * The Data Incubator http://blog.thedataincubator.com/ [(RSS)](http://blog.thedataincubator.com/feed/)
 * The Data Science Lab https://datasciencelab.wordpress.com/ [(RSS)](http://datasciencelab.wordpress.com/feed/)
+* The Data Science Swiss Army Knife https://www.kamwithk.com/ [(RSS)](https://www.kamwithk.com/rss.xml)
 * THE ETZ-FILES http://alexanderetz.com/ [(RSS)](http://nicebrain.wordpress.com/feed/)
 * The Science of Data http://www.martingoodson.com [(RSS)](http://www.martingoodson.com/rss/)
 * The Shape of Data https://shapeofdata.wordpress.com [(RSS)](https://shapeofdata.wordpress.com/feed/)
