@@ -127,6 +127,7 @@
 			<outline type="rss" text="Jonas Degrave" title="Jonas Degrave" xmlUrl="http://317070.github.io/feed.xml" htmlUrl="http://317070.github.io/"/>
 			<outline type="rss" text="Joy Of Data" title="Joy Of Data" xmlUrl="http://www.joyofdata.de/blog/feed/" htmlUrl="http://www.joyofdata.de/blog/"/>
 			<outline type="rss" text="Julia Evans" title="Julia Evans" xmlUrl="http://jvns.ca/atom.xml" htmlUrl="http://jvns.ca/"/>
+			<outline type="rss" text="Julia Silge" title="Julia Silge" htmlUrl="https://juliasilge.com/"/>
 			<outline type="rss" text="jWork.ORG." title="jWork.ORG." xmlUrl="https://jwork.org/main/rss.xml" htmlUrl="https://jwork.org/"/>
 			<outline type="rss" text="Kavita Ganesan&#x27;s NLP and Text Mining Blog" title="Kavita Ganesan&#x27;s NLP and Text Mining Blog" xmlUrl="http://kavita-ganesan.com/feed/atom" htmlUrl="http://kavita-ganesan.com/"/>
 			<outline type="rss" text="KDnuggets" title="KDnuggets" xmlUrl="http://feeds.feedburner.com/kdnuggets-data-mining-analytics" htmlUrl="http://www.kdnuggets.com/"/>
