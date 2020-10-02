@@ -163,6 +163,7 @@ A curated list of data science blogs
 * MLWave http://mlwave.com/ [(RSS)](http://mlwave.com/feed/)
 * MLWhiz http://mlwhiz.com/ [(RSS)](http://mlwhiz.com/atom.xml)
 * Models are illuminating and wrong https://peadarcoyle.wordpress.com/ [(RSS)](http://peadarcoyle.wordpress.com/feed/)
+* Monkey Learn https://monkeylearn.com/blog/ [(RSS)](https://monkeylearn.com/blog/)
 * Moody Rd http://blog.mrtz.org/ [(RSS)](http://blog.mrtz.org/feed.xml)
 * Moonshots http://jxieeducation.com/ [(RSS)](http://jxieeducation.com/feed.xml)
 * Mourad Mourafiq http://mourafiq.com/ [(RSS)](http://mourafiq.com/atom.xml)
