@@ -39,6 +39,7 @@ A curated list of data science blogs
 * Brilliantly wrong thoughts on science and programming https://arogozhnikov.github.io/ [(RSS)](http://arogozhnikov.github.io/feed.xml)
 * Bugra Akyildiz http://bugra.github.io/ [(RSS)](http://bugra.github.io/feeds/all.atom.xml)
 * Carl Shan http://carlshan.com/ [(RSS)](http://feeds.feedburner.com/carlshan)
+* Casual Inference https://lmc2179.github.io/ [(RSS)](https://lmc2179.github.io/feed.xml)
 * Chris Stucchio https://www.chrisstucchio.com/blog/index.html [(RSS)](http://www.chrisstucchio.com/blog/atom.xml)
 * Christophe Bourguignat https://medium.com/@chris_bour [(RSS)](https://medium.com/feed/@chris_bour)
 * Christopher Nguyen https://medium.com/@ctn [(RSS)](https://medium.com/feed/@ctn)
