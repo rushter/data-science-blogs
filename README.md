@@ -116,6 +116,7 @@ A curated list of data science blogs
 * I’m a bandit https://blogs.princeton.edu/imabandit/ [(RSS)](https://blogs.princeton.edu/imabandit/feed/)
 * Java Machine Learning and DeepLearning http://ramok.tech/machine-learning/ [(RSS)](http://ramok.tech/feed/)
 * Jason Toy http://www.jtoy.net/ [(RSS)](http://jtoy.net/atom.xml)
+* jbencook https://jbencook.com/ [(RSS)](https://jbencook.com/feed.xml)
 * Jeremy D. Jackson, PhD http://www.jeremydjacksonphd.com/ [(RSS)](http://www.jeremydjacksonphd.com/?feed=rss2)
 * Jesse Steinweg-Woods https://jessesw.com/ [(RSS)](https://jessesw.com/feed.xml)
 * John Myles White http://www.johnmyleswhite.com/ [(RSS)](http://www.johnmyleswhite.com/feed/)
