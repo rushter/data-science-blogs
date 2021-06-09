@@ -121,6 +121,7 @@ A curated list of data science blogs
 * Jesse Steinweg-Woods https://jessesw.com/ [(RSS)](https://jessesw.com/feed.xml)
 * John Myles White http://www.johnmyleswhite.com/ [(RSS)](http://www.johnmyleswhite.com/feed/)
 * Jonas Degrave http://317070.github.io/ [(RSS)](http://317070.github.io/feed.xml)
+* Jovian https://blog.jovian.ai/ [(RSS)](https://blog.jovian.ai/feed)
 * Joy Of Data http://www.joyofdata.de/blog/ [(RSS)](http://www.joyofdata.de/blog/feed/)
 * Julia Evans http://jvns.ca/ [(RSS)](http://jvns.ca/atom.xml)
 * jWork.ORG.  https://jwork.org/ [(RSS)](https://jwork.org/main/rss.xml)
