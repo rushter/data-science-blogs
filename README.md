@@ -74,6 +74,7 @@ A curated list of data science blogs
 * David Mimno http://www.mimno.org/ [(RSS)](http://mimno.infosci.cornell.edu/b/feed.xml)
 * David Robinson http://varianceexplained.org/ [(RSS)](http://varianceexplained.org/feed.xml)
 * Dayne Batten http://daynebatten.com [(RSS)](http://daynebatten.com/feed/)
+* Deep and Shallow https://deep-and-shallow.com [(RSS)](https://deep-and-shallow.com/feed/)
 * Deep Learning http://deeplearning.net/blog/ [(RSS)](http://deeplearning.net/feed/)
 * Deepdish http://deepdish.io/ [(RSS)](http://deepdish.io/atom.xml)
 * Delip Rao http://deliprao.com/ [(RSS)](http://deliprao.com/feed)
