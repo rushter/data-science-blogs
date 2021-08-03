@@ -141,7 +141,7 @@ A curated list of data science blogs
 * Learning With Data https://learningwithdata.com/ [(RSS)](http://learningwithdata.com/feeds/all.atom.xml)
 * Life, Language, Learning http://daoudclarke.github.io/ [(RSS)](http://daoudclarke.github.io/atom.xml)
 * Locke Data https://itsalocke.com/blog/ [(RSS)](https://itsalocke.com/feed)
-* Loic Tetrel https://ltetrel.github.io/
+* Loic Tetrel https://ltetrel.github.io/ [(RSS)](https://ltetrel.github.io/feed.xml)
 * Louis Dorard http://www.louisdorard.com/blog/ [(RSS)](http://www.louisdorard.com/blog?format=rss)
 * M.E.Driscoll http://medriscoll.com/ [(RSS)](http://medriscoll.com/rss)
 * Machine Learning (Theory) http://hunch.net/ [(RSS)](http://hunch.net/?feed=rss2)
