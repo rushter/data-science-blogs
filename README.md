@@ -45,6 +45,7 @@ A curated list of data science blogs
 * Christopher Nguyen https://medium.com/@ctn [(RSS)](https://medium.com/feed/@ctn)
 * cnvrg.io blog https://blog.cnvrg.io/ [(RSS)](https://blog.cnvrg.io/)
 * colah's blog http://colah.github.io/archive.html [(RSS)](http://colah.github.io/rss.xml)
+* Daniel Bourke https://www.mrdbourke.com [(RSS)](https://www.mrdbourke.com/rss/)
 * Daniel Forsyth http://www.danielforsyth.me/ [(RSS)](http://www.danielforsyth.me/rss/)
 * Daniel Homola https://danielhomola.com/ [(RSS)](https://danielhomola.com/feed.xml)
 * Data Blogger https://www.data-blogger.com/ [(RSS)](https://www.data-blogger.com/feed/)
