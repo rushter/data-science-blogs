@@ -21,6 +21,7 @@ A curated list of data science blogs
 * Andrey Vasnetsov https://comprehension.ml/ [(RSS)](https://comprehension.ml/index.xml)
 * Andrew Brooks http://brooksandrew.github.io/simpleblog/ [(RSS)](http://brooksandrew.github.io/simpleblog/feed.xml)
 * Andrey Kurenkov http://www.andreykurenkov.com/writing/ [(RSS)](http://www.andreykurenkov.com/writing/feed.xml/)
+* Andrii Polukhin https://polukhin.tech/ [(RSS)](https://polukhin.tech/feed.xml)
 * Anton Lebedevich's Blog http://mabrek.github.io/ [(RSS)](http://mabrek.github.io/feed.xml)
 * Arthur Juliani https://medium.com/@awjuliani [(RSS)](https://medium.com/feed/@awjuliani)
 * Audun M. Øygard http://www.auduno.com/ [(RSS)](http://auduno.tumblr.com/rss)
