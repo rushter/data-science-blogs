@@ -253,6 +253,7 @@
 			<outline type="rss" text="ŷhat" title="ŷhat" xmlUrl="http://blog.yhat.com/rss.xml" htmlUrl="http://blog.yhat.com/"/>
 			<outline type="rss" text="ℚuantitative √ourney" title="ℚuantitative √ourney" xmlUrl="http://outlace.com/feeds/all.atom.xml" htmlUrl="http://outlace.com/"/>
 			<outline type="rss" text="大トロ" title="大トロ" xmlUrl="http://blog.otoro.net/feed.xml" htmlUrl="http://blog.otoro.net/"/>
+			<outline type="rss" text="nbshare" title=" Share Your R and Python Notebooks" xmlUrl="https://www.nbshare.io/feeds/all.atom.xml" htmlUrl="https://www.nbshare.io/"/>
         </outline>
     </body>
 </opml>
