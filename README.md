@@ -23,6 +23,7 @@ A curated list of data science blogs
 * Andrey Kurenkov http://www.andreykurenkov.com/writing/ [(RSS)](http://www.andreykurenkov.com/writing/feed.xml/)
 * Andrii Polukhin https://polukhin.tech/ [(RSS)](https://polukhin.tech/feed.xml)
 * Anton Lebedevich's Blog http://mabrek.github.io/ [(RSS)](http://mabrek.github.io/feed.xml)
+* Arize AI ML Observability Blog https://arize.com/blog/ [(RSS)](https://arize.com/feed/)
 * Arthur Juliani https://medium.com/@awjuliani [(RSS)](https://medium.com/feed/@awjuliani)
 * Audun M. Øygard http://www.auduno.com/ [(RSS)](http://auduno.tumblr.com/rss)
 * Avi Singh https://avisingh599.github.io/ [(RSS)](http://avisingh599.github.io/feed.xml)
