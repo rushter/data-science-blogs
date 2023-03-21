@@ -257,6 +257,7 @@ A curated list of data science blogs
 * ŷhat http://blog.yhat.com/ [(RSS)](http://blog.yhat.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)](http://outlace.com/feeds/all.atom.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)](http://blog.otoro.net/feed.xml)
+* Plumbers Of Data Science https://medium.com/plumbersofdatascience/sql-for-data-science-interview-roadmap-be03aac4ae14 [(RSS)](https://medium.com/plumbersofdatascience/sql-for-data-science-interview-roadmap-be03aac4ae14)
 
 
 # RSS
