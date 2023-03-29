@@ -110,6 +110,7 @@ A curated list of data science blogs
 * Garbled Notes http://www.chioka.in/ [(RSS)](http://www.chioka.in/feed.xml)
 * Grate News Everyone http://gratenewseveryone.wordpress.com/ [(RSS)](https://gratenewseveryone.wordpress.com/feed/)
 * Greg Reda http://www.gregreda.com/blog/ [(RSS)](http://www.gregreda.com/feeds/all.atom.xml)
+* Hevo Blog https://hevodata.com/learn/ [(RSS)](https://hevodata.com/learn/feed/)
 * i am trask http://iamtrask.github.io/ [(RSS)](http://iamtrask.github.io/feed.xml)
 * I Quant NY http://iquantny.tumblr.com/ [(RSS)](http://iquantny.tumblr.com/rss)
 * inFERENCe http://www.inference.vc/ [(RSS)](http://www.inference.vc/rss/)
