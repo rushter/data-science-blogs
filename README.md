@@ -9,6 +9,7 @@ A curated list of data science blogs
 * Adventures in Data Land http://blog.smola.org [(RSS)](http://blog.smola.org/rss)
 * Ahmed BESBES https://ahmedbesbes.com/ [(RSS)](https://ahmedbesbes.com/feeds/all.atom.xml)
 * Ahmed El Deeb https://medium.com/@D33B [(RSS)](https://medium.com/feed/@D33B)
+* AI Pool https://ai-pool.com/ [(RSS)](https://ai-pool.com/feed.xml)
 * Airbnb Data blog https://medium.com/airbnb-engineering/tagged/data-science [(RSS)](https://medium.com/airbnb-engineering/tagged/data-science)
 * Alex Perrier http://alexisperrier.com/ [(RSS)](http://alexisperrier.com//feed.xml)
 * Algobeans | Data Analytics Tutorials & Experiments for the Layman https://algobeans.com [(RSS)](https://algobeans.com/feed/)
