@@ -153,6 +153,7 @@ A curated list of data science blogs
 * Machine Learning Blogs https://machinelearningblogs.com/ [(RSS)](https://machinelearningblogs.com/feed/)
 * Machine Learning, etc http://yaroslavvb.blogspot.com [(RSS)](http://yaroslavvb.blogspot.com/feeds/posts/default)
 * Machine Learning, Maths and Physics https://mlopezm.wordpress.com/ [(RSS)](https://mlopezm.wordpress.com/feed/)
+* Machine Learning Observability https://arize.com/blog-course/ [(RSS)](https://www.arize.com/feed/)
 * Machined Learnings http://www.machinedlearnings.com/ [(RSS)](http://www.machinedlearnings.com/feeds/posts/default)
 * MAPPING BABEL https://jack-clark.net/ [(RSS)](https://jack-clark.net/feed/)
 * MAPR Blog https://mapr.com/blog/
