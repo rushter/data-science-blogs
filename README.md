@@ -257,6 +257,7 @@ A curated list of data science blogs
 * ŷhat http://blog.yhat.com/ [(RSS)](http://blog.yhat.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)](http://outlace.com/feeds/all.atom.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)](http://blog.otoro.net/feed.xml)
+* Scaler Blogs [(RSS)](https://www.scaler.com/blog/category/data-science-business-analytics/)
 
 
 # RSS
