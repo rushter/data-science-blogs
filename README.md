@@ -254,6 +254,7 @@ A curated list of data science blogs
 * Win-Vector Blog http://www.win-vector.com/blog/ [(RSS)](http://www.win-vector.com/blog/feed/)
 * Yanir Seroussi http://yanirseroussi.com/ [(RSS)](http://yanirseroussi.com/feed/)
 * Zac Stewart http://zacstewart.com/ [(RSS)](http://zacstewart.com/feed.xml)
+* 8bitconcepts https://8bitconcepts.com/ [(RSS)](https://8bitconcepts.com/feed.xml)
 * ŷhat http://blog.yhat.com/ [(RSS)](http://blog.yhat.com/rss.xml)
 * ℚuantitative √ourney http://outlace.com/ [(RSS)](http://outlace.com/feeds/all.atom.xml)
 * 大トロ http://blog.otoro.net/ [(RSS)](http://blog.otoro.net/feed.xml)
