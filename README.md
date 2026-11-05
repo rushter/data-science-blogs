@@ -180,6 +180,7 @@ A curated list of data science blogs
 * Nuit Blanche http://nuit-blanche.blogspot.com/ [(RSS)](http://nuit-blanche.blogspot.com/feeds/posts/default)
 * Number 2147483647 https://no2147483647.wordpress.com/ [(RSS)](http://no2147483647.wordpress.com/feed/)
 * On Machine Intelligence https://aimatters.wordpress.com/ [(RSS)](https://aimatters.wordpress.com/feed/)
+* Open Source Analytics https://opensource-analytics.com/ [(RSS)](https://opensource-analytics.com/feed/)
 * Opiate for the masses Data is our religion. http://opiateforthemass.es/ [(RSS)](http://opiateforthemass.es/feed.xml)
 * p-value.info http://www.p-value.info/ [(RSS)](http://www.p-value.info/feeds/posts/default)
 * Pete Warden's blog http://petewarden.com/ [(RSS)](http://feeds.feedburner.com/typepad/petewarden)
